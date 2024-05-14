@@ -31,7 +31,7 @@
                                                         omputing Test Taking service, ProExamTakers is your trusted
                                                         partner in achieving any certification excellence.</p>
 
-                                                    
+
                                                 </div>
 
 
@@ -39,13 +39,11 @@
                                                     <h3>Certwizard links</h3>
 
                                                     <ul>
-                                                        <li><a href="/">Home</a></li>
-                                                        <li><a href="/about/certwizard">About Us</a>
+                                                        <li><a href="/proexamtakers/index.php">Home</a></li>
+
                                                         </li>
-                                                        <li><a href="/about/privacy-policy">Privacy
-                                                                policy</a></li>
-                                                        <li><a href="/contact-us">Contact us</a></li>
-                                                        <li><a href="/about/faq">FAQ</a></li>
+                                                        <li><a href="/proexamtakers/about.html">About</a>
+                                                        <li><a href="/proexamtakers/contact.html">Contact US</a>
                                                     </ul>
                                                 </div>
 
@@ -54,25 +52,25 @@
                                                     <h3>Main IT Certification Programs</h3>
 
                                                     <ul>
-                                                        <li><a href="/microsoft" rel=" noopener"
-                                                                target="_blank">Microsoft</a></li>
-                                                        <li><a href="/cisco" rel=" noopener" target="_blank">Cisco</a>
-                                                        </li>
-                                                        <li><a href="/comptia" rel=" noopener"
+                                                        <li><a href="../microsoft/" rel=" noopener"
+                                                                target="_blank">Mircosoft</a></li>
+                                                        <li><a href="../cisco/" rel=" noopener"
+                                                                target="_blank">Cisco</a></li>
+                                                        <li><a href="../comptia/" rel=" noopener"
                                                                 target="_blank">CompTIA</a></li>
-                                                        <li><a href="/ec-council" rel=" noopener"
-                                                                target="_blank">EC-Council&nbsp;</a>
+                                                        <li><a href="../ec-council/" rel=" noopener"
+                                                                target="_blank">EC-Council</a></li>
+                                                        <li><a href="../isaca/" rel=" noopener"
+                                                                target="_blank">ISACA</a></li>
+                                                        <li><a href="../aws/" rel=" noopener" target="_blank">AWS</a>
                                                         </li>
-                                                        <li><a href="/isaca" rel=" noopener"
-                                                                target="_blank">ISACA&nbsp;</a></li>
-                                                        <li><a href="/aws" rel=" noopener" target="_blank">AWS</a></li>
-                                                        <li><a href="/pmi" rel=" noopener" target="_blank">PMI</a></li>
-                                                        <li><a href="/isc2" rel=" noopener" target="_blank">(ISC)²</a>
+                                                        <li><a href="../pmi/" rel=" noopener" target="_blank">PMI</a>
                                                         </li>
-                                                        <li><a href="/itil" rel=" noopener"
-                                                                target="_blank">ITIL&nbsp;</a></li>
-                                                        <li><a href="/six-sigma" rel=" noopener" target="_blank">Six
-                                                                Sigma</a></li>
+                                                        <li><a href="../itil/" rel=" noopener"
+                                                                target="_blank">ITIL</a></li>
+                                                        <li><a href="../six-sigma/" rel=" noopener"
+                                                                target="_blank">Six Sigma</a></li>
+
                                                     </ul>
                                                 </div>
 
@@ -81,44 +79,28 @@
                                                     <h3>Other IT Certification Programs</h3>
 
                                                     <ul>
-                                                        <li><a href="/google" rel=" noopener" target="_blank">Google</a>
+                                                        <li><a href="../ged/" rel=" noopener" target="_blank">GED</a>
                                                         </li>
-                                                        <li><a href="/prince2" rel=" noopener"
-                                                                target="_blank">PRINCE2</a></li>
-                                                        <li><a href="/vmware" rel=" noopener" target="_blank">VMware</a>
-                                                        </li>
-                                                        <li><a href="/citrix" rel=" noopener" target="_blank">Citrix</a>
-                                                        </li>
-                                                        <li><a href="/mile2" rel=" noopener" target="_blank">Mile2</a>
-                                                        </li>
-                                                        <li><a href="/opengroup" rel=" noopener" target="_blank">The
-                                                                Open Group</a></li>
-                                                        <li><a href="/scrum" rel=" noopener" target="_blank">SCRUM</a>
-                                                        </li>
-                                                        <li><a href="/oracle" rel=" noopener" target="_blank">Oracle</a>
-                                                        </li>
-                                                        <li><a href="/gaqm" rel=" noopener" target="_blank">GAQM</a>
-                                                        </li>
-                                                        <li><a href="/salesforce" rel=" noopener"
+                                                        <li><a href="../ati-teas/" rel=" noopener"
+                                                                target="_blank">ATI TEAS</a></li>
+                                                        <li><a href="../prince2/" rel=" noopener"
+                                                                target="_blank">Prince2</a></li>
+                                                        <li><a href="../oracle/" rel=" noopener"
+                                                                target="_blank">Oracle</a></li>
+                                                        <li><a href="../scrum/" rel=" noopener"
+                                                                target="_blank">SCRUM</a></li>
+                                                        <li><a href="../exin/" rel=" noopener"
+                                                                target="_blank">EXIN</a></li>
+                                                        <li><a href="../hrci/" rel=" noopener"
+                                                                target="_blank">HRCI</a></li>
+                                                        <li><a href="../salesforce/" rel=" noopener"
                                                                 target="_blank">Salesforce</a></li>
-                                                        <li><a href="/juniper" rel=" noopener"
-                                                                target="_blank">Juniper</a></li>
-                                                        <li><a href="/checkpoint" rel=" noopener" target="_blank">Check
-                                                                Point</a></li>
-                                                        <li><a href="/exin" rel=" noopener" target="_blank">EXIN</a>
-                                                        </li>
-                                                        <li><a href="/cwnp" rel=" noopener" target="_blank">CWNP</a>
-                                                        </li>
-                                                        <li><a href="/tableau" rel=" noopener"
-                                                                target="_blank">Tableau</a></li>
-                                                        <li><a href="/beingcert" rel=" noopener"
-                                                                target="_blank">Beingcert</a></li>
-                                                        <li><a href="/splunk" rel=" noopener" target="_blank">Splunk</a>
-                                                        </li>
-                                                        <li><a href="/kubernetes" rel=" noopener"
-                                                                target="_blank">Kubernetes</a></li>
+
+
+
                                                     </ul>
                                                 </div>
+
 
 
                                                 <div class="col-12 col-field_copyright ">

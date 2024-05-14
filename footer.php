@@ -69,11 +69,10 @@
                                                     <h3>ProExamTakers</h3>
 
                                                     <ul>
-                                                        <li><a href="/">Home</a></li>
-                                                        <li><a href="#">Top Certification Exams</a>
+                                                        <li><a href="index.php">Home</a></li>
+
                                                         </li>
                                                         <li><a href="about.html">About</a>
-                                                        <li><a href="#">Blog</a>
                                                         <li><a href="contact.html">Contact US</a>
                                                     </ul>
                                                 </div>
@@ -83,13 +82,24 @@
                                                     <h3>Main IT Certification Programs</h3>
 
                                                     <ul>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
+                                                        <li><a href="pages/microsoft/" rel=" noopener"
+                                                                target="_blank">Mircosoft</a></li>
+                                                        <li><a href="pages/cisco/" rel=" noopener"
+                                                                target="_blank">Cisco</a></li>
+                                                        <li><a href="pages/comptia/" rel=" noopener"
+                                                                target="_blank">CompTIA</a></li>
+                                                        <li><a href="pages/ec-council/" rel=" noopener"
+                                                                target="_blank">EC-Council</a></li>
+                                                        <li><a href="pages/isaca/" rel=" noopener"
+                                                                target="_blank">ISACA</a></li>
+                                                        <li><a href="pages/aws/" rel=" noopener" target="_blank">AWS</a>
+                                                        </li>
+                                                        <li><a href="pages/pmi/" rel=" noopener" target="_blank">PMI</a>
+                                                        </li>
+                                                        <li><a href="pages/itil/" rel=" noopener"
+                                                                target="_blank">ITIL</a></li>
+                                                        <li><a href="pages/six-sigma/" rel=" noopener"
+                                                                target="_blank">Six Sigma</a></li>
 
                                                     </ul>
                                                 </div>
@@ -99,18 +109,24 @@
                                                     <h3>Other IT Certification Programs</h3>
 
                                                     <ul>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
-                                                        <li><a href="#" rel=" noopener" target="_blank">Demo</a></li>
+                                                        <li><a href="pages/ged/" rel=" noopener" target="_blank">GED</a>
+                                                        </li>
+                                                        <li><a href="pages/ati-teas/" rel=" noopener"
+                                                                target="_blank">ATI TEAS</a></li>
+                                                        <li><a href="pages/prince2/" rel=" noopener"
+                                                                target="_blank">Prince2</a></li>
+                                                        <li><a href="pages/oracle/" rel=" noopener"
+                                                                target="_blank">Oracle</a></li>
+                                                        <li><a href="pages/scrum/" rel=" noopener"
+                                                                target="_blank">SCRUM</a></li>
+                                                        <li><a href="pages/exin/" rel=" noopener"
+                                                                target="_blank">EXIN</a></li>
+                                                        <li><a href="pages/hrci/" rel=" noopener"
+                                                                target="_blank">HRCI</a></li>
+                                                        <li><a href="pages/salesforce/" rel=" noopener"
+                                                                target="_blank">Salesforce</a></li>
+
+
 
                                                     </ul>
                                                 </div>
