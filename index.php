@@ -723,7 +723,7 @@
                                                                         <span class="field-content">
                                                                             <div class="left">
                                                                                 <img loading="lazy"
-                                                                                    src="images/laptop-2562325_640.jpg"
+                                                                                    src="images/side2.jpg"
                                                                                     width="440" height="293"
                                                                                     alt="IT Exam PASS without a study guide"
                                                                                     typeof="Image"
@@ -731,7 +731,7 @@
 
 
                                                                                 <img loading="lazy"
-                                                                                    src="images/bed-1979270_1280_0.jpg"
+                                                                                    src="images/side1.jpg"
                                                                                     width="440" height="463"
                                                                                     alt="100% Pass without Training, Study Guide or Test"
                                                                                     typeof="Image"

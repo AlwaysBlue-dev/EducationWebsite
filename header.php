@@ -32,7 +32,7 @@
     <style media="screen and (min-width: 581px)">
     .block-views-blockslider-home-page-block-1 .background-image-slider:before {
         background-color: #FFFFFF;
-        background-image: url('images/certwizard-slider_1.jpg');
+        background-image: url('images/banner3.jpg');
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-position: center center;
@@ -46,7 +46,7 @@
     <style media="screen and (max-width: 580px)">
     .block-views-blockslider-home-page-block-1 .background-image-slider:before {
         background-color: #FFFFFF;
-        background-image: url('images/certwizard-slider.jpg');
+        background-image: url('images/banner3.jpg');
         background-repeat: no-repeat;
         background-attachment: scroll;
         background-position: center center;
