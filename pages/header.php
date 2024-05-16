@@ -4,22 +4,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="images/favicon_0.png" type="image/png">
+    <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon">
 
-    <title>Microsoft Certifications | ProExamTakers</title>
+    <title>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</title>
     <link rel="stylesheet" media="all" href="css/css_LLiICWna101nNIKOt54Q7E-mxH73Y8zRqXpwcB9skKc.css">
     <link rel="stylesheet" media="all" href="css/css_F5EjW9vP3AUqPYJdjAcOrOlcxAi_eaHmzxwkgq37LY4.css">
     <link rel="stylesheet" media="all" href="css/css_dsoNCNJ2K8CmbfDY3V0u38ClRs4Sieayf5KQqXXI_7A.css">
 
     <script src="js/all.js" defer="" crossorigin="anonymous"></script>
     <script src="js/v4-shims.js" defer="" crossorigin="anonymous"></script>
-<style>
-
-.dropdown-menu {
-    max-height: 400px; /* Adjust this value as needed */
-    overflow-y: auto;
-}
-</style>
+    <style>
+    .dropdown-menu {
+        max-height: 400px;
+        /* Adjust this value as needed */
+        overflow-y: auto;
+    }
+    </style>
 </head>
 
 <body class="layout-no-sidebars page-taxonomy-term-1 page-vocabulary-certification path-taxonomy">
@@ -31,9 +31,8 @@
                 <header id="header" class="header" role="banner" aria-label="Site header">
                     <nav class="navbar navbar-dark bg-transparent navbar-expand-lg" id="navbar-main">
                         <div class="container">
-                            <a href="/proexamtakers/index.php" title="Home" rel="home" class="navbar-brand">
-                                <img src="/proexamtakers/images/logo_dark.png" alt="Home"
-                                    class="img-fluid d-inline-block align-top">
+                            <a href="/index.php" title="Home" rel="home" class="navbar-brand">
+                                <img src="/images/logo_dark.png" alt="Home" class="img-fluid d-inline-block align-top">
                                 <span class="ml-2 d-none d-md-inline">ProExamTakers</span>
                             </a>
 
@@ -52,7 +51,7 @@
 
                                     <ul block="block-certwizard-mainnavigation" class="clearfix nav navbar-nav">
                                         <li class="nav-item">
-                                            <a href="/proexamtakers/index.php" class="nav-link nav-link-- is-active"
+                                            <a href="/index.php" class="nav-link nav-link-- is-active"
                                                 data-drupal-link-system-path="<front>">Home</a>
                                         </li>
 
@@ -60,7 +59,7 @@
                                         <li class="nav-item menu-item--expanded dropdown">
                                             <a href="/microsoft" class="nav-link dropdown-toggle nav-link--microsoft"
                                                 data-toggle="dropdown" aria-expanded="false" aria-haspopup="true"
-                                                data-drupal-link-system-path="taxonomy/term/1">Top 10 IT certification
+                                                data-drupal-link-system-path="taxonomy/term/1">Top IT certification
                                                 programs</a>
                                             <ul class="dropdown-menu">
                                                 <li class="dropdown-item">
@@ -134,13 +133,13 @@
                                             </ul>
 
                                         <li class="nav-item">
-                                            <a href="/proexamtakers/about.php" class="nav-link nav-link-- is-active"
+                                            <a href="/about.php" class="nav-link nav-link-- is-active"
                                                 data-drupal-link-system-path="<front>">About
                                             </a>
                                         </li>
 
                                         <li class="nav-item">
-                                            <a href="/proexamtakers/contact.php" class="nav-link nav-link-- is-active"
+                                            <a href="/contact.php" class="nav-link nav-link-- is-active"
                                                 data-drupal-link-system-path="<front>">Contact
                                                 US</a>
                                         </li>
@@ -155,3 +154,57 @@
                         </div>
                     </nav>
                 </header>
+
+                <!--Start of Tawk.to Script-->
+                <script type="text/javascript">
+                var Tawk_API = Tawk_API || {},
+                    Tawk_LoadStart = new Date();
+                (function() {
+                    var s1 = document.createElement("script"),
+                        s0 = document.getElementsByTagName("script")[0];
+                    s1.async = true;
+                    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+                    s1.charset = 'UTF-8';
+                    s1.setAttribute('crossorigin', '*');
+                    s0.parentNode.insertBefore(s1, s0);
+                })();
+                </script>
+                <!--End of Tawk.to Script-->
+
+                <script>
+                var url = 'https://wati-integration-prod-service.clare.ai/v2/watiWidget.js?96136';
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = url;
+                var options = {
+                    "enabled": true,
+                    "chatButtonSetting": {
+                        "backgroundColor": "#00e785",
+                        "ctaText": "Get Instant Quote",
+                        "borderRadius": "25",
+                        "marginLeft": "20", 
+                        "marginRight": "0",
+                        "marginBottom": "20",
+                        "ctaIconWATI": false,
+                        "position": "left" 
+                    },
+                    "brandSetting": {
+                        "brandName": "ProExamTakers",
+                        "brandSubTitle": "undefined",
+                        "brandImg": "https://www.wati.io/wp-content/uploads/2023/04/Wati-logo.svg",
+                        "welcomeText": "Hi there!\nHow can I help you?",
+                        "messageText": "Hello, %0A I have a question about {{page_link}}",
+                        "backgroundColor": "#00e785",
+                        "ctaText": "Get Instant Quote",
+                        "borderRadius": "25",
+                        "autoShow": false,
+                        "phoneNumber": "923173406814"
+                    }
+                };
+                s.onload = function() {
+                    CreateWhatsappChatWidget(options);
+                };
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+                </script>

@@ -44,9 +44,12 @@
                                                         <div class="view-header">
                                                             <div class="custom-title-and-subtitle-margin-bottom">
                                                                 <h2>Certifications that We offer.</h2>
-                                                                <p>CertWizard is a leader in the PROXY TEST-TAKING
-                                                                    service and your best friend when it comes to IT
-                                                                    certification service.</p>
+                                                                <p>ProExamTakers excels in Proxy Test-Taking and
+                                                                    Cloud-Computing
+                                                                    Technology services and stands as your ultimate ally
+                                                                    in any type
+                                                                    of certification exams service. Hire us to Get any
+                                                                    Examination done without Hassle.</p>
                                                             </div>
                                                         </div>
 
@@ -55,8 +58,8 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/isaca/certification-program"
-                                                                            hreflang="en">ISACA Certification
-                                                                            program</a></h3>
+                                                                            hreflang="en">GED Certification
+                                                                            Program</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
                                                                     <div class="field-content">
@@ -73,11 +76,23 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/cisa"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CISA
-                                                                                                        - Certified
-                                                                                                        Information
-                                                                                                        Systems
-                                                                                                        Auditor</span>
+                                                                                                        class="field field--name-title field--type-string field--label-hidden">Mathematics
+                                                                                                        - Mathematics
+                                                                                                        covers algebra,
+                                                                                                        geometry,
+                                                                                                        graphs, and
+                                                                                                        more. We offer
+                                                                                                        free GED classes
+                                                                                                        online for
+                                                                                                        adults to help
+                                                                                                        you prepare for
+                                                                                                        these
+                                                                                                        challenging
+                                                                                                        topics. Join our
+                                                                                                        classes to
+                                                                                                        master math and
+                                                                                                        do well on your
+                                                                                                        GED test.</span>
                                                                                                 </a>
                                                                                             </h4>
 
@@ -89,13 +104,28 @@
                                                                                                 class="field field--name-body field--type-text-with-summary field--label-above">
                                                                                                 <div
                                                                                                     class="field__label">
-                                                                                                    Exam</div>
+                                                                                                </div>
                                                                                                 <div
                                                                                                     class="field__item">
-                                                                                                    <p><strong>CISA</strong>
-                                                                                                        - Certified
-                                                                                                        Information
-                                                                                                        Systems Auditor
+                                                                                                    <p><strong>Social
+                                                                                                            Studies</strong>
+                                                                                                        - We provide
+                                                                                                        support to
+                                                                                                        navigate Social
+                                                                                                        Studies
+                                                                                                        complexities.
+                                                                                                        Pay someone to
+                                                                                                        take my GED test
+                                                                                                        online and
+                                                                                                        benefit from our
+                                                                                                        expert tutors
+                                                                                                        who will guide
+                                                                                                        you through the
+                                                                                                        exam. With our
+                                                                                                        help, you can
+                                                                                                        achieve high
+                                                                                                        grades on the
+                                                                                                        GED test.
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
@@ -114,11 +144,23 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/cism"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CISM
-                                                                                                        - Certified
-                                                                                                        Information
-                                                                                                        Security
-                                                                                                        Manager</span>
+                                                                                                        class="field field--name-title field--type-string field--label-hidden">Science
+                                                                                                        - Our science
+                                                                                                        experts will
+                                                                                                        guide you
+                                                                                                        through
+                                                                                                        experimental
+                                                                                                        design and
+                                                                                                        interpreting
+                                                                                                        results. Invest
+                                                                                                        in GED test
+                                                                                                        preparation and
+                                                                                                        unlock the
+                                                                                                        expertise of our
+                                                                                                        skilled tutors
+                                                                                                        to conquer the
+                                                                                                        test with
+                                                                                                        confidence.</span>
                                                                                                 </a>
                                                                                             </h4>
 
@@ -130,13 +172,29 @@
                                                                                                 class="field field--name-body field--type-text-with-summary field--label-above">
                                                                                                 <div
                                                                                                     class="field__label">
-                                                                                                    Exam</div>
+                                                                                                </div>
                                                                                                 <div
                                                                                                     class="field__item">
-                                                                                                    <p><strong>CISM</strong>
-                                                                                                        - Certified
-                                                                                                        Information
-                                                                                                        Security Manager
+                                                                                                    <p><strong>Language
+                                                                                                            Arts</strong>
+                                                                                                        - Language arts
+                                                                                                        includes
+                                                                                                        reading,
+                                                                                                        argument
+                                                                                                        creation, and
+                                                                                                        grammar mastery.
+                                                                                                        We will help you
+                                                                                                        navigate the
+                                                                                                        language arts
+                                                                                                        section of the
+                                                                                                        GED test with
+                                                                                                        expert
+                                                                                                        assistance and
+                                                                                                        tips. Embrace
+                                                                                                        the challenge
+                                                                                                        with our help
+                                                                                                        and excel in the
+                                                                                                        GED test.
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
@@ -155,12 +213,11 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/crisc"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CRISC
-                                                                                                        - Certified in
-                                                                                                        Risk and
-                                                                                                        Information
-                                                                                                        Systems
-                                                                                                        Control</span>
+                                                                                                        class="field field--name-title field--type-string field--label-hidden">Why
+                                                                                                        Choose Us to
+                                                                                                        Take Your GED
+                                                                                                        Exam?
+                                                                                                    </span>
                                                                                                 </a>
                                                                                             </h4>
 
@@ -172,14 +229,53 @@
                                                                                                 class="field field--name-body field--type-text-with-summary field--label-above">
                                                                                                 <div
                                                                                                     class="field__label">
-                                                                                                    Exam</div>
+                                                                                                </div>
                                                                                                 <div
                                                                                                     class="field__item">
-                                                                                                    <p><strong>CRISC</strong>
-                                                                                                        - Certified in
-                                                                                                        Risk and
-                                                                                                        Information
-                                                                                                        Systems Control
+                                                                                                    <p><strong> - Highly
+                                                                                                            Experienced
+                                                                                                            Professionals:
+                                                                                                            Our team of
+                                                                                                            experts has
+                                                                                                            extensive
+                                                                                                            experience
+                                                                                                            and a deep
+                                                                                                            understanding
+                                                                                                            of the GED
+                                                                                                            test
+                                                                                                            examination.</strong>
+                                                                                                    <p><strong> -
+                                                                                                            Cash-Back
+                                                                                                            Guarantee:
+                                                                                                            We guarantee
+                                                                                                            exceptional
+                                                                                                            scores in
+                                                                                                            your GED
+                                                                                                            exams or
+                                                                                                            your money
+                                                                                                            back.</strong>
+                                                                                                    <p><strong> -
+                                                                                                            Affordable
+                                                                                                            Prices: : We
+                                                                                                            offer our
+                                                                                                            services at
+                                                                                                            affordable
+                                                                                                            prices,
+                                                                                                            making it
+                                                                                                            accessible
+                                                                                                            for
+                                                                                                            everyone.</strong>
+                                                                                                    <p><strong> -
+                                                                                                            Convenience:
+                                                                                                            Hiring an
+                                                                                                            expert from
+                                                                                                            our team to
+                                                                                                            take your
+                                                                                                            GED exam is
+                                                                                                            convenient
+                                                                                                            and
+                                                                                                            accessible.</strong>
+
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
@@ -187,139 +283,27 @@
                                                                                         </div>
                                                                                     </article>
                                                                                 </li>
-                                                                                <li class="list-group-item">
-
-                                                                                    <article data-history-node-id="164"
-                                                                                        role="article"
-                                                                                        about="/isaca/cgeit"
-                                                                                        class="node node--type-exam node--promoted node--view-mode-exam-certification-page clearfix">
-                                                                                        <header>
-
-                                                                                            <h4 class="node__title">
-                                                                                                <a href="/isaca/cgeit"
-                                                                                                    rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CGEIT
-                                                                                                        - Certified in
-                                                                                                        the Governance
-                                                                                                        of Enterprise
-                                                                                                        IT</span>
-                                                                                                </a>
-                                                                                            </h4>
-
-                                                                                        </header>
-                                                                                        <div
-                                                                                            class="node__content clearfix">
-
-                                                                                            <div
-                                                                                                class="field field--name-body field--type-text-with-summary field--label-above">
-                                                                                                <div
-                                                                                                    class="field__label">
-                                                                                                    Exam</div>
-                                                                                                <div
-                                                                                                    class="field__item">
-                                                                                                    <p><strong>CGEIT</strong>
-                                                                                                        - Certified in
-                                                                                                        the Governance
-                                                                                                        of Enterprise IT
-                                                                                                    </p>
-                                                                                                </div>
-                                                                                            </div>
-
-                                                                                        </div>
-                                                                                    </article>
-                                                                                </li>
-                                                                                <li class="list-group-item">
-
-                                                                                    <article data-history-node-id="165"
-                                                                                        role="article"
-                                                                                        about="/isaca/csx-p"
-                                                                                        class="node node--type-exam node--promoted node--view-mode-exam-certification-page clearfix">
-                                                                                        <header>
-
-                                                                                            <h4 class="node__title">
-                                                                                                <a href="/isaca/csx-p"
-                                                                                                    rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CSX-P
-                                                                                                        - Cybersecurity
-                                                                                                        Practitioner
-                                                                                                        Certification</span>
-                                                                                                </a>
-                                                                                            </h4>
-
-                                                                                        </header>
-                                                                                        <div
-                                                                                            class="node__content clearfix">
-
-                                                                                            <div
-                                                                                                class="field field--name-body field--type-text-with-summary field--label-above">
-                                                                                                <div
-                                                                                                    class="field__label">
-                                                                                                    Exam</div>
-                                                                                                <div
-                                                                                                    class="field__item">
-                                                                                                    <p><strong>CSX-P</strong>
-                                                                                                        - Cybersecurity
-                                                                                                        Practitioner
-                                                                                                        Certification
-                                                                                                    </p>
-                                                                                                </div>
-                                                                                            </div>
-
-                                                                                        </div>
-                                                                                    </article>
-                                                                                </li>
-                                                                                <li class="list-group-item">
-
-                                                                                    <article data-history-node-id="166"
-                                                                                        role="article"
-                                                                                        about="/isaca/cobit-foundation"
-                                                                                        class="node node--type-exam node--promoted node--view-mode-exam-certification-page clearfix">
-                                                                                        <header>
-
-                                                                                            <h4 class="node__title">
-                                                                                                <a href="/isaca/cobit-foundation"
-                                                                                                    rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">COBIT
-                                                                                                        Foundation
-                                                                                                        Certificate</span>
-                                                                                                </a>
-                                                                                            </h4>
-
-                                                                                        </header>
-                                                                                        <div
-                                                                                            class="node__content clearfix">
-
-                                                                                            <div
-                                                                                                class="field field--name-body field--type-text-with-summary field--label-above">
-                                                                                                <div
-                                                                                                    class="field__label">
-                                                                                                    Exam</div>
-                                                                                                <div
-                                                                                                    class="field__item">
-                                                                                                    <p><strong>COBIT</strong>
-                                                                                                        Foundation</p>
-                                                                                                </div>
-                                                                                            </div>
-
-                                                                                        </div>
-                                                                                    </article>
-                                                                                </li>
-                                                                            </ul>
                                                                         </div>
+
                                                                     </div>
+                                                                    </article>
+                                                                    </li>
+                                                                    </ul>
                                                                 </div>
-
                                                             </div>
-
                                                         </div>
 
                                                     </div>
+
                                                 </div>
 
                                             </div>
                                         </div>
 
-                                        <?php include '../footer.php'; ?>
+                                    </div>
+                                </div>
+
+                                <?php include '../footer.php'; ?>
 
                 </section>
             </main>

@@ -1,4 +1,3 @@
-<hr><hr><hr>
 <footer class="site-footer">
     <div class="container">
         <div class="site-footer__top clearfix">
@@ -19,7 +18,7 @@
                                         <div class="views-field views-field-nothing"><span class="field-content">
                                                 <div class="col-md-12 col-sm-12 col-top-region">
                                                     <div class="footer-logo m-auto"> <img loading="lazy"
-                                                            src="/proexamtakers/images/logo.png" width="250"
+                                                            src="/images/logo.png" width="250"
                                                             height="42" alt="ProExamTakers" typeof="Image">
 
                                                     </div>
@@ -40,11 +39,11 @@
                                                     <h3>Certwizard links</h3>
 
                                                     <ul>
-                                                        <li><a href="/proexamtakers/index.php">Home</a></li>
+                                                        <li><a href="/index.php">Home</a></li>
 
                                                         </li>
-                                                        <li><a href="/proexamtakers/about.html">About</a>
-                                                        <li><a href="/proexamtakers/contact.html">Contact US</a>
+                                                        <li><a href="/about.php">About</a>
+                                                        <li><a href="/contact.php">Contact US</a>
                                                     </ul>
                                                 </div>
 

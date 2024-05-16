@@ -45,9 +45,7 @@
                                                         <div class="view-header">
                                                             <div class="custom-title-and-subtitle-margin-bottom">
                                                                 <h2>Certifications that We offer.</h2>
-                                                                <p>CertWizard is a leader in the PROXY TEST-TAKING
-                                                                    service and your best friend when it comes to IT
-                                                                    certification service.</p>
+                                                                <p>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</p>
                                                             </div>
                                                         </div>
 

@@ -970,7 +970,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/microsoft/"><img
                                                                                     loading="lazy"
                                                                                     src="images/azure-devops-engineer-expert.png"
                                                                                     width="150" height="150"
@@ -982,7 +983,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/microsoft/"
                                                                                 hreflang="en">Microsoft
                                                                                 Certified: Azure DevOps
                                                                                 Engineer Expert</a></h3>
@@ -991,7 +993,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/microsoft/"><img
                                                                                     loading="lazy"
                                                                                     src="images/azure-solutions-architect-expert.png"
                                                                                     width="150" height="150"
@@ -1003,7 +1006,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/microsoft/"
                                                                                 hreflang="en">Microsoft
                                                                                 Certified: Azure Solutions
                                                                                 Architect Expert</a></h3>
@@ -1012,7 +1016,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/microsoft/"><img
                                                                                     loading="lazy"
                                                                                     src="images/azure-security-engineer-associate.png"
                                                                                     width="150" height="150"
@@ -1024,7 +1029,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/microsoft/"
                                                                                 hreflang="en">Microsoft
                                                                                 Certified: Azure Security
                                                                                 Engineer Associate</a></h3>
@@ -1033,7 +1039,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/microsoft/"><img
                                                                                     loading="lazy"
                                                                                     src="images/azure-developer-associate.png"
                                                                                     width="150" height="150"
@@ -1045,7 +1052,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/microsoft/"
                                                                                 hreflang="en">Microsoft
                                                                                 Certified: Azure Developer
                                                                                 Associate</a></h3>
@@ -1054,7 +1062,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/comptia/"><img
                                                                                     loading="lazy"
                                                                                     src="images/CompTIA-Server-plus.png"
                                                                                     width="150" height="150"
@@ -1066,7 +1075,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/comptia/"
                                                                                 hreflang="en">CompTIA
                                                                                 Server+ Certification</a>
                                                                         </h3>
@@ -1075,7 +1085,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/comptia/"><img
                                                                                     loading="lazy"
                                                                                     src="images/CompTIA-Security.png"
                                                                                     width="150" height="150"
@@ -1087,7 +1098,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/comptia/"
                                                                                 hreflang="en">CompTIA
                                                                                 Security+ Certification</a>
                                                                         </h3>
@@ -1096,8 +1108,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
-                                                                                    loading="lazy"
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/isaca/"><img loading="lazy"
                                                                                     src="images/ISACA-CISA-proxy-exam.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy isaca cisa without exam or training online pass guarateed"
@@ -1108,7 +1120,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a href="pages/isaca/"
                                                                                 hreflang="en">CISA -
                                                                                 Certified Information
                                                                                 Systems Auditor</a></h3>
@@ -1117,8 +1129,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
-                                                                                    loading="lazy"
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/cisco/"><img loading="lazy"
                                                                                     src="images/cisco-ccna.png"
                                                                                     width="150" height="150"
                                                                                     alt="Buy CCNA pass without exam or training"
@@ -1129,7 +1141,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a href="pages/cisco/"
                                                                                 hreflang="en">Cisco CCNA</a>
                                                                         </h3>
                                                                     </div>
@@ -1137,8 +1149,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
-                                                                                    loading="lazy"
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/aws/"><img loading="lazy"
                                                                                     src="images/AWS-Certified-Solutions-Architect.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy AWS Solutions Architect exam pass"
@@ -1149,7 +1161,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a href="pages/aws/"
                                                                                 hreflang="en">AWS Certified
                                                                                 Solutions Architect -
                                                                                 Associate</a></h3>
@@ -1158,7 +1170,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/ec-council/"><img
                                                                                     loading="lazy"
                                                                                     src="images/CCISO.png" width="150"
                                                                                     height="150"
@@ -1170,7 +1183,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/ec-council/"
                                                                                 hreflang="en">Certified
                                                                                 Chief Information Security
                                                                                 Officer (CCISO)</a></h3>
@@ -1179,7 +1193,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/ec-council/"><img
                                                                                     loading="lazy" src="images/CEH.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy EC-COUNCIL CEH pass without exam or training online"
@@ -1190,7 +1205,8 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a
+                                                                                href="pages/ec-council/"
                                                                                 hreflang="en">CEH
                                                                                 certification</a></h3>
                                                                     </div>
@@ -1198,8 +1214,8 @@
                                                                 <div class="row-inner views-row">
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
-                                                                        <div class="field-content"> <a href="#"><img
-                                                                                    loading="lazy"
+                                                                        <div class="field-content"> <a
+                                                                                href="pages/isaca/"><img loading="lazy"
                                                                                     src="images/isaca-cism.png"
                                                                                     width="150" height="150"
                                                                                     alt="guaranteed pass ISACA CISM without exam online"
@@ -1210,7 +1226,7 @@
                                                                         </div>
                                                                     </div>
                                                                     <div class="views-field views-field-title">
-                                                                        <h3 class="field-content"><a href="#"
+                                                                        <h3 class="field-content"><a href="pages/isaca/"
                                                                                 hreflang="en">CISM -
                                                                                 Certified Information
                                                                                 Security Manager</a></h3>
@@ -1344,6 +1360,7 @@
                                                 });
                                             });
                                             </script>
+
 </body>
 
 </html>
