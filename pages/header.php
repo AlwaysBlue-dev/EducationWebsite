@@ -5,7 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="images/favicon_0.png" type="image/png">
-    <link rel="alternate" hreflang="en" href="https://certwizard.com/microsoft">
 
     <title>Microsoft Certifications | ProExamTakers</title>
     <link rel="stylesheet" media="all" href="css/css_LLiICWna101nNIKOt54Q7E-mxH73Y8zRqXpwcB9skKc.css">
@@ -33,7 +32,7 @@
                     <nav class="navbar navbar-dark bg-transparent navbar-expand-lg" id="navbar-main">
                         <div class="container">
                             <a href="/proexamtakers/index.php" title="Home" rel="home" class="navbar-brand">
-                                <img src="images/Certwizard-logo-new-1_0.png" alt="Home"
+                                <img src="/proexamtakers/images/logo_dark.png" alt="Home"
                                     class="img-fluid d-inline-block align-top">
                                 <span class="ml-2 d-none d-md-inline">ProExamTakers</span>
                             </a>

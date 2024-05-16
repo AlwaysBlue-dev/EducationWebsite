@@ -90,9 +90,9 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/microsoft/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/microsoft-logo-certwizard_1.png"
+                                                                                            src="images/microsoft-logo.png"
                                                                                             width="250" height="118"
-                                                                                            alt="Buy Microsoft cert"
+                                                                                            alt="Microsoft"
                                                                                             typeof="Image"
                                                                                             class="image-style-_50xauzo">
 
@@ -127,7 +127,7 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/cisco/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/cisco-logo-certwizard.png"
+                                                                                            src="images/cisco-logo.png"
                                                                                             width="250" height="177"
                                                                                             alt="Buy Cisco online"
                                                                                             typeof="Image"
@@ -200,7 +200,7 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/ec-council/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/EC-Council-logo-certwizard.png"
+                                                                                            src="images/EC-Council-logo.png"
                                                                                             width="250" height="162"
                                                                                             alt="Buy EC Council certification"
                                                                                             typeof="Image"
@@ -246,7 +246,7 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/isaca/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/ISACA-logo-certwizard.png"
+                                                                                            src="images/ISACA-logo.png"
                                                                                             width="250" height="176"
                                                                                             alt="Buy ISACA exam pass online"
                                                                                             typeof="Image"
@@ -286,7 +286,7 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/aws/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/aws-logo-certwizard_1.png"
+                                                                                            src="images/aws-logo.png"
                                                                                             width="250" height="176"
                                                                                             alt="Buy AWS certification online"
                                                                                             typeof="Image"
@@ -325,7 +325,7 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/pmi/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/PMI-logo-certwizard_0.png"
+                                                                                            src="images/PMI-logo.png"
                                                                                             width="250" height="176"
                                                                                             alt="Project Management Certification online without exam"
                                                                                             typeof="Image"
@@ -363,7 +363,7 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/itil/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/ITIL-logo-certwizard_0.png"
+                                                                                            src="images/ITIL-logo.png"
                                                                                             width="250" height="176"
                                                                                             alt="Buy ITIL exam pass online for a small cost"
                                                                                             typeof="Image"
@@ -662,7 +662,7 @@
                                                                                 <div class="image"> <a
                                                                                         href="pages/six-sigma/"><img
                                                                                             loading="lazy"
-                                                                                            src="images/Six-Sigma-logo-certwizard_0.png"
+                                                                                            src="images/Six-Sigma-logo.png"
                                                                                             width="250" height="176"
                                                                                             alt="100% pass Six Sigma without exam or training"
                                                                                             typeof="Image"
@@ -723,16 +723,16 @@
                                                                         <span class="field-content">
                                                                             <div class="left">
                                                                                 <img loading="lazy"
-                                                                                    src="images/side2.jpg"
-                                                                                    width="440" height="293"
+                                                                                    src="images/side2.jpg" width="440"
+                                                                                    height="293"
                                                                                     alt="IT Exam PASS without a study guide"
                                                                                     typeof="Image"
                                                                                     class="image-style-_40xauto">
 
 
                                                                                 <img loading="lazy"
-                                                                                    src="images/side1.jpg"
-                                                                                    width="440" height="463"
+                                                                                    src="images/side1.jpg" width="440"
+                                                                                    height="463"
                                                                                     alt="100% Pass without Training, Study Guide or Test"
                                                                                     typeof="Image"
                                                                                     class="image-style-_40xauto">
@@ -972,7 +972,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/azure-devops-engineer-expert-certwizard.png"
+                                                                                    src="images/azure-devops-engineer-expert.png"
                                                                                     width="150" height="150"
                                                                                     alt="Buy Azure DevOps proxy exam pass"
                                                                                     typeof="foaf:Image"
@@ -993,7 +993,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/azure-solutions-architect-expert-certwizard.png"
+                                                                                    src="images/azure-solutions-architect-expert.png"
                                                                                     width="150" height="150"
                                                                                     alt="Buy Azure Solutions Architect exam pass"
                                                                                     typeof="foaf:Image"
@@ -1014,7 +1014,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/azure-security-engineer-associate-certwizard.png"
+                                                                                    src="images/azure-security-engineer-associate.png"
                                                                                     width="150" height="150"
                                                                                     alt="Buy Azure Security Engineer exam pass"
                                                                                     typeof="foaf:Image"
@@ -1035,7 +1035,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/azure-developer-associate-certwizard_0.png"
+                                                                                    src="images/azure-developer-associate.png"
                                                                                     width="150" height="150"
                                                                                     alt="Buy Azure Developer exam pass"
                                                                                     typeof="foaf:Image"
@@ -1056,7 +1056,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/CompTIA-Server-plus-certwizard.png"
+                                                                                    src="images/CompTIA-Server-plus.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy comptia server plus exam pass buyitcert"
                                                                                     typeof="foaf:Image"
@@ -1077,7 +1077,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/CompTIA-Security-certwizard.png"
+                                                                                    src="images/CompTIA-Security.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy comptia security plus"
                                                                                     typeof="foaf:Image"
@@ -1098,7 +1098,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/ISACA-CISA-proxy-exam-certwizard.png"
+                                                                                    src="images/ISACA-CISA-proxy-exam.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy isaca cisa without exam or training online pass guarateed"
                                                                                     typeof="foaf:Image"
@@ -1119,7 +1119,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/cisco-ccna-certwizard.png"
+                                                                                    src="images/cisco-ccna.png"
                                                                                     width="150" height="150"
                                                                                     alt="Buy CCNA pass without exam or training"
                                                                                     typeof="foaf:Image"
@@ -1139,7 +1139,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/AWS-Certified-Solutions-Architect-certwizard.png"
+                                                                                    src="images/AWS-Certified-Solutions-Architect.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy AWS Solutions Architect exam pass"
                                                                                     typeof="foaf:Image"
@@ -1160,8 +1160,8 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/CCISO-certwizard.png"
-                                                                                    width="150" height="150"
+                                                                                    src="images/CCISO.png" width="150"
+                                                                                    height="150"
                                                                                     alt="Buy CISO exam pass"
                                                                                     typeof="foaf:Image"
                                                                                     class="image-style-_50xauto">
@@ -1180,8 +1180,7 @@
                                                                     <div
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
-                                                                                    loading="lazy"
-                                                                                    src="images/CEH-certwizard.png"
+                                                                                    loading="lazy" src="images/CEH.png"
                                                                                     width="150" height="150"
                                                                                     alt="buy EC-COUNCIL CEH pass without exam or training online"
                                                                                     typeof="foaf:Image"
@@ -1201,7 +1200,7 @@
                                                                         class="views-field views-field-field-logo-certification-1">
                                                                         <div class="field-content"> <a href="#"><img
                                                                                     loading="lazy"
-                                                                                    src="images/isaca-cism-certwizard.png"
+                                                                                    src="images/isaca-cism.png"
                                                                                     width="150" height="150"
                                                                                     alt="guaranteed pass ISACA CISM without exam online"
                                                                                     typeof="foaf:Image"
@@ -1257,8 +1256,7 @@
                                                                                 <p><img alt="Image removed."
                                                                                         data-entity-type="file"
                                                                                         data-entity-uuid="eef6da96-1e57-41ff-98f0-83d292ec1ee8"
-                                                                                        src="images/choose.png"
-                                                                                        title=""
+                                                                                        src="images/choose.png" title=""
                                                                                         height="16" width="16"
                                                                                         class="filter-image-invalid"
                                                                                         loading="lazy">
@@ -1276,8 +1274,8 @@
                                                                                             data-entity-type="file"
                                                                                             data-entity-uuid="8731d73c-983d-45e5-9b7b-714dbea48dfc"
                                                                                             src="images/email.png"
-                                                                                            title=""
-                                                                                            height="16" width="16"
+                                                                                            title="" height="16"
+                                                                                            width="16"
                                                                                             class="filter-image-invalid"
                                                                                             loading="lazy"></span>
                                                                                 </p>
@@ -1295,8 +1293,7 @@
                                                                                         data-entity-type="file"
                                                                                         data-entity-uuid="4235562b-54c7-4141-909e-0ea7a4aa07e1"
                                                                                         src="images/celebration.png"
-                                                                                        title=""
-                                                                                        height="16" width="16"
+                                                                                        title="" height="16" width="16"
                                                                                         class="filter-image-invalid"
                                                                                         loading="lazy">
                                                                                 </p>

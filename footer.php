@@ -17,12 +17,12 @@
                                     <div class="views-row">
                                         <div class="views-field views-field-nothing"><span class="field-content">
                                                 <div class="col-md-12 col-sm-12 col-top-region">
-                                                    <div class="footer-logo"> <img loading="lazy"
-                                                            src="images/Certwizard-logo-new-2.png" width="250"
-                                                            height="42" alt="Certwizard Footer" typeof="Image">
+                                                    <div class="footer-logo m-auto"> <img loading="lazy"
+                                                            src="images/logo.png" width="250"
+                                                            height="42" alt="ProExamTakers" typeof="Image">
 
                                                     </div>
-                                                    <p>ProExamTakers offers educational services, specializing in
+                                                    <p class="mt-2">ProExamTakers offers educational services, specializing in
                                                         non-degree educational support for graduate
                                                         and post-graduate level students in test-taking preparation. We
                                                         distribute both printed and electronic materials
