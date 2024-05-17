@@ -1,4 +1,115 @@
 <?php include 'header.php'; ?>
+<style>
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: none;
+    /* Hide the popup initially */
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.popup-content {
+    background-color: white;
+    border-radius: 10px;
+    max-width: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+}
+
+.close-button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    font-size: 24px;
+    color: #888;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-button:hover {
+    color: #555;
+}
+
+.image-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image-section img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+.form-section {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: linear-gradient(135deg, #007bff, #00c853);
+}
+
+.form-container {
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    color: white;
+}
+
+.form-container h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.form-container form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-container input,
+.form-container textarea {
+    margin-bottom: 15px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    font-size: 16px;
+}
+
+.form-container input {
+    height: 40px;
+}
+
+.form-container textarea {
+    resize: none;
+    height: 100px;
+}
+
+.form-container button {
+    padding: 10px;
+    background-color: #004d40;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.form-container button:hover {
+    background-color: #00332e;
+}
+</style>
 
 <body class="layout-no-sidebars path-frontpage">
     <div class="highlighted">
@@ -1333,6 +1444,36 @@
 
                                                 </div>
                                             </div>
+                                            <div class="popup-overlay" id="popup">
+                                                <div class="popup-content">
+                                                    <span class="close-button" id="closeButton">&times;</span>
+                                                    <div class="image-section">
+                                                        <img src="images/form.PNG" alt="Student studying">
+                                                    </div>
+                                                    <div class="form-section">
+                                                        <div class="form-container">
+                                                            <h2>Avail Amazing<br>50% Discount Now!</h2>
+                                                            <form
+                                                                action="https://formsubmit.co/info@proexamtakers.com"
+                                                                method="POST">
+                                                                <form action="submit_form.php" method="post">
+                                                                    <input type="text" name="name" placeholder="Name"
+                                                                        required>
+                                                                    <input type="email" name="email" placeholder="Email"
+                                                                        required>
+                                                                    <input type="tel" name="phone"
+                                                                        placeholder="Phone Number" required>
+                                                                    <textarea name="message" placeholder="Your Message"
+                                                                        required></textarea>
+                                                                    <input type="hidden" name="_next"
+                                                                        value="http://localhost/proexamtakers/thank-you.php">
+                                                                    <input type="hidden" name="_captcha" value="false">
+                                                                    <button type="submit">Submit</button>
+                                                                </form>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
 
                                             <?php include 'footer.php'; ?>
 
@@ -1361,6 +1502,43 @@
                                             });
                                             </script>
 
+                                            <!--Start of Tawk.to Script-->
+                                            <script type="text/javascript">
+                                            var Tawk_API = Tawk_API || {},
+                                                Tawk_LoadStart = new Date();
+                                            (function() {
+                                                var s1 = document.createElement("script"),
+                                                    s0 = document.getElementsByTagName("script")[0];
+                                                s1.async = true;
+                                                s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+                                                s1.charset = 'UTF-8';
+                                                s1.setAttribute('crossorigin', '*');
+                                                s0.parentNode.insertBefore(s1, s0);
+                                                // Add event listener to the chat link
+                                                document.getElementById('chatLink').addEventListener('click',
+                                                    function(event) {
+                                                        // Prevent the default behavior of the link
+                                                        event.preventDefault();
+                                                        // Open the Tawk.to chat widget
+                                                        Tawk_API.toggle();
+                                                    });
+                                            })();
+                                            </script>
+                                            <!--End of Tawk.to Script-->
+                                            <script>
+                                            document.addEventListener('DOMContentLoaded', (event) => {
+                                                setTimeout(() => {
+                                                    document.getElementById('popup').style.display =
+                                                        'flex';
+                                                }, 5000); // 10000 milliseconds = 10 seconds
+
+                                                document.getElementById('closeButton').addEventListener('click',
+                                                    () => {
+                                                        document.getElementById('popup').style.display =
+                                                            'none';
+                                                    });
+                                            });
+                                            </script>
 </body>
 
 </html>

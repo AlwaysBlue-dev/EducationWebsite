@@ -44,7 +44,11 @@
                                                         <div class="view-header">
                                                             <div class="custom-title-and-subtitle-margin-bottom">
                                                                 <h2>Certifications that We offer.</h2>
-                                                                <p>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</p>
+                                                                <p>ProExamTakers excels in Proxy Test-Taking and
+                                                                    Cloud-Computing Technology services and stands as
+                                                                    your ultimate ally in any type of certification
+                                                                    exams service. Hire us to Get any Examination
+                                                                    done without Hassle.</p>
                                                             </div>
                                                         </div>
 
@@ -52,7 +56,7 @@
                                                             <div class="row-inner views-row">
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a href="/oracle/database"
-                                                                            hreflang="en">Oracle Database</a></h3>
+                                                                            hreflang="en" id="chatLink">Oracle Database</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
                                                                     <div class="field-content">
@@ -69,7 +73,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/oracle/database-12c-administrator-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Oracle
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Oracle
                                                                                                         Database 12c
                                                                                                         Administrator
                                                                                                         Certified
@@ -91,12 +95,12 @@
                                                                                                     <p><strong>1Z0-071</strong>
                                                                                                         Oracle Database
                                                                                                         12c
-                                                                                                        SQL�&nbsp;<br>
+                                                                                                        SQL&nbsp;<br>
                                                                                                         +<br><strong>1Z0-062</strong>
                                                                                                         Oracle Database
                                                                                                         12c
-                                                                                                        Administration�&nbsp;<br>
-                                                                                                        �&nbsp;</p>
+                                                                                                        Administration&nbsp;<br>
+                                                                                                        &nbsp;</p>
                                                                                                 </div>
                                                                                             </div>
 
@@ -114,7 +118,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/oracle/database-12c-administrator-professional"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Oracle
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Oracle
                                                                                                         Database 12c
                                                                                                         Administrator
                                                                                                         Certified
@@ -133,13 +137,13 @@
                                                                                                     Exam</div>
                                                                                                 <div
                                                                                                     class="field__item">
-                                                                                                    <p><strong>1Z0-063</strong>�&nbsp;Oracle
+                                                                                                    <p><strong>1Z0-063</strong>&nbsp;Oracle
                                                                                                         Database 12c:
                                                                                                         Advanced
                                                                                                         Administration<br>
                                                                                                         Prerequisites:
                                                                                                         Database
-                                                                                                        12c�&nbsp;Associate
+                                                                                                        12c&nbsp;Associate
                                                                                                         + Oracle
                                                                                                         Database course
                                                                                                     </p>
@@ -160,7 +164,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/oracle/database-administration-2019-professional"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Oracle
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Oracle
                                                                                                         Database
                                                                                                         Administration
                                                                                                         2019 Certified
@@ -179,13 +183,13 @@
                                                                                                     Exam</div>
                                                                                                 <div
                                                                                                     class="field__item">
-                                                                                                    <p><strong>1Z0-082�&nbsp;</strong>Oracle
+                                                                                                    <p><strong>1Z0-082&nbsp;</strong>Oracle
                                                                                                         Database
                                                                                                         Administration
                                                                                                         I<br>
-                                                                                                        �&nbsp;</p>
+                                                                                                        &nbsp;</p>
 
-                                                                                                    <p><strong>1Z0-083�&nbsp;</strong>Oracle
+                                                                                                    <p><strong>1Z0-083&nbsp;</strong>Oracle
                                                                                                         Database
                                                                                                         Administration
                                                                                                         II<br>
@@ -201,17 +205,13 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="views-field views-field-nothing"><span
-                                                                        class="field-content"><a
-                                                                            href="/oracle/database ">View more <i
-                                                                                class="fas fa-arrow-right"></i></a></span>
-                                                                </div>
+                                                               
                                                             </div>
                                                             <div class="row-inner views-row">
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/oracle/Java-and-Dev-Tech"
-                                                                            hreflang="en">Oracle Java and Dev Tech
+                                                                            hreflang="en" id="chatLink">Oracle Java and Dev Tech
                                                                             Certification</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
@@ -229,7 +229,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/oracle/associate-java-se-8-programmer"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Oracle
+                                                                                                        class="field field--name-title field--type-string field--label-hidden id="chatLink"">Oracle
                                                                                                         Certified
                                                                                                         Associate, Java
                                                                                                         SE 8
@@ -270,7 +270,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/oracle/professional-java-se-8-programmer"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Oracle
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Oracle
                                                                                                         Certified
                                                                                                         Professional,
                                                                                                         Java SE 8
@@ -355,12 +355,7 @@
                                                                         </div>
                                                                     </div>
                                                                 </div>
-                                                                <div class="views-field views-field-nothing"><span
-                                                                        class="field-content"><a
-                                                                            href="/oracle/Java-and-Dev-Tech ">View more
-                                                                            <i
-                                                                                class="fas fa-arrow-right"></i></a></span>
-                                                                </div>
+                                                               
                                                             </div>
 
                                                         </div>
@@ -379,7 +374,30 @@
     </div>
 </div>
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+(function() {
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+    // Add event listener to all elements with the 'chatLink' class
+    var chatLinks = document.querySelectorAll('#chatLink');
+    chatLinks.forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            Tawk_API.toggle();
+        });
+    });
+})();
 
+</script>
+<!--End of Tawk.to Script-->
 </body>
 
 </html>

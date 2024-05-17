@@ -1,6 +1,6 @@
 <?php include '../header.php'; ?>
 <style>
-  /* Optional: Add custom styles here */
+/* Optional: Add custom styles here */
 .review-img {
     width: 100%;
     height: auto;
@@ -8,24 +8,37 @@
 
 /* Custom Styles for Carousel */
 .carousel-item img {
-    height: 400px; 
+    height: 400px;
 }
 
 .carousel-indicators li {
-    background-color: #333; 
+    background-color: #333;
 }
 
-.text{
+.text {
     font-size: 2.5rem;
     font-family: "Muli", sans-serif;
     line-height: 1.2;
     font-weight: 800;
-    color:#fff;
+    color: #fff;
 }
 
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    /* Adjust the gap between images as needed */
+}
 
-
-    </style>
+.image-container img {
+    flex: 1 1 calc(33.333% - 10px);
+    /* 3 images per row, considering the gap */
+    max-width: calc(33.333% - 10px);
+    /* Ensures images do not overflow */
+    box-sizing: border-box;
+    /* Includes padding and border in the element's total width and height */
+}
+</style>
 <div class="highlighted">
     <aside class="container section clearfix" role="complementary">
         <div data-drupal-messages-fallback="" class="hidden"></div>
@@ -83,7 +96,7 @@
                                                         <div class="view-content">
                                                             <div class="row-inner views-row">
                                                                 <div class="views-field views-field-title">
-                                                                    <h3 class="field-content"><a
+                                                                    <h3 class="field-content"><a id='chatLink'
                                                                             href="/isaca/certification-program"
                                                                             hreflang="en">ATI-TEAS Certification
                                                                             Program</a></h3>
@@ -102,6 +115,7 @@
 
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/cisa"
+                                                                                                    id='chatLink'
                                                                                                     rel="bookmark"><span
                                                                                                         class="field field--name-title field--type-string field--label-hidden">
                                                                                                         Take Your TEAS
@@ -412,7 +426,80 @@
                                                                     </article>
                                                                     </li>
                                                                     </ul>
+
                                                                 </div>
+                                                                <div class="container mt-2">
+                                                                    <h2 class="text-center mb-4 text">Our Work
+                                                                    </h2>
+                                                                    <div id="customerReviewsCarousel"
+                                                                        class="carousel slide mb-5"
+                                                                        data-ride="carousel">
+                                                                        <ol class="carousel-indicators">
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="0" class="active">
+                                                                            </li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="1"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="2"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="3"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="4"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="5"></li>
+                                                                        </ol>
+                                                                        <div class="carousel-inner">
+                                                                            <div class="carousel-item active">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review1.png"
+                                                                                    alt="First slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review2.png"
+                                                                                    alt="Second slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review3.png"
+                                                                                    alt="Third slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review4.png"
+                                                                                    alt="Fourth slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review5.png"
+                                                                                    alt="Fifth slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review6.png"
+                                                                                    alt="Sixth slide">
+                                                                            </div>
+                                                                        </div>
+                                                                        <a class="carousel-control-prev"
+                                                                            href="#customerReviewsCarousel"
+                                                                            role="button" data-slide="prev">
+                                                                            <span class="carousel-control-prev-icon"
+                                                                                style="background-color:#171347"
+                                                                                aria-hidden="true"></span>
+                                                                            <span class="sr-only">Previous</span>
+                                                                        </a>
+                                                                        <a class="carousel-control-next"
+                                                                            href="#customerReviewsCarousel"
+                                                                            role="button" data-slide="next">
+                                                                            <span class="carousel-control-next-icon"
+                                                                                style="background-color:#171347"
+                                                                                aria-hidden="true"></span>
+                                                                            <span class="sr-only">Next</span>
+                                                                        </a>
+                                                                    </div>
+                                                                </div>
+
                                                             </div>
                                                         </div>
 
@@ -425,47 +512,6 @@
 
                                     </div>
                                 </div>
-                                <div class="container-fluid mt-5">
-    <h2 class="text-center mb-4 text"  style="background-color:#171347">Customer Reviews</h2>
-    <div id="customerReviewsCarousel" class="carousel slide mb-5" data-ride="carousel">
-        <ol class="carousel-indicators">
-            <li data-target="#customerReviewsCarousel" data-slide-to="0" class="active"></li>
-            <li data-target="#customerReviewsCarousel" data-slide-to="1"></li>
-            <li data-target="#customerReviewsCarousel" data-slide-to="2"></li>
-            <li data-target="#customerReviewsCarousel" data-slide-to="3"></li>
-            <li data-target="#customerReviewsCarousel" data-slide-to="4"></li>
-            <li data-target="#customerReviewsCarousel" data-slide-to="5"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img class="d-block w-100" src="images/review1.jpg" alt="First slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="images/review2.jpg" alt="Second slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="images/review3.jpg" alt="Third slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="images/review4.jpg" alt="Fourth slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="images/review5.jpg" alt="Fifth slide">
-            </div>
-            <div class="carousel-item">
-                <img class="d-block w-100" src="images/review6.jpg" alt="Sixth slide">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#customerReviewsCarousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" style="background-color:#171347" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#customerReviewsCarousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" style="background-color:#171347" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-</div>
 
                                 <?php include '../footer.php'; ?>
 
@@ -474,6 +520,31 @@
         </div>
     </div>
 </div>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+(function() {
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+    // Add event listener to all elements with the 'chatLink' class
+    var chatLinks = document.querySelectorAll('#chatLink');
+    chatLinks.forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            Tawk_API.toggle();
+        });
+    });
+})();
+</script>
+<!--End of Tawk.to Script-->
+
 </body>
 
 </html>

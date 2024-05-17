@@ -44,7 +44,11 @@
                                                         <div class="view-header">
                                                             <div class="custom-title-and-subtitle-margin-bottom">
                                                                 <h2>Certifications that We offer.</h2>
-                                                                <p>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</p>
+                                                                <p>ProExamTakers excels in Proxy Test-Taking and
+                                                                    Cloud-Computing Technology services and stands as
+                                                                    your ultimate ally in any type of certification
+                                                                    exams service. Hire us to Get any Examination
+                                                                    done without Hassle.</p>
                                                             </div>
                                                         </div>
 
@@ -53,7 +57,7 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/microsoft/azure-certifications"
-                                                                            hreflang="en">Microsoft
+                                                                            hreflang="en" id="chatLink">Microsoft
                                                                             Azure</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
@@ -71,7 +75,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-fundamentals"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Fundamentals</span>
@@ -112,7 +116,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-ai-fundamentals"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         AI
@@ -155,7 +159,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-data-fundamentals"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Data
@@ -198,7 +202,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-administrator"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Administrator
@@ -218,7 +222,7 @@
                                                                                                 </div>
                                                                                                 <div
                                                                                                     class="field__item">
-                                                                                                    <p><strong>AZ-104</strong>�&nbsp;Microsoft
+                                                                                                    <p><strong>AZ-104</strong>&nbsp;Microsoft
                                                                                                         Azure
                                                                                                         Administrator
                                                                                                     </p>
@@ -239,7 +243,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-solutions-architect-expert"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Solutions
@@ -288,7 +292,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-developer-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Developer
@@ -423,7 +427,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-devops-engineer-expert"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         DevOps
@@ -473,7 +477,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-ai-engineer"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         AI
@@ -706,7 +710,7 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/microsoft/microsoft-365-certifications"
-                                                                            hreflang="en">Microsoft
+                                                                            hreflang="en" id="chatLink">Microsoft
                                                                             365</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
@@ -724,7 +728,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/microsoft-365-fundamentals"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Fundamentals</span>
@@ -765,7 +769,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/modern-desktop-administrator"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Modern
@@ -1096,7 +1100,7 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/microsoft/dynamics-365-path"
-                                                                            hreflang="en">Microsoft
+                                                                            hreflang="en" id="chatLink">Microsoft
                                                                             Dynamics 365</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
@@ -1114,7 +1118,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/dynamics-365-exams"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Dynamics
                                                                                                         365
                                                                                                         exams</span>
@@ -1204,7 +1208,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/power-platform-exams"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Power
                                                                                                         Platform
                                                                                                         exams</span>
@@ -1255,7 +1259,7 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/microsoft/microsoft-security-compliance-identity"
-                                                                            hreflang="en">Microsoft
+                                                                            hreflang="en" id="chatLink">Microsoft
                                                                             Security, Compliance, and
                                                                             Identity</a></h3>
                                                                 </div>
@@ -1274,7 +1278,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/security-compliance-and-identity-fundamentals"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Security,
                                                                                                         Compliance,
@@ -1597,7 +1601,30 @@
         </div>
     </div>
 </div>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+(function() {
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+    // Add event listener to all elements with the 'chatLink' class
+    var chatLinks = document.querySelectorAll('#chatLink');
+    chatLinks.forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            Tawk_API.toggle();
+        });
+    });
+})();
 
+</script>
+<!--End of Tawk.to Script-->
 
 </body>
 

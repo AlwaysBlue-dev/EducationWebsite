@@ -44,7 +44,11 @@
                                                         <div class="view-header">
                                                             <div class="custom-title-and-subtitle-margin-bottom">
                                                                 <h2>Certifications that We offer.</h2>
-                                                                <p>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</p>
+                                                                <p>ProExamTakers excels in Proxy Test-Taking and
+                                                                    Cloud-Computing Technology services and stands as
+                                                                    your ultimate ally in any type of certification
+                                                                    exams service. Hire us to Get any Examination
+                                                                    done without Hassle.</p>
                                                             </div>
                                                         </div>
 
@@ -53,7 +57,7 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/salesforce/certification"
-                                                                            hreflang="en">Salesforce Certification</a>
+                                                                            hreflang="en" id="chatLink">Salesforce Certification</a>
                                                                     </h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
@@ -71,7 +75,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/salesforce/certified-administrator"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Salesforce
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Salesforce
                                                                                                         Certified
                                                                                                         Administrator</span>
                                                                                                 </a>
@@ -108,7 +112,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/salesforce/certified-advanced-administrator"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Salesforce
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Salesforce
                                                                                                         Certified
                                                                                                         Advanced
                                                                                                         Administrator</span>
@@ -146,7 +150,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/salesforce/certified-sales-cloud-consultant"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Salesforce
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Salesforce
                                                                                                         Certified Sales
                                                                                                         Cloud
                                                                                                         Consultant</span>
@@ -185,7 +189,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/salesforce/certified-service-cloud-consultant"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Salesforce
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Salesforce
                                                                                                         Certified
                                                                                                         Service Cloud
                                                                                                         Consultant</span>
@@ -224,7 +228,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/salesforce/certified-marketing-cloud-consultant"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Salesforce
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Salesforce
                                                                                                         Certified
                                                                                                         Marketing Cloud
                                                                                                         Consultant</span>
@@ -354,7 +358,30 @@
     </div>
 </div>
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+(function() {
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+   // Add event listener to all elements with the 'chatLink' class
+   var chatLinks = document.querySelectorAll('#chatLink');
+    chatLinks.forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            Tawk_API.toggle();
+        });
+    });
+})();
 
+</script>
+<!--End of Tawk.to Script-->
 
 
 </body>

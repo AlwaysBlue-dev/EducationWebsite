@@ -44,7 +44,11 @@
                                                         <div class="view-header">
                                                             <div class="custom-title-and-subtitle-margin-bottom">
                                                                 <h2>Certifications that We offer.</h2>
-                                                                <p>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</p>
+                                                                <p>ProExamTakers excels in Proxy Test-Taking and
+                                                                    Cloud-Computing Technology services and stands as
+                                                                    your ultimate ally in any type of certification
+                                                                    exams service. Hire us to Get any Examination
+                                                                    done without Hassle.</p>
                                                             </div>
                                                         </div>
 
@@ -52,7 +56,7 @@
                                                             <div class="row-inner views-row">
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a href="/cisco/associate"
-                                                                            hreflang="en">Cisco Associate</a></h3>
+                                                                            hreflang="en" id="chatLink">Cisco Associate</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
                                                                     <div class="field-content">
@@ -69,7 +73,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/cisco/ccna"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Cisco
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Cisco
                                                                                                         CCNA</span>
                                                                                                 </a>
                                                                                             </h4>
@@ -190,7 +194,7 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/cisco/professional"
-                                                                            hreflang="en">Cisco Professional</a></h3>
+                                                                            hreflang="en" id="chatLink">Cisco Professional</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
                                                                     <div class="field-content">
@@ -207,7 +211,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/cisco/ccnp-enterprise"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CCNP
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">CCNP
                                                                                                         Enterprise</span>
                                                                                                 </a>
                                                                                             </h4>
@@ -256,7 +260,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/cisco/ccnp-collaboration"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CCNP
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">CCNP
                                                                                                         Collaboration</span>
                                                                                                 </a>
                                                                                             </h4>
@@ -493,7 +497,7 @@
                                                             <div class="row-inner views-row">
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a href="/cisco/expert"
-                                                                            hreflang="en">Cisco Expert</a></h3>
+                                                                            hreflang="en" id="chatLink">Cisco Expert</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
                                                                     <div class="field-content">
@@ -510,7 +514,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/cisco/ccie"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Cisco
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Cisco
                                                                                                         CCIE </span>
                                                                                                 </a>
                                                                                             </h4>
@@ -580,7 +584,31 @@
     </div>
 </div>
 
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+(function() {
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+     // Add event listener to all elements with the 'chatLink' class
+     var chatLinks = document.querySelectorAll('#chatLink');
+    chatLinks.forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            Tawk_API.toggle();
+        });
+    });
+})();
 
+</script>
+<!--End of Tawk.to Script-->
+<!--End of Tawk.to Script-->
 </body>
 
 </html>

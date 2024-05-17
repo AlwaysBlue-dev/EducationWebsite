@@ -1,4 +1,4 @@
-<footer class="site-footer">
+    <footer class="site-footer mt-5">
     <div class="container">
         <div class="site-footer__top clearfix">
             <section class="row region region-footer-first">

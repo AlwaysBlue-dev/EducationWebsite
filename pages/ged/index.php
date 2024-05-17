@@ -58,7 +58,7 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/isaca/certification-program"
-                                                                            hreflang="en">GED Certification
+                                                                            hreflang="en" id="chatLink">GED Certification
                                                                             Program</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
@@ -76,7 +76,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/cisa"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Mathematics
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Mathematics
                                                                                                         - Mathematics
                                                                                                         covers algebra,
                                                                                                         geometry,
@@ -144,7 +144,7 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/cism"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Science
+                                                                                                        class="field field--name-title field--type-string field--label-hidden" id="chatLink">Science
                                                                                                         - Our science
                                                                                                         experts will
                                                                                                         guide you
@@ -310,6 +310,30 @@
         </div>
     </div>
 </div>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API = Tawk_API || {},
+    Tawk_LoadStart = new Date();
+(function() {
+    var s1 = document.createElement("script"),
+        s0 = document.getElementsByTagName("script")[0];
+    s1.async = true;
+    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
+    s1.charset = 'UTF-8';
+    s1.setAttribute('crossorigin', '*');
+    s0.parentNode.insertBefore(s1, s0);
+     // Add event listener to all elements with the 'chatLink' class
+     var chatLinks = document.querySelectorAll('#chatLink');
+    chatLinks.forEach(function(link) {
+        link.addEventListener('click', function(event) {
+            event.preventDefault();
+            Tawk_API.toggle();
+        });
+    });
+})();
+
+</script>
+<!--End of Tawk.to Script-->
 </body>
 
 </html>

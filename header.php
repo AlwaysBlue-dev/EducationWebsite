@@ -6,7 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
 
-    <title>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</title>
+    <title>ProExamTakers excels in Proxy Test-Taking and Cloud-Computing Technology services and stands as your ultimate
+        ally in any type of certification exams service. Hire us to Get any Examination done without Hassle.</title>
     <link rel="stylesheet" media="all" href="css/css_4E094m2rrJvq1q78-LSXYU5Dmp1wCYFH6S3S09WobU8.css">
     <link rel="stylesheet" media="all" href="css/css_vk5uIWWlb5bessPKkuVYwtQymXiGOsfnxkyEEDke8zQ.css">
     <link rel="stylesheet" media="all" href="css/css_dsoNCNJ2K8CmbfDY3V0u38ClRs4Sieayf5KQqXXI_7A.css">
@@ -200,57 +201,40 @@
                     </div>
                 </nav>
             </header>
-
-            <!--Start of Tawk.to Script-->
-            <script type="text/javascript">
-            var Tawk_API = Tawk_API || {},
-                Tawk_LoadStart = new Date();
-            (function() {
-                var s1 = document.createElement("script"),
-                    s0 = document.getElementsByTagName("script")[0];
-                s1.async = true;
-                s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
-                s1.charset = 'UTF-8';
-                s1.setAttribute('crossorigin', '*');
-                s0.parentNode.insertBefore(s1, s0);
-            })();
-            </script>
-            <!--End of Tawk.to Script-->
-
             <script>
-            var url = 'https://wati-integration-prod-service.clare.ai/v2/watiWidget.js?96136';
-            var s = document.createElement('script');
-            s.type = 'text/javascript';
-            s.async = true;
-            s.src = url;
-            var options = {
-                "enabled": true,
-                "chatButtonSetting": {
-                    "backgroundColor": "#00e785",
-                    "ctaText": "Get Instant Quote",
-                    "borderRadius": "25",
-                    "marginLeft": "20", 
+                var url = 'https://wati-integration-prod-service.clare.ai/v2/watiWidget.js?93222';
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = url;
+                var options = {
+                "enabled":true,
+                "chatButtonSetting":{
+                    "backgroundColor":"#00e785",
+                    "ctaText":"Chat with us",
+                    "borderRadius":"25",
+                    "marginLeft": "20",
                     "marginRight": "0",
                     "marginBottom": "20",
-                    "ctaIconWATI": false,
-                    "position": "left" 
+                    "ctaIconWATI":false,
+                    "position":"left"
                 },
-                "brandSetting": {
-                    "brandName": "ProExamTakers",
-                    "brandSubTitle": "undefined",
-                    "brandImg": "https://www.wati.io/wp-content/uploads/2023/04/Wati-logo.svg",
-                    "welcomeText": "Hi there!\nHow can I help you?",
-                    "messageText": "Hello, %0A I have a question about {{page_link}}",
-                    "backgroundColor": "#00e785",
-                    "ctaText": "Get Instant Quote",
-                    "borderRadius": "25",
-                    "autoShow": false,
-                    "phoneNumber": "923123634163"
+                "brandSetting":{
+                    "brandName":"ProExamTakers",
+                    "brandSubTitle":"undefined",
+                    "brandImg":"http://localhost/proexamtakers/images/logo_dark.png",
+                    "welcomeText":"Hi there!\nHow can I help you?",
+                    "messageText":"Hello, %0A I have a question",
+                    "backgroundColor":"#00e785",
+                    "ctaText":"Chat with us",
+                    "borderRadius":"25",
+                    "autoShow":false,
+                    "phoneNumber":"12032921112"
                 }
-            };
-            s.onload = function() {
-                CreateWhatsappChatWidget(options);
-            };
-            var x = document.getElementsByTagName('script')[0];
-            x.parentNode.insertBefore(s, x);
+                };
+                s.onload = function() {
+                    CreateWhatsappChatWidget(options);
+                };
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
             </script>
