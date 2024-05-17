@@ -72,8 +72,9 @@
                                                         <li><a href="index.php">Home</a></li>
 
                                                         </li>
-                                                        <li><a href="about.html">About</a>
-                                                        <li><a href="contact.html">Contact US</a>
+                                                        <li><a href="about.php">About</a>
+                                                        <li><a href="contact.php">Contact US</a>
+                                                        <li><a href="termsandconditions.php">Terms & Conditions</a>
                                                     </ul>
                                                 </div>
 

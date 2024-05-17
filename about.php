@@ -30,7 +30,7 @@
                                             <div class="background-with-image-basic-page">
                                                 <h1
                                                     style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 3rem">
-                                                    CertWizard</h1>
+                                                    ProExamTakers</h1>
                                             </div>
                                         </span></div>
                                 </div>
@@ -84,172 +84,142 @@
                                                                         <div class="field-content">
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
-                                                                                About CertWizard</h2>
+                                                                                About ProExamTakers</h2>
 
-                                                                            <p>Are you looking for IT
-                                                                                certification? Do you need
-                                                                                help to pass the exam on the
-                                                                                first attempt? Want to
-                                                                                become an IT-certified
-                                                                                professional? Want to buy a
-                                                                                cert online? If the answers
-                                                                                are yes, then you are in the
-                                                                                right place!</p>
-
-                                                                            <p><strong>CertWizard was
-                                                                                    founded in February
-                                                                                    2005</strong>. We are a
-                                                                                team of IT professionals
-                                                                                with 15+ years experience in
-                                                                                the IT certification
-                                                                                industry.</p>
-
-                                                                            <p><strong>CertWizard</strong>
-                                                                                provides educational
-                                                                                services, namely, non-degree
-                                                                                educational services
-                                                                                provided to graduate and
-                                                                                post-graduate level students
-                                                                                in test-taking preparation
-                                                                                and distribution of printed
-                                                                                and electronic materials in
-                                                                                connection therewith;
-                                                                                providing information in the
-                                                                                fields of test preparation.
+                                                                            <p>Welcome to
+                                                                                <strong>ProExamTakers!</strong>
+                                                                                Are you aiming for a professional
+                                                                                certification? Need assistance to ace
+                                                                                your exam or class on the first attempt?
+                                                                                Want to become a certified professional
+                                                                                swiftly? Looking to hire an expert to
+                                                                                manage your online exam, class, or
+                                                                                course?
+                                                                                If you answered yes to any of these
+                                                                                questions, you’ve come to the right
+                                                                                place!
                                                                             </p>
 
-                                                                            <p>CertWizard is the
-                                                                                <strong>owner of several
-                                                                                    Authorized Testing
-                                                                                    Centers all over the
-                                                                                    world.</strong> No
-                                                                                matter where you are
-                                                                                located, <strong>we can help
-                                                                                    you pass any test you
-                                                                                    need to pass.</strong>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                Our Story</h2>
+
+                                                                            <p><strong>Founded in April 2013</strong>,
+                                                                                ProExamTakers is a team of seasoned
+                                                                                professionals with over a decade of
+                                                                                experience in the online exam,
+                                                                                certification, and course industry. Our
+                                                                                mission is to simplify the process and
+                                                                                help you achieve your goals.</p>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                What We Offer</h2>
+                                                                            <p><strong>ProExamTakers</strong>
+                                                                                specializes in providing comprehensive
+                                                                                educational services, including test
+                                                                                preparation for graduate and
+                                                                                post-graduate level students. We offer
+                                                                                both printed and electronic materials to
+                                                                                support your learning and preparation.
+                                                                                Our expertise spans various fields of
+                                                                                test preparation, ensuring you have the
+                                                                                information and tools you need to
+                                                                                succeed.
+                                                                            </p>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                Global Reach</h2>
+                                                                            <p>With numerous Authorized Testing Centers
+                                                                                worldwide,
+                                                                                <strong>ProExamTakers</strong> is
+                                                                                equipped to assist you no matter your
+                                                                                location. Whether you need to pass a
+                                                                                test at an official test center or
+                                                                                online through platforms like Pearson
+                                                                                VUE, Kryterion, Prometric, ProctorU,
+                                                                                Lockdown Browser, ETS, or CLEP, we’ve
+                                                                                got you covered. Our services make
+                                                                                passing exams quick and effortless—no
+                                                                                need to even leave your home!
+                                                                            </p>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                Our Process</h2>
+                                                                            <p>At <strong>ProExamTakers</strong>, we
+                                                                                prioritize a smooth and stress-free
+                                                                                experience. Our streamlined three-step
+                                                                                process ensures your journey is as
+                                                                                seamless as possible. We pride ourselves
+                                                                                on our 100% pass rate and offer a 100%
+                                                                                pass guarantee for all tasks. If we
+                                                                                can't help you, we’ll be upfront about
+                                                                                it.</p>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                Who Benefits from Our Services?</h2>
+                                                                            <p>In today’s competitive industry, the
+                                                                                pressure to enhance skills and
+                                                                                credentials is immense. Our services are
+                                                                                ideal for:
+                                                                                <br>Students or Professionals with
+                                                                                limited time for exam preparation.
+                                                                                <br>Aspiring individuals seeking to
+                                                                                boost their career prospects with
+                                                                                certifications.
+                                                                                <br>Employees required to pass
+                                                                                certification exams quickly by their
+                                                                                employers.
                                                                             </p>
 
-                                                                            <p>We will help you to pass any
-                                                                                IT certification exam in the
-                                                                                official test center
-                                                                                (Pearson VUE, Kryterion,
-                                                                                Prometric). CertWizard
-                                                                                offers a QUICK AND
-                                                                                SUPER-EASY way to pass any
-                                                                                exam without going to the
-                                                                                test center. <strong>Not
-                                                                                    even Shoes are
-                                                                                    required!</strong></p>
+                                                                            <h3>Why Choose ProExamTakers?</h3>
 
-                                                                            <p>With three steps IT
-                                                                                certification process we
-                                                                                will ensure your IT
-                                                                                certification experience
-                                                                                goes as smoothly as
-                                                                                possible.<br>
-                                                                                We know our Candidate
-                                                                                satisfaction is our best
-                                                                                advertisement and goal every
-                                                                                time. We have a 100% pass
-                                                                                rate, so we give you a 100%
-                                                                                pass guarantee for all IT
-                                                                                certifications, or we will
-                                                                                simply tell you if we can’t
-                                                                                do it.</p>
 
-                                                                            <h3>WHO&nbsp;should use
-                                                                                CertWizard PROXY TEST-TAKING
-                                                                                service and WHY?</h3>
-
-                                                                            <p>We all feel this increasing
-                                                                                competition in the
-                                                                                Information technology
-                                                                                workforce these days, the
-                                                                                pressure to develop skills,
-                                                                                to be more competent, to be
-                                                                                smarter, faster, or in a
-                                                                                one-word wiser. You can be a
-                                                                                guy who works in IT every
-                                                                                day but simply does not have
-                                                                                time to prepare for the
-                                                                                exam.<br>
-                                                                                You are someone who wants to
-                                                                                start a career in IT, but
-                                                                                without IT certification in
-                                                                                your CV, your chances of
-                                                                                getting the desired
-                                                                                Job&nbsp;are much
-                                                                                smaller.<br>
-                                                                                It happens all the
-                                                                                time;&nbsp;company
-                                                                                management gives you a task
-                                                                                to pass the IT certification
-                                                                                exam in a short&nbsp;time.
-                                                                                In that case, CertWizard is
-                                                                                your best
-                                                                                friend.<br><br><strong>Why
-                                                                                    use our PROXY
-                                                                                    TEST-TAKING
-                                                                                    service:</strong></p>
 
                                                                             <ul>
                                                                                 <li>NO STUDY</li>
-                                                                                <li>NO EXAM&nbsp;</li>
-                                                                                <li>NO TRAINING course
+                                                                                <li>NO EXAM TO TAKE&nbsp;</li>
+                                                                                <li>NO TRAINING COURSES NEEDED
                                                                                     &nbsp;</li>
-                                                                                <li>Super-Easy and Fast</li>
-                                                                                <li>Without exam
-                                                                                    requirements!</li>
-                                                                                <li>Priced Reasonably</li>
-                                                                                <li>24 hours Support</li>
-                                                                                <li>Passing Guarantee or
-                                                                                    100% Money Back</li>
+                                                                                <li>Super-Easy and Fast Process/li>
+                                                                                <li>No Exam Requirements</li>
+                                                                                <li>Reasonable Pricing</li>
+                                                                                <li>24/7 Support</li>
+                                                                                <li>Pass Guarantee or 100% Money Back
+                                                                                </li>
                                                                             </ul>
-                                                                            <p>Your CV needs to look much
-                                                                                better to get that desired
-                                                                                job/project/salary, and this
-                                                                                certificate would help you a
-                                                                                lot. Possibilities are
-                                                                                endless, only you know them,
-                                                                                and we are here to help you
-                                                                                get this desired IT
-                                                                                certification.<br>
-                                                                                &nbsp;<br>
-                                                                                96% of HR managers use IT
-                                                                                certifications as screening
-                                                                                or hiring criteria during
-                                                                                recruitment. Microsoft,
-                                                                                Cisco, CompTIA, AWS, ISACA,
-                                                                                ITIL, EC-Council, PMP, ISC2,
-                                                                                Juniper, and Google are the
-                                                                                most respected names in the
-                                                                                IT certification world.
-                                                                                <strong>We can help you get
-                                                                                    the desired
-                                                                                    certification in 5-7
-                                                                                    days.</strong><br><br>
-                                                                                STOP looking for IT exam
-                                                                                questions, certification
-                                                                                cost, study path, exam study
-                                                                                guide, official training,
-                                                                                exam requirements,
-                                                                                certification pdf book or
-                                                                                braindumps!<br><br>
-                                                                                After we finish your
-                                                                                certification process, you
-                                                                                will be able to check your
-                                                                                results on the company’s
-                                                                                official certification
-                                                                                website.
+                                                                            <p>Enhance your CV, achieve your career
+                                                                                goals, and unlock endless possibilities
+                                                                                with <strong>ProExamTakers</strong>. A
+                                                                                better grades can lead to better job
+                                                                                opportunities, projects, and salaries.
                                                                             </p>
-
-                                                                            <p><strong>CertWizard.com, your
-                                                                                    IT certification
-                                                                                    wizard!<br>
-                                                                                    CertWizard - Buy IT exam
-                                                                                    pass - IT Guaranteed
-                                                                                    PASS - buy IT
-                                                                                    cert</strong></p>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                Certification Services</h2>
+                                                                            <p>96% of HR managers use certifications as
+                                                                                a hiring criterion. We help you secure
+                                                                                respected certifications from Microsoft,
+                                                                                Cisco, CompTIA, AWS, ISACA, ITIL,
+                                                                                EC-Council, PMP, ISC2, Juniper, Google,
+                                                                                and more in just 5-7 days.</p>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                Stop Searching and Start Achieving</h2>
+                                                                            <p>Forget about exam questions,
+                                                                                certification costs, study guides,
+                                                                                official training, and braindumps. With
+                                                                                <strong>ProExamTakers</strong>, your
+                                                                                certification process is handled
+                                                                                professionally and efficiently. Once
+                                                                                complete, you can verify your results on
+                                                                                the official company website or through
+                                                                                your LMS.</p>
+                                                                            <h2
+                                                                                style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
+                                                                                Join Us Today</h2>
+                                                                            <p>Visit <strong>ProExamTakers</strong>.com
+                                                                                and take the first step towards your
+                                                                                career success!</p>
                                                                         </div>
                                                                     </div>
                                                                 </div>

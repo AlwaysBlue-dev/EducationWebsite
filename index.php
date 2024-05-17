@@ -1462,7 +1462,7 @@
                                                             <form
                                                                 action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e"
                                                                 method="POST">
-                                                                <form action="submit_form.php" method="post">
+                                                               
                                                                     <input type="text" name="name" placeholder="Name"
                                                                         required>
                                                                     <input type="email" name="email" placeholder="Email"

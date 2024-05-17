@@ -45,13 +45,34 @@
 
                                                             <div class="view-header">
                                                                 <div class="custom-title-and-subtitle">
-                                                                    <h1>Contact Us</h1>
-                                                                    <p>We are here to help, if you have any
-                                                                        questions please ask. We'll reply to
-                                                                        your email within 12 hours, answer
-                                                                        all your questions and give you
-                                                                        instructions about how you can get
-                                                                        IT certified in just a few days.</p>
+                                                                    <h1>Start Your Journey with Us!</h1>
+                                                                    <p>Don't hesitate to reach out! We offer
+                                                                        round-the-clock assistance to ensure all your
+                                                                        questions are answered.
+                                                                        Simply drop your details below to schedule a
+                                                                        complimentary 15-minute telephone consultation
+                                                                        with one of our
+                                                                        knowledgeable experts.
+                                                                        Your success is our priority, and we look
+                                                                        forward to helping you achieve your goals!
+                                                                        .</p>
+                                                                </div>
+                                                            </div>
+
+                                                            <div class="view-header">
+                                                                <div class="custom-title-and-subtitle">
+                                                                    <h1>Need Help with Anything?</h1>
+                                                                    <p>Don't hesitate to reach out! We offer
+                                                                        round-the-clock assistance
+                                                                        to ensure all your questions are answered.
+                                                                        Simply drop your details
+                                                                        below to schedule a complimentary 15-minute
+                                                                        telephone consultation with
+                                                                        one of our knowledgeable experts.
+                                                                        Your success is our priority, and we look
+                                                                        forward to helping you achieve your goals!
+
+                                                                        .</p>
                                                                 </div>
                                                             </div>
 
@@ -76,11 +97,9 @@
 
                                                 <div class="content">
 
-                                                    <form action="/contact-us" method="post"
-                                                        id="contact-message-feedback-form" accept-charset="UTF-8">
-
-
-
+                                                    <form
+                                                        action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e"
+                                                        method="POST">
 
                                                         <fieldset
                                                             class="js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-group">
@@ -93,6 +112,19 @@
                                                                 required="required" aria-required="true">
 
                                                         </fieldset>
+
+                                                        <fieldset
+                                                            class="js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-group">
+                                                            <label for="edit-name"
+                                                                class="js-form-required form-required">Your
+                                                                contact</label>
+                                                            <input data-drupal-selector="edit-name" type="text"
+                                                                id="edit-name" name="contact" value="" size="60"
+                                                                maxlength="255" class="required form-control"
+                                                                required="required" aria-required="true">
+
+                                                        </fieldset>
+
 
 
 
@@ -121,7 +153,7 @@
                                                                 <input
                                                                     class="js-text-full text-full required form-control"
                                                                     data-drupal-selector="edit-subject-0-value"
-                                                                    type="text" id="edit-subject-0-value"
+                                                                    type="text" id="edit-subject-0-value" name="subject"
                                                                     name="subject[0][value]" value="" size="60"
                                                                     maxlength="100" placeholder="" required="required"
                                                                     aria-required="true">
@@ -143,7 +175,7 @@
                                                                     <textarea
                                                                         class="js-text-full text-full form-textarea required form-control resize-vertical"
                                                                         data-drupal-selector="edit-message-0-value"
-                                                                        id="edit-message-0-value"
+                                                                        id="edit-message-0-value" name="msg"
                                                                         name="message[0][value]" rows="12" cols="60"
                                                                         placeholder="" required="required"
                                                                         aria-required="true"></textarea>
@@ -152,18 +184,10 @@
                                                             </fieldset>
 
                                                         </div>
-                                                        <input autocomplete="off"
-                                                            data-drupal-selector="form-yylgf912ytrafuw6xxgvdz7iydigq5jpoce8npm7o2k"
-                                                            type="hidden" name="form_build_id"
-                                                            value="form-YYLgF912YtrAFUw6xXGVDZ7IYdIgq5jPOce8nPm7O2k"
-                                                            class="form-control">
-                                                        <input data-drupal-selector="edit-contact-message-feedback-form"
-                                                            type="hidden" name="form_id"
-                                                            value="contact_message_feedback_form" class="form-control">
-                                                        <input data-drupal-selector="edit-honeypot-time" type="hidden"
-                                                            name="honeypot_time"
-                                                            value="EY8lPwNBP4TpSEjdRVVYOY7pteaAZxBgr3NigvHt6Ss"
-                                                            class="form-control">
+                                                        <input type="hidden" name="_next"
+                                                            value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
+                                                        <input type="hidden" name="_captcha" value="false">
+
                                                         <div data-drupal-selector="edit-actions"
                                                             class="form-actions js-form-wrapper form-group"
                                                             id="edit-actions"><button data-drupal-selector="edit-submit"
