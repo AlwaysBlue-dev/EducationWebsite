@@ -222,7 +222,7 @@
                 "brandSetting":{
                     "brandName":"ProExamTakers",
                     "brandSubTitle":"undefined",
-                    "brandImg":"http://localhost/proexamtakers/images/logo_dark.png",
+                    "brandImg":"http://proexamtakers.infinityfreeapp.com/images/logo_dark.png",
                     "welcomeText":"Hi there!\nHow can I help you?",
                     "messageText":"Hello, %0A I have a question",
                     "backgroundColor":"#00e785",

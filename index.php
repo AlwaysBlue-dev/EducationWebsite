@@ -109,6 +109,12 @@
 .form-container button:hover {
     background-color: #00332e;
 }
+/* Hide the image section on small and mobile devices */
+@media only screen and (max-width: 768px) {
+    .image-section {
+        display: none; /* Hide the image section for devices with a maximum width of 768px */
+    }
+}
 </style>
 
 <body class="layout-no-sidebars path-frontpage">
@@ -1466,7 +1472,7 @@
                                                                     <textarea name="message" placeholder="Your Message"
                                                                         required></textarea>
                                                                     <input type="hidden" name="_next"
-                                                                        value="http://localhost/proexamtakers/thank-you.php">
+                                                                        value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
                                                                     <input type="hidden" name="_captcha" value="false">
                                                                     <button type="submit">Submit</button>
                                                                 </form>
