@@ -1454,7 +1454,7 @@
                                                         <div class="form-container">
                                                             <h2>Avail Amazing<br>50% Discount Now!</h2>
                                                             <form
-                                                                action="https://formsubmit.co/info@proexamtakers.com"
+                                                                action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e"
                                                                 method="POST">
                                                                 <form action="submit_form.php" method="post">
                                                                     <input type="text" name="name" placeholder="Name"
