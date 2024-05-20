@@ -160,14 +160,7 @@
                                                 <a href="pages/scrum/" class="nav-link--prince2"
                                                     data-drupal-link-system-path="taxonomy/term/19">SCRUM</a>
                                             </li>
-                                            <li class="dropdown-item">
-                                                <a href="pages/exin/" class="nav-link--prince2"
-                                                    data-drupal-link-system-path="taxonomy/term/19">EXIN</a>
-                                            </li>
-                                            <li class="dropdown-item">
-                                                <a href="pages/hrci/" class="nav-link--prince2"
-                                                    data-drupal-link-system-path="taxonomy/term/19">HRCI</a>
-                                            </li>
+                                            
                                             <li class="dropdown-item">
                                                 <a href="pages/salesforce/" class="nav-link--prince2"
                                                     data-drupal-link-system-path="taxonomy/term/19">SALESFORCE</a>
@@ -178,7 +171,11 @@
                                             </li>
                                         </ul>
 
-
+                                    <li class="nav-item">
+                                        <a href="onlineclass.php" class="nav-link nav-link-- is-active"
+                                            data-drupal-link-system-path="<front>">Online Class / Course
+                                        </a>
+                                    </li>
                                     <li class="nav-item">
                                         <a href="about.php" class="nav-link nav-link-- is-active"
                                             data-drupal-link-system-path="<front>">About

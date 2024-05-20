@@ -40,8 +40,8 @@
 
                                                     <ul>
                                                         <li><a href="/index.php">Home</a></li>
-
-                                                        </li>
+                                                        <li><a href="/onlineclass.php">Online Class / Course</a></li>
+                                                   
                                                         <li><a href="/about.php">About</a>
                                                         <li><a href="/contact.php">Contact US</a>
                                                         <li><a href="/termsandconditions.php">Terms & Conditions</a>
@@ -89,11 +89,7 @@
                                                         <li><a href="../oracle/" rel=" noopener"
                                                                 target="_blank">Oracle</a></li>
                                                         <li><a href="../scrum/" rel=" noopener"
-                                                                target="_blank">SCRUM</a></li>
-                                                        <li><a href="../exin/" rel=" noopener"
-                                                                target="_blank">EXIN</a></li>
-                                                        <li><a href="../hrci/" rel=" noopener"
-                                                                target="_blank">HRCI</a></li>
+                                                                target="_blank">SCRUM</a></li>                                                      
                                                         <li><a href="../salesforce/" rel=" noopener"
                                                                 target="_blank">Salesforce</a></li>
 
