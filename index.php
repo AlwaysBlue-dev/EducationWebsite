@@ -1,5 +1,8 @@
 <?php include 'header.php'; ?>
+<title>Pro Exam Takers – Your Partner in Academic Success</title>
 <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
 .popup-overlay {
     position: fixed;
     top: 0;
@@ -109,11 +112,31 @@
 .form-container button:hover {
     background-color: #00332e;
 }
+
 /* Hide the image section on small and mobile devices */
 @media only screen and (max-width: 768px) {
     .image-section {
-        display: none; /* Hide the image section for devices with a maximum width of 768px */
+        display: none;
+        /* Hide the image section for devices with a maximum width of 768px */
     }
+}
+
+.h_btn {
+    padding: 12px 45px;
+    font-weight: 800;
+    background: #00bdff;
+    text-transform: uppercase;
+    border-radius: 10px;
+    display: inline-block;
+    transition: all .3s linear;
+}
+
+.float_wn {
+    background: #25D366;
+    padding: 13px 30px;
+    border-radius: 10px;
+    font-weight: 800;
+    text-transform: uppercase;
 }
 </style>
 
@@ -125,34 +148,33 @@
 
         </aside>
     </div>
+
     <div id="main-wrapper" class="layout-main-wrapper clearfix">
         <div id="main" class="container">
             <div class="views-element-container block block-views block-views-blockslider-home-page-block-1"
                 id="block-certwizard-views-block-slider-home-page-block-1">
-
-
                 <div class="content">
                     <div>
                         <div
                             class="view view-slider-home-page view-id-slider_home_page view-display-id-block_1 js-view-dom-id-208d2b8b37613f0d35c4bc3d12a947ef1093519fc5ac907c32b3f3b3a00b5f10">
-
-
-
                             <div class="view-content">
                                 <div class="views-row">
-                                    <div class="views-field views-field-nothing"><span class="field-content">
+                                    <div class="views-field views-field-nothing">
+                                        <span class="field-content">
                                             <div class="background-image-slider">
                                                 <div class="content">
                                                     <div class="text">
                                                         <h1
-                                                            style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 3rem">
-                                                            We assists you pass any Certification Exam without the need
-                                                            for
-                                                            exams or training! </h1>
+                                                            style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 3rem; background-color:#171347;">
+                                                            We assist you in passing any Certification Exam without the
+                                                            need
+                                                            for exams or training!
+                                                        </h1>
                                                     </div>
                                                 </div>
                                             </div>
-                                        </span></div>
+                                        </span>
+                                    </div>
                                 </div>
 
                             </div>
@@ -162,7 +184,6 @@
 
                 </div>
             </div>
-
 
             <div class="row row-offcanvas row-offcanvas-left clearfix">
                 <main class="main-content col" id="content" role="main">
@@ -677,68 +698,8 @@
                                                                             </span>
                                                                         </div>
                                                                     </div>
-                                                                    <div>
-                                                                        <div class="views-field views-field-nothing">
-                                                                            <span class="field-content">
-                                                                                <div class="image"> <a
-                                                                                        href="pages/exin/"><img
-                                                                                            loading="lazy"
-                                                                                            src="images/exin.png"
-                                                                                            width="250" height="176"
-                                                                                            alt="Buy ITIL exam pass online for a small cost"
-                                                                                            typeof="Image"
-                                                                                            class="image-style-_50xauzo">
 
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="title">
-                                                                                    <h3><a href="pages/exin/"
-                                                                                            hreflang="en">EXIN
-                                                                                            Exam
-                                                                                        </a>
-                                                                                    </h3>
-                                                                                </div>
-                                                                                <div class="description">
-                                                                                    <p>Prepare for your <strong>EXIN
-                                                                                            exam</strong> with our
-                                                                                        comprehensive study materials
-                                                                                        and
-                                                                                        expert guidance.</p>
-                                                                                </div>
-                                                                            </span>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div>
-                                                                        <div class="views-field views-field-nothing">
-                                                                            <span class="field-content">
-                                                                                <div class="image"> <a
-                                                                                        href="pages/hrci/"><img
-                                                                                            loading="lazy"
-                                                                                            src="images/hrci.png"
-                                                                                            width="250" height="176"
-                                                                                            alt="Buy ITIL exam pass online for a small cost"
-                                                                                            typeof="Image"
-                                                                                            class="image-style-_50xauzo">
 
-                                                                                    </a>
-                                                                                </div>
-                                                                                <div class="title">
-                                                                                    <h3><a href="pages/hrci/"
-                                                                                            hreflang="en">HRCI
-                                                                                            Certification
-                                                                                        </a>
-                                                                                    </h3>
-                                                                                </div>
-                                                                                <div class="description">
-                                                                                    <p>Advance your HR career with a
-                                                                                        prestigious <strong>HRCI
-                                                                                            certification</strong>. Our
-                                                                                        training programs will help you
-                                                                                        achieve your goals.</p>
-                                                                                </div>
-                                                                            </span>
-                                                                        </div>
-                                                                    </div>
                                                                     <div>
                                                                         <div class="views-field views-field-nothing">
                                                                             <span class="field-content">
@@ -1349,97 +1310,23 @@
                                                                                 Security Manager</a></h3>
                                                                     </div>
                                                                 </div>
-
-
-
-                                                            </div>
-
-                                                        </div>
-                                                    </div>
-
-                                                </div>
-                                            </div>
-                                            <div
-                                                class="views-element-container block block-views block-views-block3-steps-block-3">
-
-
-                                                <div class="content">
-                                                    <div>
-                                                        <div
-                                                            class="view-with-margin view view-_-steps view-id-3_steps view-display-id-block_3 js-view-dom-id-eb34a24a5748a1f0741988adacf545c6c8a3427d06c917e3182eb7ec115dc4a7">
-
-
-                                                            <div class="view-header">
-                                                                <div class="view-header">
-                                                                    <div
-                                                                        class="custom-title-and-subtitle-margin-bottom">
-                                                                        <h2>3 steps for certification</h2>
-                                                                        <p>We are a boutique digital
-                                                                            transformation consultancy and
-                                                                            development company.</p>
+                                                                <div
+                                                                    class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
+                                                                    <div class="d-flex justify-content-center m-2">
+                                                                        <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
+                                                                            target="_blank" class="float_wn text-white">
+                                                                            <i class="fa fa-whatsapp"
+                                                                                aria-hidden="true"></i> Whatsapp Now
+                                                                        </a>
                                                                     </div>
-                                                                </div>
-                                                            </div>
-
-                                                            <div class="view-content">
-                                                                <div class="views-row">
-                                                                    <div class="views-field views-field-nothing">
-                                                                        <span class="field-content">
-                                                                            <div class="step">
-                                                                                <p><img alt="Image removed."
-                                                                                        data-entity-type="file"
-                                                                                        data-entity-uuid="eef6da96-1e57-41ff-98f0-83d292ec1ee8"
-                                                                                        src="images/choose.png" title=""
-                                                                                        height="16" width="16"
-                                                                                        class="filter-image-invalid"
-                                                                                        loading="lazy">
-                                                                                </p>
-
-                                                                                <p><strong>Step 1</strong>
-                                                                                </p>
-
-                                                                                <p>Choose the desired IT
-                                                                                    certification and email
-                                                                                    the details to us.</p>
-                                                                            </div>
-                                                                            <div class="step">
-                                                                                <p><span><img alt="Image removed."
-                                                                                            data-entity-type="file"
-                                                                                            data-entity-uuid="8731d73c-983d-45e5-9b7b-714dbea48dfc"
-                                                                                            src="images/email.png"
-                                                                                            title="" height="16"
-                                                                                            width="16"
-                                                                                            class="filter-image-invalid"
-                                                                                            loading="lazy"></span>
-                                                                                </p>
-
-                                                                                <p><strong>Step 2</strong>
-                                                                                </p>
-
-                                                                                <p>Send us all the required
-                                                                                    information with the
-                                                                                    payment.</p>
-                                                                            </div>
-                                                                            <div class="step">
-                                                                                <p><span></span><img
-                                                                                        alt="Image removed."
-                                                                                        data-entity-type="file"
-                                                                                        data-entity-uuid="4235562b-54c7-4141-909e-0ea7a4aa07e1"
-                                                                                        src="images/celebration.png"
-                                                                                        title="" height="16" width="16"
-                                                                                        class="filter-image-invalid"
-                                                                                        loading="lazy">
-                                                                                </p>
-
-                                                                                <p><strong>Step 3</strong>
-                                                                                </p>
-
-                                                                                <p>Pass within 5 days and
-                                                                                    check out your result on
-                                                                                    the official website.
-                                                                                </p>
-                                                                            </div>
-                                                                        </span>
+                                                                    <div class="d-flex justify-content-center m-2">
+                                                                        <a href="javascript:void(0);" role="button"
+                                                                            data-toggle="modal" data-target="#myModal"
+                                                                            class="h_btn text-white"
+                                                                            id="orderNowButton">
+                                                                            <i class="fa fa-check-circle"
+                                                                                aria-hidden="true"></i> Order Now
+                                                                        </a>
                                                                     </div>
                                                                 </div>
 
@@ -1450,11 +1337,12 @@
 
                                                 </div>
                                             </div>
+
                                             <div class="popup-overlay" id="popup">
                                                 <div class="popup-content">
                                                     <span class="close-button" id="closeButton">&times;</span>
                                                     <div class="image-section">
-                                                        <img src="images/form.PNG" alt="Student studying">
+                                                        <img src="images/popup.jpg" alt="Student studying">
                                                     </div>
                                                     <div class="form-section">
                                                         <div class="form-container">
@@ -1462,20 +1350,20 @@
                                                             <form
                                                                 action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e"
                                                                 method="POST">
-                                                               
-                                                                    <input type="text" name="name" placeholder="Name"
-                                                                        required>
-                                                                    <input type="email" name="email" placeholder="Email"
-                                                                        required>
-                                                                    <input type="tel" name="phone"
-                                                                        placeholder="Phone Number" required>
-                                                                    <textarea name="message" placeholder="Your Message"
-                                                                        required></textarea>
-                                                                    <input type="hidden" name="_next"
-                                                                        value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
-                                                                    <input type="hidden" name="_captcha" value="false">
-                                                                    <button type="submit">Submit</button>
-                                                                </form>
+
+                                                                <input type="text" name="name" placeholder="Name"
+                                                                    required>
+                                                                <input type="email" name="email" placeholder="Email"
+                                                                    required>
+                                                                <input type="tel" name="phone"
+                                                                    placeholder="Phone Number" required>
+                                                                <textarea name="message" placeholder="Your Message"
+                                                                    required></textarea>
+                                                                <input type="hidden" name="_next"
+                                                                    value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
+                                                                <input type="hidden" name="_captcha" value="false">
+                                                                <button type="submit">Submit</button>
+                                                            </form>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -1545,6 +1433,29 @@
                                                     });
                                             });
                                             </script>
+                                            <script>
+                                            document.addEventListener('DOMContentLoaded', function() {
+                                                var orderNowButton = document.getElementById('orderNowButton');
+                                                var popup = document.getElementById('popup');
+                                                var closeButton = document.getElementById('closeButton');
+
+                                                orderNowButton.addEventListener('click', function() {
+                                                    popup.style.display = 'flex';
+                                                });
+
+                                                closeButton.addEventListener('click', function() {
+                                                    popup.style.display = 'none';
+                                                });
+
+                                                // Optional: Close the popup if the user clicks outside of the popup content
+                                                window.addEventListener('click', function(event) {
+                                                    if (event.target === popup) {
+                                                        popup.style.display = 'none';
+                                                    }
+                                                });
+                                            });
+                                            </script>
+
 </body>
 
 </html>

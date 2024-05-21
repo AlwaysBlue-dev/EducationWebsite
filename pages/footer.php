@@ -1,132 +1,113 @@
-    <footer class="site-footer mt-5">
+<footer class="site-footer text-white mt-5">
     <div class="container">
         <div class="site-footer__top clearfix">
             <section class="row region region-footer-first">
                 <div class="views-element-container block block-views block-views-blockfooter-block-1"
                     id="block-certwizard-views-block-footer-block-1">
-
-
                     <div class="content">
-                        <div>
-                            <div
-                                class="view view-footer view-id-footer view-display-id-block_1 js-view-dom-id-a298352ea29bc1383ab185f28c2f6746426755f9eb3c1541c44c8357487a04e7">
-
-
-
-                                <div class="view-content">
-                                    <div class="views-row">
-                                        <div class="views-field views-field-nothing"><span class="field-content">
-                                                <div class="col-md-12 col-sm-12 col-top-region">
-                                                    <div class="footer-logo m-auto"> <img loading="lazy"
-                                                            src="/images/logo.png" width="250"
-                                                            height="42" alt="ProExamTakers" typeof="Image">
-
-                                                    </div>
-                                                    <p class="mt-2">ProExamTakers offers educational services, specializing in
-                                                        non-degree educational support for graduate
-                                                        and post-graduate level students in test-taking preparation. We
-                                                        distribute both printed and electronic materials
-                                                        related to these services and provide valuable information in
-                                                        the field of test preparation. As a leader in the Cloud
-                                                        omputing Test Taking service, ProExamTakers is your trusted
-                                                        partner in achieving any certification excellence.</p>
-
-
-                                                </div>
-
-
-                                                <div class="col-md-3 col-12 col-links">
-                                                    <h3>Certwizard links</h3>
-
-                                                    <ul>
-                                                        <li><a href="/index.php">Home</a></li>
-                                                        <li><a href="/onlineclass.php">Online Class / Course</a></li>
-                                                   
-                                                        <li><a href="/about.php">About</a>
-                                                        <li><a href="/contact.php">Contact US</a>
-                                                        <li><a href="/termsandconditions.php">Terms & Conditions</a>
-                                                    </ul>
-                                                </div>
-
-
-                                                <div class="col-md-3 col-12 col-links">
-                                                    <h3>Main IT Certification Programs</h3>
-
-                                                    <ul>
-                                                        <li><a href="../microsoft/" rel=" noopener"
-                                                                target="_blank">Mircosoft</a></li>
-                                                        <li><a href="../cisco/" rel=" noopener"
-                                                                target="_blank">Cisco</a></li>
-                                                        <li><a href="../comptia/" rel=" noopener"
-                                                                target="_blank">CompTIA</a></li>
-                                                        <li><a href="../ec-council/" rel=" noopener"
-                                                                target="_blank">EC-Council</a></li>
-                                                        <li><a href="../isaca/" rel=" noopener"
-                                                                target="_blank">ISACA</a></li>
-                                                        <li><a href="../aws/" rel=" noopener" target="_blank">AWS</a>
-                                                        </li>
-                                                        <li><a href="../pmi/" rel=" noopener" target="_blank">PMI</a>
-                                                        </li>
-                                                        <li><a href="../itil/" rel=" noopener"
-                                                                target="_blank">ITIL</a></li>
-                                                        <li><a href="../six-sigma/" rel=" noopener"
-                                                                target="_blank">Six Sigma</a></li>
-
-                                                    </ul>
-                                                </div>
-
-
-                                                <div class="col-md-6 col-12 col-links col-links-2col">
-                                                    <h3>Other IT Certification Programs</h3>
-
-                                                    <ul>
-                                                        <li><a href="../ged/" rel=" noopener" target="_blank">GED</a>
-                                                        </li>
-                                                        <li><a href="../ati-teas/" rel=" noopener"
-                                                                target="_blank">ATI TEAS</a></li>
-                                                        <li><a href="../prince2/" rel=" noopener"
-                                                                target="_blank">Prince2</a></li>
-                                                        <li><a href="../oracle/" rel=" noopener"
-                                                                target="_blank">Oracle</a></li>
-                                                        <li><a href="../scrum/" rel=" noopener"
-                                                                target="_blank">SCRUM</a></li>                                                      
-                                                        <li><a href="../salesforce/" rel=" noopener"
-                                                                target="_blank">Salesforce</a></li>
-
-
-
-                                                    </ul>
-                                                </div>
-
-
-
-                                                <div class="col-12 col-field_copyright ">
-                                                    <p>©2005-2023&nbsp;All Rights Reserved by
-                                                        ProExamTakers.com</p>
-                                                </div>
-                                            </span></div>
+                        <div class="row">
+                            <!-- Left Column: Logo and Content -->
+                            <div class="col-md-4 col-sm-12 mb-3 mt-3">
+                                <div class="footer-logo">
+                                    <img loading="lazy" src="/images/logo.png" width="250" height="42"
+                                        alt="ProExamTakers" typeof="Image">
+                                </div>
+                                <p class="mt-2">
+                                    ProExamTakers offers educational services, specializing in non-degree educational
+                                    support for graduate and post-graduate level students in test-taking preparation.
+                                    We distribute both printed and electronic materials related to these services and
+                                    provide valuable information in the field of test preparation. As a leader in the
+                                    Cloud Computing Test Taking service, ProExamTakers is your trusted partner in
+                                    achieving any certification excellence.
+                                </p>
+                            </div>
+                            <!-- Right Column: Links -->
+                            <div class="col-md-8 col-sm-12">
+                                <div class="row">
+                                    <div class="col-md-6 col-12 mb-3">
+                                        <h4 class="text-white mt-3">ProExamTakers</h4>
+                                        <ul>
+                                            <li><a href="/index.php" class="text-white">Home</a></li>
+                                            <li><a href="/onlineclass.php" class="text-white">Online Class / Course</a>
+                                            </li>
+                                            <li><a href="/about.php" class="text-white">About</a></li>
+                                            <li><a href="/contact.php" class="text-white">Contact US</a></li>
+                                            <li><a href="/termsandconditions.php" class="text-white">Terms &
+                                                    Conditions</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-6 col-12 mb-3">
+                                        <h4 class="text-white mt-3">Other IT Certification Programs</h4>
+                                        <ul>
+                                            <li><a href="../ged/" rel="noopener" target="_blank"
+                                                    class="text-white">GED</a></li>
+                                            <li><a href="../ati-teas/" rel="noopener" target="_blank"
+                                                    class="text-white">ATI TEAS</a></li>
+                                            <li><a href="../prince2/" rel="noopener" target="_blank"
+                                                    class="text-white">Prince2</a></li>
+                                            <li><a href="../oracle/" rel="noopener" target="_blank"
+                                                    class="text-white">Oracle</a></li>
+                                            <li><a href="../scrum/" rel="noopener" target="_blank"
+                                                    class="text-white">SCRUM</a></li>
+                                            <li><a href="../salesforce/" rel="noopener" target="_blank"
+                                                    class="text-white">Salesforce</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-12 col-12 mb-3 text-center">
+                                        <h4 class="text-white mt-3">Main Certification Programs</h4>
+                                    </div>
+                                    <div class="col-md-4 col-12 mb-3">
+                                        <ul>
+                                            <li><a href="../microsoft/" rel="noopener" target="_blank"
+                                                    class="text-white">Microsoft</a></li>
+                                            <li><a href="../cisco/" rel="noopener" target="_blank"
+                                                    class="text-white">Cisco</a></li>
+                                            <li><a href="../comptia/" rel="noopener" target="_blank"
+                                                    class="text-white">CompTIA</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-4 col-12 mb-3">
+                                        <ul>
+                                            <li><a href="../ec-council/" rel="noopener" target="_blank"
+                                                    class="text-white">EC-Council</a></li>
+                                            <li><a href="../isaca/" rel="noopener" target="_blank"
+                                                    class="text-white">ISACA</a></li>
+                                            <li><a href="../aws/" rel="noopener" target="_blank"
+                                                    class="text-white">AWS</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-md-4 col-12 mb-3">
+                                        <ul>
+                                            <li><a href="../pmi/" rel="noopener" target="_blank"
+                                                    class="text-white">PMI</a></li>
+                                            <li><a href="../itil/" rel="noopener" target="_blank"
+                                                    class="text-white">ITIL</a></li>
+                                            <li><a href="../six-sigma/" rel="noopener" target="_blank"
+                                                    class="text-white">Six Sigma</a></li>
+                                        </ul>
                                     </div>
 
                                 </div>
-
+                            </div>
+                            <!-- Bottom Left Image -->
+                            <div class="col-md-3 col-12 mb-3">
+                                <img src="images/footer_img1.png" class="img-fluid" alt="Bottom Left Image">
+                            </div>
+                            <!-- Bottom Right Image -->
+                            <!-- Copyright -->
+                            <div class="col-md-6 text-center mt-3">
+                                <p>©2013-2024&nbsp;All Rights Reserved by ProExamTakers.com</p>
+                            </div>
+                            <div class="col-md-3 col-12 mb-3 text-right">
+                                <img src="images/footer_img2.png" class="img-fluid" alt="Bottom Right Image">
                             </div>
                         </div>
-
                     </div>
                 </div>
-
             </section>
-
-
-
-
         </div>
     </div>
 </footer>
-</div>
-</div>
-
-</div>
 
 
 
