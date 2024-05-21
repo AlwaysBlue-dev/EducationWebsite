@@ -218,7 +218,7 @@
                         <button id="toggleButton">Get Discount Now</button>
                         <!-- Sliding Form Container -->
                         <div class="card-body">
-                            <form action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e" method="POST">
+                            <form action="send_email.php" method="POST">
                                 <div class="form-group">
                                     <label for="name">Name</label>
                                     <input type="text" class="form-control" id="name" name="name"
@@ -226,7 +226,7 @@
                                 </div>
                                 <div class="form-group">
                                     <label for="number">Contact</label>
-                                    <input type="text" class="form-control" id="number" name="contact"
+                                    <input type="text" class="form-control" id="number" name="phone"
                                         placeholder="Enter your phone number" required>
                                 </div>
                                 <div class="form-group">
@@ -234,9 +234,7 @@
                                     <input type="email" name="email" class="form-control" id="email"
                                         placeholder="Enter your email" required>
                                 </div>
-                                <input type="hidden" name="_next"
-                                    value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
-                                <input type="hidden" name="_captcha" value="false">
+                              
                                 <button type="submit" class="btn btn-primary">Submit</button>
                             </form>
                 </header>

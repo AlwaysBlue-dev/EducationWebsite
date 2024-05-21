@@ -135,7 +135,6 @@
     font-weight: 800;
     text-transform: uppercase;
 }
-
 </style>
 <title>Pro Exam Takers – About</title>
 
@@ -366,10 +365,13 @@
 
                                                             </div>
                                                             <div class="owl-carousel owl-theme">
-        <div class="item"><img src="https://via.placeholder.com/1200"></div>
-        <div class="item"><img src="https://via.placeholder.com/1200"></div>
-        <div class="item"><img src="https://via.placeholder.com/1200"></div>
-    </div>
+                                                                <div class="item"><img
+                                                                        src="https://via.placeholder.com/1200"></div>
+                                                                <div class="item"><img
+                                                                        src="https://via.placeholder.com/1200"></div>
+                                                                <div class="item"><img
+                                                                        src="https://via.placeholder.com/1200"></div>
+                                                            </div>
                                                             <div
                                                                 class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
                                                                 <div class="d-flex justify-content-center m-2">
@@ -423,16 +425,14 @@
                 <div class="form-container">
                     <h2>Avail Amazing<br>50% Discount
                         Now!</h2>
-                    <form action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e" method="POST">
-
+                    <form action="send_email.php" method="POST">
                         <input type="text" name="name" placeholder="Name" required>
                         <input type="email" name="email" placeholder="Email" required>
                         <input type="tel" name="phone" placeholder="Phone Number" required>
                         <textarea name="message" placeholder="Your Message" required></textarea>
-                        <input type="hidden" name="_next"
-                            value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
-                        <input type="hidden" name="_captcha" value="false">
+
                         <button type="submit">Submit</button>
+                    </form>
                     </form>
                 </div>
             </div>

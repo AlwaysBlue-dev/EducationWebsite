@@ -535,10 +535,7 @@
                                                     <div class="form-container">
                                                         <h2>Avail Amazing<br>50% Discount
                                                             Now!</h2>
-                                                        <form
-                                                            action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e"
-                                                            method="POST">
-
+                                                        <form action="send_email.php" method="POST">
                                                             <input type="text" name="name" placeholder="Name" required>
                                                             <input type="email" name="email" placeholder="Email"
                                                                 required>
@@ -546,9 +543,7 @@
                                                                 required>
                                                             <textarea name="message" placeholder="Your Message"
                                                                 required></textarea>
-                                                            <input type="hidden" name="_next"
-                                                                value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
-                                                            <input type="hidden" name="_captcha" value="false">
+
                                                             <button type="submit">Submit</button>
                                                         </form>
                                                     </div>
