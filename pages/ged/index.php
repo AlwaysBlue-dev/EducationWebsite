@@ -1,5 +1,44 @@
 <?php include '../header.php'; ?>
 <style>
+/* Optional: Add custom styles here */
+.review-img {
+    width: 100%;
+    height: auto;
+}
+
+/* Custom Styles for Carousel */
+.carousel-item img {
+    height: 400px;
+}
+
+.carousel-indicators li {
+    background-color: #333;
+}
+
+.text {
+    font-size: 2.5rem;
+    font-family: "Muli", sans-serif;
+    line-height: 1.2;
+    font-weight: 800;
+    color: #fff;
+}
+
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    /* Adjust the gap between images as needed */
+}
+
+.image-container img {
+    flex: 1 1 calc(33.333% - 10px);
+    /* 3 images per row, considering the gap */
+    max-width: calc(33.333% - 10px);
+    /* Ensures images do not overflow */
+    box-sizing: border-box;
+    /* Includes padding and border in the element's total width and height */
+}
+
 .popup-overlay {
     position: fixed;
     top: 0;
@@ -431,56 +470,149 @@
                                                                     </li>
                                                                     </ul>
                                                                 </div>
-                                                            </div>
-                                                        </div>
+                                                                <<div class="container mt-2">
+                                                                    <h2 class="text-center mb-4 text">Our Work
+                                                                    </h2>
+                                                                    <div id="customerReviewsCarousel"
+                                                                        class="carousel slide mb-5"
+                                                                        data-ride="carousel">
+                                                                        <ol class="carousel-indicators">
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="0" class="active">
+                                                                            </li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="1"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="2"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="3"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="4"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="5"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="6"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="7"></li>
+                                                                            <li data-target="#customerReviewsCarousel"
+                                                                                data-slide-to="8"></li>
 
+                                                                        </ol>
+                                                                        <div class="carousel-inner">
+                                                                            <div class="carousel-item active">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review1.jpg"
+                                                                                    alt="First slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review2.jpg"
+                                                                                    alt="Second slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review3.jpg"
+                                                                                    alt="Third slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review4.jpg"
+                                                                                    alt="Fourth slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review5.jpg"
+                                                                                    alt="Fifth slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review6.jpg"
+                                                                                    alt="Sixth slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review7.jpg"
+                                                                                    alt="Seventh slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review8.jpg"
+                                                                                    alt="Eight slide">
+                                                                            </div>
+                                                                            <div class="carousel-item">
+                                                                                <img class="d-block w-100"
+                                                                                    src="images/review9.jpg"
+                                                                                    alt="Nineth slide">
+                                                                            </div>
+                                                                        </div>
+                                                                        <a class="carousel-control-prev"
+                                                                            href="#customerReviewsCarousel"
+                                                                            role="button" data-slide="prev">
+                                                                            <span class="carousel-control-prev-icon"
+                                                                                style="background-color:#171347"
+                                                                                aria-hidden="true"></span>
+                                                                            <span class="sr-only">Previous</span>
+                                                                        </a>
+                                                                        <a class="carousel-control-next"
+                                                                            href="#customerReviewsCarousel"
+                                                                            role="button" data-slide="next">
+                                                                            <span class="carousel-control-next-icon"
+                                                                                style="background-color:#171347"
+                                                                                aria-hidden="true"></span>
+                                                                            <span class="sr-only">Next</span>
+                                                                        </a>
+                                                                    </div>
+                                                            </div>
+
+                                                        </div>
                                                     </div>
 
                                                 </div>
 
                                             </div>
-                                        </div>
 
-                                    </div>
-                                </div>
-                                <div class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
-                                    <div class="d-flex justify-content-center m-2">
-                                        <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
-                                            target="_blank" class="float_wn text-white">
-                                            <i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp Now
-                                        </a>
-                                    </div>
-                                    <div class="d-flex justify-content-center m-2">
-                                        <a href="javascript:void(0);" role="button" data-toggle="modal"
-                                            data-target="#myModal" class="h_btn text-white" id="orderNowButton">
-                                            <i class="fa fa-check-circle" aria-hidden="true"></i> Order Now
-                                        </a>
-                                    </div>
-                                </div>
-                                <div class="popup-overlay" id="popup">
-                                    <div class="popup-content">
-                                        <span class="close-button" id="closeButton">&times;</span>
-                                        <div class="image-section">
-                                            <img src="/images/popup.jpg" alt="Student studying">
                                         </div>
-                                        <div class="form-section">
-                                            <div class="form-container">
-                                                <h2>Avail Amazing<br>50% Discount
-                                                    Now!</h2>
-                                                <form action="send_email.php" method="POST">
-                                                    <input type="text" name="name" placeholder="Name" required>
-                                                    <input type="email" name="email" placeholder="Email" required>
-                                                    <input type="tel" name="phone" placeholder="Phone Number" required>
-                                                    <textarea name="message" placeholder="Your Message"
-                                                        required></textarea>
+                                    </div>
 
-                                                    <button type="submit">Submit</button>
-                                                </form>
-                                            </div>
+                                </div>
+                            </div>
+                            <div class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
+                                <div class="d-flex justify-content-center m-2">
+                                    <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
+                                        target="_blank" class="float_wn text-white">
+                                        <i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp Now
+                                    </a>
+                                </div>
+                                <div class="d-flex justify-content-center m-2">
+                                    <a href="javascript:void(0);" role="button" data-toggle="modal"
+                                        data-target="#myModal" class="h_btn text-white" id="orderNowButton">
+                                        <i class="fa fa-check-circle" aria-hidden="true"></i> Order Now
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="popup-overlay" id="popup">
+                                <div class="popup-content">
+                                    <span class="close-button" id="closeButton">&times;</span>
+                                    <div class="image-section">
+                                        <img src="/images/popup.jpg" alt="Student studying">
+                                    </div>
+                                    <div class="form-section">
+                                        <div class="form-container">
+                                            <h2>Avail Amazing<br>50% Discount
+                                                Now!</h2>
+                                            <form action="send_email.php" method="POST">
+                                                <input type="text" name="name" placeholder="Name" required>
+                                                <input type="email" name="email" placeholder="Email" required>
+                                                <input type="tel" name="phone" placeholder="Phone Number" required>
+                                                <textarea name="message" placeholder="Your Message" required></textarea>
+
+                                                <button type="submit">Submit</button>
+                                            </form>
                                         </div>
                                     </div>
                                 </div>
-                                <?php include '../footer.php'; ?>
+                            </div>
+                            <?php include '../footer.php'; ?>
 
                 </section>
             </main>
