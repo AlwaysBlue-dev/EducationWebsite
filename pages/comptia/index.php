@@ -738,51 +738,106 @@
         </div>
     </div>
 </div>
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-var Tawk_API = Tawk_API || {},
-    Tawk_LoadStart = new Date();
-(function() {
-    var s1 = document.createElement("script"),
-        s0 = document.getElementsByTagName("script")[0];
-    s1.async = true;
-    s1.src = 'https://embed.tawk.to/66462ad89a809f19fb3193e7/1hu11eni2';
-    s1.charset = 'UTF-8';
-    s1.setAttribute('crossorigin', '*');
-    s0.parentNode.insertBefore(s1, s0);
-    // Add event listener to all elements with the 'chatLink' class
-    var chatLinks = document.querySelectorAll('#chatLink');
-    chatLinks.forEach(function(link) {
-        link.addEventListener('click', function(event) {
-            event.preventDefault();
-            Tawk_API.toggle();
-        });
-    });
-})();
-</script>
-
-<!--End of Tawk.to Script-->
+<!-- Start of LiveChat (www.livechat.com) code -->
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    var orderNowButton = document.getElementById('orderNowButton');
-    var popup = document.getElementById('popup');
-    var closeButton = document.getElementById('closeButton');
+// Function to load LiveChat widget
+function loadLiveChat() {
+    // Check if LiveChat is already loaded
+    if (typeof LC_API !== 'undefined') {
+        // Open the chat widget
+        LC_API.open_chat_window();
+    } else {
+        // Load LiveChat script
+        var lcScript = document.createElement('script');
+        lcScript.type = 'text/javascript';
+        lcScript.async = true;
+        lcScript.src = 'https://cdn.livechatinc.com/tracking.js';
+        lcScript.onload = function() {
+            // Open the chat widget after script is loaded
+            LC_API.open_chat_window();
+        };
+        document.getElementsByTagName('head')[0].appendChild(lcScript);
+    }
+}
 
-    orderNowButton.addEventListener('click', function() {
-        popup.style.display = 'flex';
-    });
-
-    closeButton.addEventListener('click', function() {
-        popup.style.display = 'none';
-    });
-
-    // Optional: Close the popup if the user clicks outside of the popup content
-    window.addEventListener('click', function(event) {
-        if (event.target === popup) {
-            popup.style.display = 'none';
-        }
+// Add event listener to the chat links
+var chatLinks = document.querySelectorAll('#chatLink');
+chatLinks.forEach(function(link) {
+    link.addEventListener('click', function(event) {
+        // Prevent the default behavior of the link
+        event.preventDefault();
+        // Load LiveChat widget
+        loadLiveChat();
     });
 });
+
+// LiveChat integration code provided
+window._lc = window._lc || {};
+window.__lc = window.__lc || {};
+window.__lc.license = 18007341;
+window.__lc.integration_name = "manual_onboarding";
+(function(n, t, c) {
+    function i(n) {
+        return e.h ? e._h.apply(null, n) : e._q.push(n)
+    }
+    var e = {
+        _q: [],
+        _h: null,
+        _v: "2.0",
+        on: function() {
+            i(["on", c.call(arguments)])
+        },
+        once: function() {
+            i(["once", c.call(arguments)])
+        },
+        off: function() {
+            i(["off", c.call(arguments)])
+        },
+        get: function() {
+            if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
+            return i(["get", c.call(arguments)])
+        },
+        call: function() {
+            i(["call", c.call(arguments)])
+        },
+        init: function() {
+            var n = t.createElement("script");
+            n.async = !0;
+            n.type = "text/javascript";
+            n.src = "https://cdn.livechatinc.com/tracking.js";
+            t.head.appendChild(n)
+        }
+    };
+    !n._lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
+})(window, document, [].slice);
+</script>
+<noscript>
+    <a href="https://www.livechat.com/chat-with/18007341/" rel="nofollow">Chat with us</a>, powered by
+    <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+</noscript>
+<!-- End of LiveChat code -->
+<script>
+< script >
+    document.addEventListener('DOMContentLoaded', function() {
+        var orderNowButton = document.getElementById('orderNowButton');
+        var popup = document.getElementById('popup');
+        var closeButton = document.getElementById('closeButton');
+
+        orderNowButton.addEventListener('click', function() {
+            popup.style.display = 'flex';
+        });
+
+        closeButton.addEventListener('click', function() {
+            popup.style.display = 'none';
+        });
+
+        // Optional: Close the popup if the user clicks outside of the popup content
+        window.addEventListener('click', function(event) {
+            if (event.target === popup) {
+                popup.style.display = 'none';
+            }
+        });
+    });
 </script>
 </body>
 
