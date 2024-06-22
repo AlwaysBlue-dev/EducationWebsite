@@ -153,7 +153,7 @@
                 <main class="main-content col" id="content" role="main">
                     <section class="section">
                         <a id="main-content" tabindex="-1"></a>
-                        <div id="block-certwizard-page-title" class="block block-core block-page-title-block">
+                        <div class="block block-core block-page-title-block">
 
 
                             <div class="content">
@@ -162,7 +162,7 @@
 
                             </div>
                         </div>
-                        <div id="block-certwizard-content" class="block block-system block-system-main-block">
+                        <div  class="block block-system block-system-main-block">
 
 
                             <div class="content">

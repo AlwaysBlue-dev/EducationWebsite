@@ -149,7 +149,7 @@
     <div id="main-wrapper" class="layout-main-wrapper clearfix">
         <div id="main" class="container">
             <div class="views-element-container block block-views block-views-blockbasic-page-block-1"
-                id="block-certwizard-views-block-basic-page-block-1">
+                >
 
 
                 <div class="content">
@@ -187,7 +187,7 @@
                 <main class="main-content col" id="content" role="main">
                     <section class="section">
                         <a id="main-content" tabindex="-1"></a>
-                        <div id="block-certwizard-page-title" class="block block-core block-page-title-block">
+                        <div class="block block-core block-page-title-block">
 
 
                             <div class="content">
@@ -196,7 +196,7 @@
 
                             </div>
                         </div>
-                        <div id="block-certwizard-content" class="block block-system block-system-main-block">
+                        <div  class="block block-system block-system-main-block">
 
 
                             <div class="content">

@@ -13,7 +13,7 @@
         <div class="site-footer__top clearfix">
             <section class="row region region-footer-first">
                 <div class="views-element-container block block-views block-views-blockfooter-block-1"
-                    id="block-certwizard-views-block-footer-block-1">
+                   >
                     <div class="content">
                         <div class="row">
                             <!-- Left Column: Logo and Content -->
