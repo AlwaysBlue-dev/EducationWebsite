@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon">
 
-    <title>Pro Exam Takers – Certification Program </title>
+    <title>All Exams Takers – Certification Program </title>
 
     <link rel="stylesheet" media="all" href="css/css_LLiICWna101nNIKOt54Q7E-mxH73Y8zRqXpwcB9skKc.css">
     <link rel="stylesheet" media="all" href="css/css_F5EjW9vP3AUqPYJdjAcOrOlcxAi_eaHmzxwkgq37LY4.css">
@@ -104,7 +104,7 @@
     <div class="container">
         <a href="/index.php" title="Home" rel="home" class="navbar-brand">
             <img src="/images/logo_dark.png" alt="Home" class="img-fluid d-inline-block align-top">
-            <span class="ml-2 d-none d-md-inline">ProExamTakers</span>
+            <span class="ml-2 d-none d-md-inline">AllExamsDone</span>
         </a>
 
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
@@ -203,8 +203,8 @@
                 <a href="tel:+13369208845" class="text-primary mb-2">
                     <i class="fa fa-phone" aria-hidden="true"></i> +1 (336) 920-8845
                 </a>
-                <a href="mailto:info@proexamtakers.com" class="text-primary">
-                    <i class="fa fa-envelope" aria-hidden="true"></i> info@proexamtakers.com
+                <a href="mailto:info@allexamsdone.com" class="text-primary">
+                    <i class="fa fa-envelope" aria-hidden="true"></i> info@allexamsdone.com
                 </a>
             </div>
         </div>
@@ -260,9 +260,9 @@
                         "position": "left"
                     },
                     "brandSetting": {
-                        "brandName": "ProExamTakers",
+                        "brandName": "AllExamsDone",
                         "brandSubTitle": "undefined",
-                        "brandImg": "http://localhost/proexamtakers/images/logo_dark.png",
+                        "brandImg": "https://allexamsdone/images/logo_dark.png",
                         "welcomeText": "Hi there!\nHow can I help you?",
                         "messageText": "Hello, %0A I have a question",
                         "backgroundColor": "#00e785",

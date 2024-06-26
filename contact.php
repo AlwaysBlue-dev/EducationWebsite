@@ -136,7 +136,7 @@
     text-transform: uppercase;
 }
 </style>
-<title>Pro Exam Takers – Contact US</title>
+<title>All Exams Done – Contact US</title>
 
 <body class="layout-no-sidebars path-contact-us">
     <div class="highlighted">
@@ -162,7 +162,7 @@
 
                             </div>
                         </div>
-                        <div  class="block block-system block-system-main-block">
+                        <div class="block block-system block-system-main-block">
 
 
                             <div class="content">
@@ -235,19 +235,16 @@
 
                                                 <div class="content">
 
-                                                    <form
-                                                        action="https://formsubmit.co/8adc5a5fa852b554d57593394647015e"
-                                                        method="POST">
+                                                    <form action="send_email.php" method="POST" class="container-fluid">
 
                                                         <fieldset
                                                             class="js-form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name form-group">
                                                             <label for="edit-name"
                                                                 class="js-form-required form-required">Your
                                                                 name</label>
-                                                            <input data-drupal-selector="edit-name" type="text"
-                                                                id="edit-name" name="name" value="" size="60"
+                                                            <input type="text" id="edit-name" name="name" size="60"
                                                                 maxlength="255" class="required form-control"
-                                                                required="required" aria-required="true">
+                                                                placeholder="Name" required>
 
                                                         </fieldset>
 
@@ -256,10 +253,9 @@
                                                             <label for="edit-name"
                                                                 class="js-form-required form-required">Your
                                                                 contact</label>
-                                                            <input data-drupal-selector="edit-name" type="text"
-                                                                id="edit-name" name="contact" value="" size="60"
+                                                            <input type="text" id="edit-name" name="phone" size="60"
                                                                 maxlength="255" class="required form-control"
-                                                                required="required" aria-required="true">
+                                                                placeholder="Phone" required>
 
                                                         </fieldset>
 
@@ -272,14 +268,12 @@
                                                             <label for="edit-mail"
                                                                 class="js-form-required form-required">Your
                                                                 email address</label>
-                                                            <input data-drupal-selector="edit-mail" type="email"
-                                                                id="edit-mail" name="mail" value="" size="60"
+                                                            <input type="email" id="edit-mail" name="email" size="60"
                                                                 maxlength="254" class="form-email required form-control"
-                                                                required="required" aria-required="true">
+                                                                placeholder="Email" required>
 
                                                         </fieldset>
                                                         <div class="field--type-string field--name-subject field--widget-string-textfield js-form-wrapper form-group"
-                                                            data-drupal-selector="edit-subject-wrapper"
                                                             id="edit-subject-wrapper">
 
 
@@ -290,87 +284,64 @@
                                                                     class="js-form-required form-required">Subject</label>
                                                                 <input
                                                                     class="js-text-full text-full required form-control"
-                                                                    data-drupal-selector="edit-subject-0-value"
                                                                     type="text" id="edit-subject-0-value" name="subject"
-                                                                    value="" size="60" maxlength="100" placeholder=""
-                                                                    required="required" aria-required="true">
+                                                                    size="60" maxlength="100" placeholder="Subject"
+                                                                    required>
 
                                                             </fieldset>
 
                                                         </div>
                                                         <div class="field--type-string-long field--name-message field--widget-string-textarea js-form-wrapper form-group"
-                                                            data-drupal-selector="edit-message-wrapper"
                                                             id="edit-message-wrapper">
 
 
 
-                                                            <fieldset
-                                                                class="js-form-item js-form-type-textarea form-type-textarea js-form-item-message-0-value form-item-message-0-value form-group">
+                                                            <fieldset>
                                                                 <label for="edit-message-0-value"
-                                                                    class="js-form-required form-required">Message</label>
+                                                                    class="js-form-required form-required">Your
+                                                                    Message</label>
                                                                 <div class="form-textarea-wrapper">
-                                                                    <textarea
-                                                                        class="js-text-full text-full form-textarea required form-control resize-vertical"
-                                                                        data-drupal-selector="edit-message-0-value"
-                                                                        id="edit-message-0-value" name="msg" rows="12"
-                                                                        cols="60" placeholder="" required="required"
-                                                                        aria-required="true"></textarea>
-                                                                </div>
+                                                                    <textarea name="message" placeholder="Message"
+                                                                        required></textarea>
 
                                                             </fieldset>
 
                                                         </div>
-                                                        <input type="hidden" name="_next"
-                                                            value="http://proexamtakers.infinityfreeapp.com/thank-you.php">
-                                                        <input type="hidden" name="_captcha" value="false">
 
-                                                        <div data-drupal-selector="edit-actions"
-                                                            class="form-actions js-form-wrapper form-group"
-                                                            id="edit-actions"><button data-drupal-selector="edit-submit"
-                                                                type="submit" id="edit-submit" name="op"
-                                                                value="Send message"
+                                                        <div class="form-actions js-form-wrapper form-group"
+                                                            id="edit-actions"><button type="submit" id="edit-submit"
                                                                 class="button button--primary js-form-submit form-submit btn btn-primary">Send
                                                                 message</button>
-                                                            <!-- <button data-drupal-selector="edit-preview" type="submit"
-                                                                id="edit-preview" name="op" value="Preview"
-                                                                class="button js-form-submit form-submit btn btn-primary">Preview</button> -->
+
                                                         </div>
-                                                        <div
-                                                            class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
-                                                            <div class="d-flex justify-content-center m-2">
-                                                                <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
-                                                                    target="_blank" class="float_wn text-white">
-                                                                    <i class="fa fa-whatsapp" aria-hidden="true"></i>
-                                                                    Whatsapp Now
-                                                                </a>
-                                                            </div>
-                                                            <div class="d-flex justify-content-center m-2">
-                                                                <a href="javascript:void(0);" role="button"
-                                                                    data-toggle="modal" data-target="#myModal"
-                                                                    class="h_btn text-white" id="orderNowButton">
-                                                                    <i class="fa fa-check-circle"
-                                                                        aria-hidden="true"></i> Order Now
-                                                                </a>
-                                                            </div>
-                                                        </div>
-                                                        <div class="url-textfield js-form-wrapper form-group"
-                                                            style="display: none !important;">
 
-
-
-                                                            <!-- <fieldset
-                                                                class="js-form-item js-form-type-textfield form-type-textfield js-form-item-url form-item-url form-group">
-                                                                <label for="edit-url">Leave this field
-                                                                    blank</label>
-                                                                <input autocomplete="off"
-                                                                    data-drupal-selector="edit-url" type="text"
-                                                                    id="edit-url" name="url" value="" size="20"
-                                                                    maxlength="128" class="form-control">
-
-                                                            </fieldset> -->
-                                                        </div>
 
                                                     </form>
+                                                    <div
+                                                        class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
+                                                        <div class="d-flex justify-content-center m-2">
+                                                            <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
+                                                                target="_blank" class="float_wn text-white">
+                                                                <i class="fa fa-whatsapp" aria-hidden="true"></i>
+                                                                Whatsapp Now
+                                                            </a>
+                                                        </div>
+                                                        <div class="d-flex justify-content-center m-2">
+                                                            <a href="javascript:void(0);" role="button"
+                                                                data-toggle="modal" data-target="#myModal"
+                                                                class="h_btn text-white" id="orderNowButton">
+                                                                <i class="fa fa-check-circle" aria-hidden="true"></i>
+                                                                Order Now
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                    <div class="url-textfield js-form-wrapper form-group"
+                                                        style="display: none !important;">
+
+
+
+                                                    </div>
+
 
                                                 </div>
                                             </div>
@@ -417,55 +388,32 @@
         </div>
     </div>
     <?php include 'footer.php'; ?>
-    <!-- Start of LiveChat (www.livechat.com) code -->
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/667c4d449d7f358570d39f76/1i1aorlpu';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
     <script>
-    window._lc = window._lc || {};
-    window.__lc = window.__lc || {};
-    window.__lc.license = 18007341;
-    window.__lc.integration_name = "manual_onboarding";
-    (function(n, t, c) {
-        function i(n) {
-            return e.h ? e._h.apply(null, n) : e._q.push(n)
-        }
-        var e = {
-            _q: [],
-            _h: null,
-            _v: "2.0",
-            on: function() {
-                i(["on", c.call(arguments)])
-            },
-            once: function() {
-                i(["once", c.call(arguments)])
-            },
-            off: function() {
-                i(["off", c.call(arguments)])
-            },
-            get: function() {
-                if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
-                return i(["get", c.call(arguments)])
-            },
-            call: function() {
-                i(["call", c.call(arguments)])
-            },
-            init: function() {
-                var n = t.createElement("script");
-                n.async = !0;
-                n.type = "text/javascript";
-                n.src = "https://cdn.livechatinc.com/tracking.js";
-                t.head.appendChild(n)
-            }
-        };
-        !n._lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
-    })(window, document, [].slice);
-
     // Ensure the widget is initialized before adding event listener
     window.addEventListener('load', function() {
         // Add event listener to the chat link
-        document.getElementById('chatLink').addEventListener('click', function(event) {
+        document.getElementById('chatLink').addEventListener('click', function(
+            event) {
             // Prevent the default behavior of the link
             event.preventDefault();
             // Check if LiveChatWidget API is ready
-            if (typeof LiveChatWidget !== 'undefined' && LiveChatWidget.call) {
+            if (typeof LiveChatWidget !== 'undefined' && LiveChatWidget
+                .call) {
                 // Open the LiveChat widget
                 LiveChatWidget.call('maximize');
             } else {
@@ -474,10 +422,7 @@
         });
     });
     </script>
-    <noscript>
-        <a href="https://www.livechat.com/chat-with/18007341/" rel="nofollow">Chat with us</a>, powered by
-        <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
-    </noscript>
+
     <!-- End of LiveChat code -->
     <script>
     document.addEventListener('DOMContentLoaded', function() {

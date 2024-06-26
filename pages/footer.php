@@ -20,16 +20,16 @@
                             <div class="col-md-4 col-sm-12 mb-3 mt-3">
                                 <div class="footer-logo">
                                     <img loading="lazy" src="/images/logo.png" width="250" height="42"
-                                        alt="ProExamTakers" typeof="Image">
+                                        alt="AllExamsDone" typeof="Image">
                                 </div>
                                 <p class="mt-2">
-                                    ProExamTakers offers educational services, specializing in non-degree educational
+                                    AllExamsDone offers educational services, specializing in non-degree educational
                                     support for graduate and
                                     post-graduate level students in test-taking preparation. We distribute both printed
                                     and electronic materials
                                     related to these services and provide valuable information in the field of test
                                     preparation. As a leader in the
-                                    Cloud Computing Test Taking service, ProExamTakers is your trusted partner in
+                                    Cloud Computing Test Taking service, AllExamsDone is your trusted partner in
                                     achieving any certification excellence.
                                 </p>
 
@@ -38,7 +38,7 @@
                             <div class="col-md-8 col-sm-12">
                                 <div class="row">
                                     <div class="col-md-4 col-12 mb-3">
-                                        <h4 class="text-white mt-3">ProExamTakers</h4>
+                                        <h4 class="text-white mt-3">AllExamsDone</h4>
                                         <ul>
                                             <li><a href="/index.php" class="text-white">Home</a></li>
                                             <li><a href="/onlineclass.php" class="text-white">Online Class / Course</a>
@@ -113,7 +113,7 @@
 
                             <!-- Copyright -->
                             <div class="col-md-12 text-center mt-3">
-                                <p>©2013-2024&nbsp;All Rights Reserved by ProExamTakers.com</p>
+                                <p>©2013-2024&nbsp;All Rights Reserved by AllExamsDone.com</p>
                             </div>
 
                         </div>
@@ -126,31 +126,5 @@
 
 
 
-<script type="application/json" data-drupal-selector="drupal-settings-json">
-{
-    "path": {
-        "baseUrl": "\/",
-        "scriptPath": null,
-        "pathPrefix": "",
-        "currentPath": "taxonomy\/term\/1",
-        "currentPathIsAdmin": false,
-        "isFront": false,
-        "currentLanguage": "en"
-    },
-    "pluralDelimiter": "\u0003",
-    "suppressDeprecationErrors": true,
-    "google_analytics": {
-        "account": "G-3J67PHHNCG",
-        "trackOutbound": true,
-        "trackMailto": true,
-        "trackTel": true,
-        "trackDownload": true,
-        "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"
-    },
-    "user": {
-        "uid": 0,
-        "permissionsHash": "db41036e3210c4833b36a36acb304e753406b1fe40c7846b0e061c888417e505"
-    }
-}
-</script>
+
 <script src="js/js_LfrtCoOPTvXLySYE3SvSqRxjEG03hjUfDBmz17NjoMM.js"></script>

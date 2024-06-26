@@ -148,8 +148,8 @@
                 <nav class="navbar navbar-dark bg-transparent navbar-expand-lg" id="navbar-main">
                     <div class="container">
                         <a href="index.php" title="Home" rel="home" class="navbar-brand">
-                            <img src="images/logo_dark.png" alt="Home" class="img-fluid d-inline-block align-top">
-                            <span class="ml-2 d-none d-md-inline">ProExamTakers</span>
+                            <img src="images/logo.png" alt="Home" class="img-fluid d-inline-block align-top">
+                            <span class="ml-2 d-none d-md-inline">AllExamsDone</span>
                         </a>
 
                         <button class="navbar-toggler" type="button" data-toggle="collapse"
@@ -243,8 +243,8 @@
                                 <a href="tel:+13369208845" class="mb-2">
                                     <i class="fa fa-phone" aria-hidden="true"></i> +1 (336) 920-8845
                                 </a>
-                                <a href="mailto:info@proexamtakers.com" class="">
-                                    <i class="fa fa-envelope" aria-hidden="true"></i> info@proexamtakers.com
+                                <a href="mailto:info@allexamsdone.com" class="">
+                                    <i class="fa fa-envelope" aria-hidden="true"></i> info@allexamsdone.com
                                 </a>
                             </div>
                         </div>
@@ -264,7 +264,7 @@
                                     placeholder="Enter your name" required>
                             </div>
                             <div class="form-group">
-                                <label for="number">Contact</label>
+                                <label for="number">Phone</label>
                                 <input type="text" class="form-control" id="number" name="phone"
                                     placeholder="Enter your phone number" required>
                             </div>
@@ -273,7 +273,7 @@
                                 <input type="email" class="form-control" id="email" name="email"
                                     placeholder="Enter your email" required>
                             </div>
-                          
+
                             <button type="submit" class="btn btn-primary">Submit</button>
                         </form>
             </header>
@@ -297,9 +297,9 @@
                     "position": "left"
                 },
                 "brandSetting": {
-                    "brandName": "ProExamTakers",
+                    "brandName": "AllExamsDone",
                     "brandSubTitle": "undefined",
-                    "brandImg": "http://proexamtakers.infinityfreeapp.com/images/logo_dark.png",
+                    "brandImg": "https://allexamsdone.com/images/logo_dark.png",
                     "welcomeText": "Hi there!\nHow can I help you?",
                     "messageText": "Hello, %0A I have a question",
                     "backgroundColor": "#00e785",

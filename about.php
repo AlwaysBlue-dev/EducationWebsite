@@ -136,7 +136,7 @@
     text-transform: uppercase;
 }
 </style>
-<title>Pro Exam Takers – About</title>
+<title>All Exams Done – About</title>
 
 <body class="layout-no-sidebars page-node-87 path-node node--type-page">
     <div class="highlighted">
@@ -167,7 +167,7 @@
                                             <div class="background-with-image-basic-page">
                                                 <h1
                                                     style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 3rem">
-                                                    About ProExamTakers</h1>
+                                                    About AllExamsDone</h1>
                                             </div>
                                         </span></div>
                                 </div>
@@ -221,10 +221,10 @@
                                                                         <div class="field-content">
                                                                             <!-- <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
-                                                                                About ProExamTakers</h2> -->
+                                                                                About AllExamsDone</h2> -->
 
                                                                             <p>Welcome to
-                                                                                <strong>ProExamTakers!</strong>
+                                                                                <strong>AllExamsDone!</strong>
                                                                                 Are you aiming for a professional
                                                                                 certification? Need assistance to ace
                                                                                 your exam or class on the first attempt?
@@ -242,7 +242,7 @@
                                                                                 Our Story</h2>
 
                                                                             <p><strong>Founded in April 2013</strong>,
-                                                                                ProExamTakers is a team of seasoned
+                                                                                AllExamsDone is a team of seasoned
                                                                                 professionals with over a decade of
                                                                                 experience in the online exam,
                                                                                 certification, and course industry. Our
@@ -251,7 +251,7 @@
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
                                                                                 What We Offer</h2>
-                                                                            <p><strong>ProExamTakers</strong>
+                                                                            <p><strong>AllExamsDone</strong>
                                                                                 specializes in providing comprehensive
                                                                                 educational services, including test
                                                                                 preparation for graduate and
@@ -268,7 +268,7 @@
                                                                                 Global Reach</h2>
                                                                             <p>With numerous Authorized Testing Centers
                                                                                 worldwide,
-                                                                                <strong>ProExamTakers</strong> is
+                                                                                <strong>AllExamsDone</strong> is
                                                                                 equipped to assist you no matter your
                                                                                 location. Whether you need to pass a
                                                                                 test at an official test center or
@@ -282,7 +282,7 @@
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
                                                                                 Our Process</h2>
-                                                                            <p>At <strong>ProExamTakers</strong>, we
+                                                                            <p>At <strong>AllExamsDone</strong>, we
                                                                                 prioritize a smooth and stress-free
                                                                                 experience. Our streamlined three-step
                                                                                 process ensures your journey is as
@@ -308,7 +308,7 @@
                                                                                 employers.
                                                                             </p>
 
-                                                                            <h3>Why Choose ProExamTakers?</h3>
+                                                                            <h3>Why Choose AllExamsDone?</h3>
 
 
 
@@ -326,7 +326,7 @@
                                                                             </ul>
                                                                             <p>Enhance your CV, achieve your career
                                                                                 goals, and unlock endless possibilities
-                                                                                with <strong>ProExamTakers</strong>. A
+                                                                                with <strong>AllExamsDone</strong>. A
                                                                                 better grades can lead to better job
                                                                                 opportunities, projects, and salaries.
                                                                             </p>
@@ -345,7 +345,7 @@
                                                                             <p>Forget about exam questions,
                                                                                 certification costs, study guides,
                                                                                 official training, and braindumps. With
-                                                                                <strong>ProExamTakers</strong>, your
+                                                                                <strong>AllExamsDone</strong>, your
                                                                                 certification process is handled
                                                                                 professionally and efficiently. Once
                                                                                 complete, you can verify your results on
@@ -355,7 +355,7 @@
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
                                                                                 Join Us Today</h2>
-                                                                            <p>Visit <strong>ProExamTakers</strong>.com
+                                                                            <p>Visit <strong>AllExamsDone</strong>.com
                                                                                 and take the first step towards your
                                                                                 career success!</p>
                                                                         </div>
@@ -432,53 +432,28 @@
 
                         <button type="submit">Submit</button>
                     </form>
-                    </form>
+
                 </div>
             </div>
         </div>
     </div>
     <?php include 'footer.php'; ?>
-    <!-- Start of LiveChat (www.livechat.com) code -->
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/667c4d449d7f358570d39f76/1i1aorlpu';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
     <script>
-    window._lc = window._lc || {};
-    window.__lc = window.__lc || {};
-    window.__lc.license = 18007341;
-    window.__lc.integration_name = "manual_onboarding";
-    (function(n, t, c) {
-        function i(n) {
-            return e.h ? e._h.apply(null, n) : e._q.push(n)
-        }
-        var e = {
-            _q: [],
-            _h: null,
-            _v: "2.0",
-            on: function() {
-                i(["on", c.call(arguments)])
-            },
-            once: function() {
-                i(["once", c.call(arguments)])
-            },
-            off: function() {
-                i(["off", c.call(arguments)])
-            },
-            get: function() {
-                if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
-                return i(["get", c.call(arguments)])
-            },
-            call: function() {
-                i(["call", c.call(arguments)])
-            },
-            init: function() {
-                var n = t.createElement("script");
-                n.async = !0;
-                n.type = "text/javascript";
-                n.src = "https://cdn.livechatinc.com/tracking.js";
-                t.head.appendChild(n)
-            }
-        };
-        !n._lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
-    })(window, document, [].slice);
-
     // Ensure the widget is initialized before adding event listener
     window.addEventListener('load', function() {
         // Add event listener to the chat link
@@ -495,10 +470,7 @@
         });
     });
     </script>
-    <noscript>
-        <a href="https://www.livechat.com/chat-with/18007341/" rel="nofollow">Chat with us</a>, powered by
-        <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
-    </noscript>
+
     <!-- End of LiveChat code -->
     <script>
     document.addEventListener('DOMContentLoaded', function() {

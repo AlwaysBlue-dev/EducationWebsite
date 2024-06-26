@@ -136,7 +136,7 @@
     text-transform: uppercase;
 }
 </style>
-<title>Pro Exam Takers – Online Class / Course </title>
+<title>All Exams Done – Online Class / Course </title>
 
 <body class="layout-no-sidebars page-node-87 path-node node--type-page">
     <div class="highlighted">
@@ -167,7 +167,7 @@
                                             <div class="background-with-image-basic-page">
                                                 <h1
                                                     style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 3rem">
-                                                    Online Class / Course Assistance by ProExamTakers</h1>
+                                                    Online Class / Course Assistance by AllExamsDone</h1>
                                             </div>
                                         </span></div>
                                 </div>
@@ -208,7 +208,7 @@
                                                                     <div class="views-field views-field-body">
                                                                         <div class="field-content">
 
-                                                                            <p>Welcome to Pro Exam Takers, your ultimate
+                                                                            <p>Welcome to All Exams Done, your ultimate
                                                                                 solution for complete online class and
                                                                                 course assistance. We understand the
                                                                                 demands and challenges of juggling
@@ -221,7 +221,7 @@
                                                                                 Comprehensive Class and Course
                                                                                 Assistance
                                                                             </h2>
-                                                                            <p>At Pro Exam Takers, we specialize in
+                                                                            <p>At All Exams Done, we specialize in
                                                                                 managing your entire online class or
                                                                                 course from start to finish. Whether
                                                                                 you're beginning at week 1 or need us to
@@ -258,7 +258,7 @@
                                                                             </ul>
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
-                                                                                Why Choose Pro Exam Takers?
+                                                                                Why Choose All Exams Done?
                                                                             </h2>
                                                                             <ul>
                                                                                 <li><strong>Expert Team:</strong> Our
@@ -304,7 +304,7 @@
                                                                             </ol>
                                                                             <p>Need to hire someone to take your online
                                                                                 class? Looking to pay someone to take
-                                                                                your online course? At Pro Exam Takers,
+                                                                                your online course? At All Exams Done,
                                                                                 we provide the solution for those
                                                                                 thinking, "Can someone take my online
                                                                                 class?" or "Who can do my online course
@@ -317,7 +317,7 @@
                                                                                 Contact Us
                                                                             </h2>
                                                                             <p>Ready to ace your online class? Contact
-                                                                                Pro Exam Takers today and let us handle
+                                                                                All Exams Done today and let us handle
                                                                                 the rest!</p>
                                                                             <p><strong>Email:</strong>
                                                                                 info@proexamtakers.com</p>
@@ -334,11 +334,11 @@
                                                                                 complimentary 15-minute telephone
                                                                                 consultation with one of our
                                                                                 knowledgeable experts.</p>
-                                                                            <p>At Pro Exam Takers, your success is our
+                                                                            <p>At All Exams Done, your success is our
                                                                                 mission. Let us help you achieve your
                                                                                 academic goals with ease and excellence.
                                                                             </p>
-                                                                            <p><strong>Pro Exam Takers – Your Partner in
+                                                                            <p><strong>All Exams Done – Your Partner in
                                                                                     Academic Success</strong></p>
                                                                         </div>
                                                                     </div>
@@ -429,47 +429,22 @@
     </div>
 
     <?php include 'footer.php'; ?>
-    <!-- Start of LiveChat (www.livechat.com) code -->
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/667c4d449d7f358570d39f76/1i1aorlpu';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
     <script>
-    window._lc = window._lc || {};
-    window.__lc = window.__lc || {};
-    window.__lc.license = 18007341;
-    window.__lc.integration_name = "manual_onboarding";
-    (function(n, t, c) {
-        function i(n) {
-            return e.h ? e._h.apply(null, n) : e._q.push(n)
-        }
-        var e = {
-            _q: [],
-            _h: null,
-            _v: "2.0",
-            on: function() {
-                i(["on", c.call(arguments)])
-            },
-            once: function() {
-                i(["once", c.call(arguments)])
-            },
-            off: function() {
-                i(["off", c.call(arguments)])
-            },
-            get: function() {
-                if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
-                return i(["get", c.call(arguments)])
-            },
-            call: function() {
-                i(["call", c.call(arguments)])
-            },
-            init: function() {
-                var n = t.createElement("script");
-                n.async = !0;
-                n.type = "text/javascript";
-                n.src = "https://cdn.livechatinc.com/tracking.js";
-                t.head.appendChild(n)
-            }
-        };
-        !n._lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
-    })(window, document, [].slice);
-
     // Ensure the widget is initialized before adding event listener
     window.addEventListener('load', function() {
         // Add event listener to the chat link
@@ -486,10 +461,7 @@
         });
     });
     </script>
-    <noscript>
-        <a href="https://www.livechat.com/chat-with/18007341/" rel="nofollow">Chat with us</a>, powered by
-        <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
-    </noscript>
+   
     <!-- End of LiveChat code -->
     <script>
     document.addEventListener('DOMContentLoaded', function() {

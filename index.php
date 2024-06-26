@@ -1,5 +1,5 @@
 <?php include 'header.php'; ?>
-<title>Pro Exam Takers – Your Partner in Academic Success</title>
+<title>All Exams Done – Your Partner in Academic Success</title>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
 
@@ -151,8 +151,7 @@
 
     <div id="main-wrapper" class="layout-main-wrapper clearfix">
         <div id="main" class="container">
-            <div class="views-element-container block block-views block-views-blockslider-home-page-block-1"
-               >
+            <div class="views-element-container block block-views block-views-blockslider-home-page-block-1">
                 <div class="content">
                     <div>
                         <div
@@ -189,7 +188,7 @@
                 <main class="main-content col" id="content" role="main">
                     <section class="section">
                         <a id="main-content" tabindex="-1"></a>
-                        <div  class="block block-core block-page-title-block">
+                        <div class="block block-core block-page-title-block">
 
 
                             <div class="content">
@@ -841,7 +840,7 @@
                                                                                             processes.</strong>
                                                                                     </p>
 
-                                                                                    <p><strong><b>ProExamTakers</b>
+                                                                                    <p><strong><b>AllExamsDone</b>
                                                                                             boasts a
                                                                                             widespread network of
                                                                                             testing
@@ -926,12 +925,12 @@
                                                                             <div class="left">
                                                                                 <h2><span><span><span>Benefits of
                                                                                                 Choosing
-                                                                                                ProExamTakers
+                                                                                                AllExamsDone
 
                                                                                                 Services:</span></span></span>
                                                                                 </h2>
 
-                                                                                <p>At <b>ProExamTakers</b>, we have the
+                                                                                <p>At <b>AllExamsDone</b>, we have the
                                                                                     honor of collaborating with numerous
                                                                                     forward-thinking enterprises,
                                                                                     encompassing some of the globe's
@@ -944,7 +943,7 @@
                                                                                         <p><strong>Exam-Free Experience:
                                                                                             </strong></p>
 
-                                                                                        <p>With <b>ProExamTakers</b>,
+                                                                                        <p>With <b>AllExamsDone</b>,
                                                                                             there's no need for you to
                                                                                             undergo the stress of taking
                                                                                             exams.
@@ -983,7 +982,7 @@
                                                                                                 Guarantee:
                                                                                             </strong></p>
 
-                                                                                        <p><b>ProExamTakers</b> offers a
+                                                                                        <p><b>AllExamsDone</b> offers a
                                                                                             100% PASS OR MONEY BACK
                                                                                             GUARANTEE. If you fail,
                                                                                             you'll
@@ -1035,7 +1034,7 @@
                                                             <div class="view-header">
                                                                 <div class="custom-title-and-subtitle-margin-bottom">
                                                                     <h2>Prestigious Certifications from US:</h2>
-                                                                    <p><b>ProExamTakers</b> stands at the forefront of
+                                                                    <p><b>AllExamsDone</b> stands at the forefront of
                                                                         the
                                                                         Cloud Computing Testing service,
                                                                         serving as your ultimate ally in the realm of
@@ -1391,50 +1390,22 @@
                                             });
                                             </script>
 
-                                            <!-- Start of LiveChat (www.livechat.com) code -->
+                                            <!--Start of Tawk.to Script-->
+                                            <script type="text/javascript">
+                                            var Tawk_API = Tawk_API || {},
+                                                Tawk_LoadStart = new Date();
+                                            (function() {
+                                                var s1 = document.createElement("script"),
+                                                    s0 = document.getElementsByTagName("script")[0];
+                                                s1.async = true;
+                                                s1.src = 'https://embed.tawk.to/667c4d449d7f358570d39f76/1i1aorlpu';
+                                                s1.charset = 'UTF-8';
+                                                s1.setAttribute('crossorigin', '*');
+                                                s0.parentNode.insertBefore(s1, s0);
+                                            })();
+                                            </script>
+                                            <!--End of Tawk.to Script-->
                                             <script>
-                                            window._lc = window._lc || {};
-                                            window.__lc = window.__lc || {};
-                                            window.__lc.license = 18007341;
-                                            window.__lc.integration_name = "manual_onboarding";
-                                            (function(n, t, c) {
-                                                function i(n) {
-                                                    return e.h ? e._h.apply(null, n) : e._q.push(n)
-                                                }
-                                                var e = {
-                                                    _q: [],
-                                                    _h: null,
-                                                    _v: "2.0",
-                                                    on: function() {
-                                                        i(["on", c.call(arguments)])
-                                                    },
-                                                    once: function() {
-                                                        i(["once", c.call(arguments)])
-                                                    },
-                                                    off: function() {
-                                                        i(["off", c.call(arguments)])
-                                                    },
-                                                    get: function() {
-                                                        if (!e._h) throw new Error(
-                                                            "[LiveChatWidget] You can't use getters before load."
-                                                            );
-                                                        return i(["get", c.call(arguments)])
-                                                    },
-                                                    call: function() {
-                                                        i(["call", c.call(arguments)])
-                                                    },
-                                                    init: function() {
-                                                        var n = t.createElement("script");
-                                                        n.async = !0;
-                                                        n.type = "text/javascript";
-                                                        n.src = "https://cdn.livechatinc.com/tracking.js";
-                                                        t.head.appendChild(n)
-                                                    }
-                                                };
-                                                !n._lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget ||
-                                                    e
-                                            })(window, document, [].slice);
-
                                             // Ensure the widget is initialized before adding event listener
                                             window.addEventListener('load', function() {
                                                 // Add event listener to the chat link
@@ -1454,12 +1425,7 @@
                                                     });
                                             });
                                             </script>
-                                            <noscript>
-                                                <a href="https://www.livechat.com/chat-with/18007341/"
-                                                    rel="nofollow">Chat with us</a>, powered by
-                                                <a href="https://www.livechat.com/?welcome" rel="noopener nofollow"
-                                                    target="_blank">LiveChat</a>
-                                            </noscript>
+                                            
                                             <!-- End of LiveChat code -->
                                             <script>
                                             document.addEventListener('DOMContentLoaded', (event) => {

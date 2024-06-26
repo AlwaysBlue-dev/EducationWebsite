@@ -136,7 +136,7 @@
     text-transform: uppercase;
 }
 </style>
-<title>Pro Exam Takers – Terms & Conditions</title>
+<title>All Exams Done – Terms & Conditions</title>
 
 <body class="layout-no-sidebars page-node-87 path-node node--type-page">
     <div class="highlighted">
@@ -148,8 +148,7 @@
     </div>
     <div id="main-wrapper" class="layout-main-wrapper clearfix">
         <div id="main" class="container">
-            <div class="views-element-container block block-views block-views-blockbasic-page-block-1"
-                >
+            <div class="views-element-container block block-views block-views-blockbasic-page-block-1">
 
 
                 <div class="content">
@@ -168,7 +167,7 @@
                                             <div class="background-with-image-basic-page">
                                                 <h1
                                                     style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 3rem">
-                                                    ProExamTakers</h1>
+                                                    AllExamsDone</h1>
                                             </div>
                                         </span></div>
                                 </div>
@@ -196,7 +195,7 @@
 
                             </div>
                         </div>
-                        <div  class="block block-system block-system-main-block">
+                        <div class="block block-system block-system-main-block">
 
 
                             <div class="content">
@@ -219,9 +218,9 @@
                                                                         <div class="field-content">
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
-                                                                                Terms and Conditions for ProExamTakers
+                                                                                Terms and Conditions for AllExamsDone
                                                                             </h2>
-                                                                            <p>Welcome to ProExamTakers. These terms and
+                                                                            <p>Welcome to AllExamsDone. These terms and
                                                                                 conditions outline the rules and
                                                                                 regulations for the use of our services.
                                                                                 By accessing and using our services, you
@@ -232,7 +231,7 @@
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
                                                                                 1. Introduction</h2>
-                                                                            <p>ProExamTakers is an educational service
+                                                                            <p>AllExamsDone is an educational service
                                                                                 provider specializing in online exam,
                                                                                 class, and course management. We offer
                                                                                 comprehensive support to help clients
@@ -285,7 +284,7 @@
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
                                                                                 6. Service Guarantee</h2>
-                                                                            <p>ProExamTakers guarantees a 100% pass rate
+                                                                            <p>AllExamsDone guarantees a 100% pass rate
                                                                                 for all tasks undertaken. If we are
                                                                                 unable to achieve the promised results,
                                                                                 we will issue a full refund.</p>
@@ -318,7 +317,7 @@
                                                                                 9. Intellectual Property</h2>
                                                                             <p>All content on our website, including
                                                                                 text, graphics, logos, and software, is
-                                                                                the property of ProExamTakers or its
+                                                                                the property of AllExamsDone or its
                                                                                 licensors and is protected by
                                                                                 intellectual property laws. You agree
                                                                                 not to reproduce, duplicate, copy, sell,
@@ -338,7 +337,7 @@
                                                                             <h2
                                                                                 style="font-weight: 800; font-family: Muli, sans-serif; line-height: 1.2; font-size: 2.5rem">
                                                                                 11. Refund Policy</h2>
-                                                                            <p>ProExamTakers offers a comprehensive
+                                                                            <p>AllExamsDone offers a comprehensive
                                                                                 refund policy to ensure customer
                                                                                 satisfaction. If you are not satisfied
                                                                                 with our services or if we fail to
@@ -355,7 +354,7 @@
                                                                             <p>If you have any questions about these
                                                                                 terms and conditions, please contact us:
                                                                             </p>
-                                                                            <p>Thank you for choosing ProExamTakers. We
+                                                                            <p>Thank you for choosing AllExamsDone. We
                                                                                 look forward to helping you achieve your
                                                                                 academic goals!</p>
                                                                         </div>
@@ -430,47 +429,22 @@
         </div>
     </div>
     <?php include 'footer.php'; ?>
-    <!-- Start of LiveChat (www.livechat.com) code -->
+    <!--Start of Tawk.to Script-->
+    <script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/667c4d449d7f358570d39f76/1i1aorlpu';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
+    </script>
+    <!--End of Tawk.to Script-->
     <script>
-    window._lc = window._lc || {};
-    window.__lc = window.__lc || {};
-    window.__lc.license = 18007341;
-    window.__lc.integration_name = "manual_onboarding";
-    (function(n, t, c) {
-        function i(n) {
-            return e.h ? e._h.apply(null, n) : e._q.push(n)
-        }
-        var e = {
-            _q: [],
-            _h: null,
-            _v: "2.0",
-            on: function() {
-                i(["on", c.call(arguments)])
-            },
-            once: function() {
-                i(["once", c.call(arguments)])
-            },
-            off: function() {
-                i(["off", c.call(arguments)])
-            },
-            get: function() {
-                if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
-                return i(["get", c.call(arguments)])
-            },
-            call: function() {
-                i(["call", c.call(arguments)])
-            },
-            init: function() {
-                var n = t.createElement("script");
-                n.async = !0;
-                n.type = "text/javascript";
-                n.src = "https://cdn.livechatinc.com/tracking.js";
-                t.head.appendChild(n)
-            }
-        };
-        !n._lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
-    })(window, document, [].slice);
-
     // Ensure the widget is initialized before adding event listener
     window.addEventListener('load', function() {
         // Add event listener to the chat link
@@ -487,10 +461,7 @@
         });
     });
     </script>
-    <noscript>
-        <a href="https://www.livechat.com/chat-with/18007341/" rel="nofollow">Chat with us</a>, powered by
-        <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
-    </noscript>
+
     <!-- End of LiveChat code -->
     <script>
     document.addEventListener('DOMContentLoaded', function() {

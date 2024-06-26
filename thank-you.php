@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pro Exam Takers – Thank You </title>
+    <title>All Exams Done – Thank You </title>
 
 
 
@@ -47,8 +47,6 @@
 
     </main>
 
-    <script async="" src="https://embed.tawk.to/663aa43207f59932ab3d1a3a/1htah2q40" charset="UTF-8" crossorigin="*">
-    </script>
     <script src="js/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
 
     <script src="js/bootstrap.bundle.min.js" crossorigin="anonymous">
