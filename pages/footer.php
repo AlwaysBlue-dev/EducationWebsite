@@ -127,4 +127,4 @@
 
 
 
-<script src="js/js_LfrtCoOPTvXLySYE3SvSqRxjEG03hjUfDBmz17NjoMM.js"></script>
+<script src="../assets/js/js_LfrtCoOPTvXLySYE3SvSqRxjEG03hjUfDBmz17NjoMM.js"></script>

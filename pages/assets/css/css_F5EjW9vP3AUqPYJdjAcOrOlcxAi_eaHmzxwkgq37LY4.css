@@ -83,6 +83,14 @@ hr {
     margin-top: 1rem
 }
 
+.node--view-mode-teaser h2 a {
+    color: #181818
+}
+
+.node__meta {
+    color: #68696b
+}
+
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -14064,8 +14072,7 @@ body {
     content: '';
     height: 200px;
     width: 100%;
-    background: #171347;
-    z-index: -1
+    background: #171347
 }
 
 .block-views-blockcertification-block-1 .view-with-margin {

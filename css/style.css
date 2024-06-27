@@ -1,774 +1,757 @@
 @font-face {
-    font-family: "Sonoma";
-    src: url("../fonts/BRSonoma-Black.otf") format("opentype");
-    font-weight: normal;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: "Sonoma-regular";
-    src: url("../fonts/BRSonoma-Regular.otf") format("opentype");
-    font-weight: normal;
-    font-style: normal;
-  }
-  
-  /* width */
-  ::-webkit-scrollbar {
-    width: 6px;
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    box-shadow: inset 0 0 5px #4db171;
-    border-radius: 20px;
-  }
-  
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: #4db171;
-    border-radius: 20px;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: #4db171;
-  }
-  
-  body {
-    font-family: "Poppins", sans-serif;
-  }
-  
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: #050830;
-    font-family: Sonoma-regular;
-  }
-  h2 {
-    font-size: 44px;
-    font-weight: 600;
-  }
-  
-  .ptb {
-    padding-top: 50px;
-    padding-bottom: 50px;
-  }
-  
-  header {
-    position: absolute;
-    width: 100%;
-    top: 20px;
-    left: 0;
-  }
-  
-  header .container {
-    background: #fff;
-    padding: 25px;
-    border-radius: 20px;
-    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  }
-  
-  section.banner {
-    padding: 140px 0 50px;
-    background: #ebf4ef;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top;
-    background-blend-mode: overlay;
-  }
-  
-  section.banner h4 {
-    padding: 15px 25px;
-    border: 1px solid;
-    border-radius: 40px;
-    font-size: 20px;
-    color: #4db171;
-    line-height: 34px;
-  }
-  
-  section.banner h4 span {
-    padding: 8px 25px;
-    background: #4db171;
-    border-radius: 30px;
-    font-size: 24px;
-    color: #fff;
-    margin-right: 20px;
-  }
-  
-  section.banner h1 {
-    font-size: 64px;
-    font-family: Sonoma;
-    margin-top: 30px;
-  }
-  section.banner h1 span {
-    color: #4db171;
-  }
-  
-  .head_btn {
-    background-image: linear-gradient(
-      to right,
-      #4db171,
-      #050830,
-      #050830,
-      #4db171
-    );
-    color: #fff;
-    padding: 10px 25px;
-    border-radius: 30px;
-    text-decoration: none;
-    background-size: 200% 100%;
-    transition: 0.3s all ease-in-out;
-    border: none;
-  }
-  
-  .head_btn:hover {
-    background-position: 100% 0;
-  }
-  .ban_form {
-    padding: 15px;
-    border-radius: 20px;
-    background: #fff;
-    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
-  }
-  
-  .ban_form input {
-    background: #050830;
-    color: #fff;
-    padding: 10px 0 10px 15px;
-  }
-  
-  .ban_form input:focus,
-  .ban_form input:active {
-    background: #050830;
-    color: #fff;
-  }
-  .ban_form input::placeholder {
-    color: #ccc;
-  }
-  
-  section.text1 h2 {
-    font-size: 44px;
-    font-weight: 600;
-  }
-  .box_container .box-card {
-    background: #eff2f0;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 22px -3px,
-      rgba(0, 0, 0, 0.3) 0px 3px 14px -8px;
-    transition: 0.4s all ease-in-out;
-    height:100%;
-  }
-  
-  .box_container .box-card i {
-    background: #fff;
-    padding: 17px;
-    font-size: 30px;
-    border-radius: 24px 17px 17px 21px;
-    border: 1px solid;
-    margin-bottom: 15px;
-    color: #080e32;
-  }
-  
-  .box_container .box-card h3 {
-    font-size: 30px;
-    font-weight: 600;
-  }
-  
-  .box_container .box-card p {
-    color: #050830;
-  }
-  
-  .box_container .box-card:hover {
-    background: linear-gradient(to right, #4db171, #050830);
-    transform: scale(1.1);
-    cursor: default;
-  }
-  
-  .box_container .box-card:hover h3,
-  .box_container .box-card:hover p {
-    color: #fff;
-  }
-  .pills_list button {
-    text-align: left;
-  }
-  
-  .pills_list {
-    height: 60vh;
-    overflow-y: scroll;
-    box-shadow: 0px 6px 16px -7px #00000082;
-    border-radius: 10px;
-    padding: 10px 0 0 10px;
-  }
-  
-  .pills_list .nav-pills .nav-link.active,
-  .pills_list .nav-pills .show > .nav-link {
-    background: #4db171;
-    color: #fff;
-  }
-  
-  .pills_list .nav-pills .nav-link {
-    color: #050830;
-    font-weight: 600;
-  }
-  
-  section.certificate_awards .item {
-    padding: 20px;
-  }
-  
-  
-  .testi_item {
-      padding: 25px;
-      background: #fff;
-      border-radius: 15px;
-      margin: 10px 10px 0;
-      box-shadow: 0px 0px 22px -10px #00000082;
-      transition: .4s all ease-in-out;
-  }
-  
-  .testi_item .testi_title {
-      display: flex;
-      gap: 10px;
-      align-items: center;
-  }
-  
-  .testi_item .testi_title img {
-      border-radius: 50%;
-      height: 70px;
-  }
-  
-  .testi_item .testi_title h4 {
-      font-size: 20px;
-  }
-  section.testimonials .title_testi {
-      padding: 100px 0;
-      background: linear-gradient(    to left,    #4db171,    #050830 );
-      background-size: 100% 100%;
-      overflow: hidden;
-      position: relative;
-      transition: .9s all ease-in-out;
-  }
-  
-  section.testimonials .title_testi h4 {
-      color: #fff !important;
-  }
-  section.testimonials .title_testi h2 {
-    color: #fff;
-}
-section.certificate_awards .item img {
-    width: 80%;
+  font-family: Sonoma;
+  src: url("../fonts/BRSonoma-Black.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal
 }
 
-section.testimonials .title_testi:after, section.testimonials .title_testi:before {
-    content: '';
-    height: 200px;
-    width: 200px;
-    position: absolute;
-    border-radius: 50%;
-    transition: .8s all ease-in-out;
+@font-face {
+  font-family: Sonoma-regular;
+  src: url("../fonts/BRSonoma-Regular.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal
+}
+
+::-webkit-scrollbar {
+  width: 6px
+}
+
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px #4db171;
+  border-radius: 20px
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4db171;
+  border-radius: 20px
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #4db171
+}
+
+body {
+  font-family: Poppins, sans-serif
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #050830;
+  font-family: Sonoma-regular
+}
+
+h2,
+section.text1 h2 {
+  font-size: 44px;
+  font-weight: 600
+}
+
+.ptb {
+  padding-top: 50px;
+  padding-bottom: 50px
+}
+
+header {
+  position: absolute;
+  width: 100%;
+  top: 20px;
+  left: 0
+}
+
+header .container {
+  background: #fff;
+  padding: 25px;
+  border-radius: 20px;
+  box-shadow: rgba(100, 100, 111, .2) 0 7px 29px 0
+}
+
+section.banner {
+  padding: 140px 0 50px;
+  background: top/cover no-repeat #ebf4ef;
+  background-blend-mode: overlay
+}
+
+section.banner h4 {
+  padding: 15px 25px;
+  border: 1px solid;
+  border-radius: 40px;
+  font-size: 20px;
+  color: #4db171;
+  line-height: 34px
+}
+
+section.banner h4 span {
+  padding: 8px 25px;
+  background: #4db171;
+  border-radius: 30px;
+  font-size: 24px;
+  color: #fff;
+  margin-right: 20px
+}
+
+section.banner h1 {
+  font-size: 64px;
+  font-family: Sonoma;
+  margin-top: 30px
+}
+
+section.banner h1 span {
+  color: #4db171
+}
+
+.head_btn {
+  background-image: linear-gradient(to right, #4db171, #050830, #050830, #4db171);
+  color: #fff;
+  padding: 10px 25px;
+  border-radius: 30px;
+  text-decoration: none;
+  background-size: 200% 100%;
+  transition: .3s ease-in-out;
+  border: none
+}
+
+.head_btn:hover {
+  background-position: 100% 0
+}
+
+.ban_form {
+  padding: 15px;
+  border-radius: 20px;
+  background: #fff;
+  box-shadow: rgba(17, 12, 46, .15) 0 48px 100px 0
+}
+
+.ban_form input {
+  background: #050830;
+  color: #fff;
+  padding: 10px 0 10px 15px
+}
+
+.ban_form input:active,
+.ban_form input:focus {
+  background: #050830;
+  color: #fff
+}
+
+.ban_form input::placeholder {
+  color: #ccc
+}
+
+.box_container .box-card {
+  background: #eff2f0;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(50, 50, 93, .25) 0 6px 22px -3px, rgba(0, 0, 0, .3) 0 3px 14px -8px;
+  transition: .4s ease-in-out;
+  height: 100%
+}
+
+.box_container .box-card i {
+  background: #fff;
+  padding: 17px;
+  font-size: 30px;
+  border-radius: 24px 17px 17px 21px;
+  border: 1px solid;
+  margin-bottom: 15px;
+  color: #080e32
+}
+
+.testi_item:hover,
+section.testimonials .title_testi {
+  background: linear-gradient(to left, #4db171, #050830)
+}
+
+.box_container .box-card h3 {
+  font-size: 30px;
+  font-weight: 600
+}
+
+.box_container .box-card p {
+  color: #050830
+}
+
+.box_container .box-card:hover {
+  background: linear-gradient(to right, #4db171, #050830);
+  transform: scale(1.1);
+  cursor: default
+}
+
+.box_container .box-card:hover h3,
+.box_container .box-card:hover p,
+.testi_item:hover h4,
+.testi_item:hover p,
+section.testimonials .title_testi h2 {
+  color: #fff
+}
+
+.pills_list button {
+  text-align: left
+}
+
+.pills_list {
+  height: 60vh;
+  overflow-y: scroll;
+  box-shadow: 0 6px 16px -7px #00000082;
+  border-radius: 10px;
+  padding: 10px 0 0 10px
+}
+
+.pills_list .nav-pills .nav-link.active,
+.pills_list .nav-pills .show>.nav-link {
+  background: #4db171;
+  color: #fff
+}
+
+.pills_list .nav-pills .nav-link {
+  color: #050830;
+  font-weight: 600
+}
+
+section.certificate_awards .item {
+  padding: 20px
+}
+
+.testi_item {
+  padding: 25px;
+  background: #fff;
+  border-radius: 15px;
+  margin: 10px 10px 0;
+  box-shadow: 0 0 22px -10px #00000082;
+  transition: .4s ease-in-out
+}
+
+.testi_item .testi_title {
+  display: flex;
+  gap: 10px;
+  align-items: center
+}
+
+.testi_item .testi_title img {
+  border-radius: 50%;
+  height: 70px
+}
+
+.testi_item .testi_title h4 {
+  font-size: 20px
+}
+
+section.testimonials .title_testi {
+  padding: 100px 0;
+  background-size: 100% 100%;
+  overflow: hidden;
+  position: relative;
+  transition: .9s ease-in-out
+}
+
+section.testimonials .title_testi h4 {
+  color: #fff !important
+}
+
+section.certificate_awards .item img {
+  width: 80%
+}
+
+section.testimonials .title_testi:after,
+section.testimonials .title_testi:before {
+  content: '';
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  border-radius: 50%;
+  transition: .8s ease-in-out
 }
 
 section.testimonials .title_testi:after {
-    background: #050830;
-    bottom: -80px;
-    right: -60px;
+  background: #050830;
+  bottom: -80px;
+  right: -60px
 }
 
 section.testimonials .title_testi:before {
-    background: #4db171;
-    top: -90px;
-    left: -60px;
+  background: #4db171;
+  top: -90px;
+  left: -60px
 }
 
 section.testimonials .title_testi:hover:before {
-    background: #050830;
+  background: #050830
 }
 
 section.testimonials .title_testi:hover:after {
-    background: #4db171;
+  background: #4db171
 }
 
 section.testimonials .title_testi:hover {
-    background: linear-gradient(    to left, #050830,#4db171 );
-    background-size: 100% 100%;
+  background: linear-gradient(to left, #050830, #4db171);
+  background-size: 100% 100%
 }
+
 section.testimonials .container {
-    margin-top: -80px;
+  margin-top: -80px
 }
+
 .testi_item:hover {
-    background: linear-gradient(    to left,    #4db171,    #050830 );
-    transform: scale(1.05);
+  transform: scale(1.05)
 }
 
-.testi_item:hover h4, .testi_item:hover p {
-    color:#fff
-}
 .testi_slider .slick-track {
-    padding-bottom: 20px;
+  padding-bottom: 20px
 }
-
 
 section.contact_sect .top_contact {
-    text-align: center;
-    padding: 100px 0 140px;
-    background: url(../images/bg-2.webp);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+  text-align: center;
+  padding: 100px 0 140px;
+  background: url(../images/bg-2.webp) center/cover no-repeat
 }
+
 section.contact_sect .container {
-    margin-top: -80px;
-    background: #fff;
-    border-radius: 20px;
-    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-    border-radius: 20px !important;
-    overflow: hidden;
+  margin-top: -80px;
+  background: #fff;
+  box-shadow: rgba(0, 0, 0, .24) 0 3px 8px;
+  border-radius: 20px !important;
+  overflow: hidden
+}
+
+.copy-right,
+.modaL_order2 .modal-body h2 {
+  margin-top: 20px;
+  color: #fff;
+  text-align: center
 }
 
 section.contact_sect .container .contact_form .black-col {
-    background: #050830 !important;
+  background: #050830 !important
 }
 
 section.contact_sect .container .row .cols {
-    background: #fff;
-    padding: 30px;
+  background: #fff;
+  padding: 30px
 }
 
 .contact_form .contact_details .item a {
-    color: #fff;
-    text-decoration: none;
-    display: flex;
-    gap: 16px;
-    border: 1px solid;
-    padding: 15px;
-    align-items: center;
-    margin-bottom: 25px;
-    border-radius: 10px 0 10px;
-    transition: .4s all ease-in-out;
+  color: #fff;
+  text-decoration: none;
+  display: flex;
+  gap: 16px;
+  border: 1px solid;
+  padding: 15px;
+  align-items: center;
+  margin-bottom: 25px;
+  border-radius: 10px 0;
+  transition: .4s ease-in-out
 }
 
 .contact_form .contact_details .item a i {
-    font-size: 40px;
+  font-size: 40px
 }
 
 .contact_form .contact_details .item a h4 {
-    color: #fff;
-    margin: 0;
-    font-size: 18px;
-    transition: .4s all ease-in-out;
+  color: #fff;
+  margin: 0;
+  font-size: 18px;
+  transition: .4s ease-in-out
 }
 
 .contact_form .contact_details .item a h4 span {
-    display: block;
+  display: block
 }
+
 .contact_form .contact_details .item a:hover {
-    color: #000;
-    background: #fff;
-    border-radius: 0 15px 0 14px;
+  color: #000;
+  background: #fff;
+  border-radius: 0 15px 0 14px
 }
 
 .contact_form .contact_details .item a:hover h4 {
-    color: #000;
+  color: #000
 }
-.contact_form form input, .contact_form form textarea {
-    background: #dcdcdc;
-    padding: 15px;
+
+.contact_form form input,
+.contact_form form textarea {
+  background: #dcdcdc;
+  padding: 15px
+}
+
+.modaL_order2 .modal-body h5 span,
+.modaL_order2 form button {
+  background: linear-gradient(to left, #4db171, #050830);
+  display: block
 }
 
 .copy-right {
-    margin-top: 20px;
-    padding: 20px;
-    background-image: linear-gradient(      to right,      #4db171,      #050830,      #050830,      #4db171    );
-    text-align: center;
-    color: #fff;
-    background-size: 200% 100%;
+  padding: 20px;
+  background-image: linear-gradient(to right, #4db171, #050830, #050830, #4db171);
+  background-size: 200% 100%
 }
 
 .check_list li {
-    line-height: 34px;
-    font-size: 16px;
-    font-weight: 500;
-    margin-bottom: 10px;
+  line-height: 34px;
+  font-size: 16px;
+  font-weight: 500;
+  margin-bottom: 10px
+}
+
+.inner_text h3,
+.tab-content h3 {
+  font-weight: 600
 }
 
 .inner_text h3 {
-    font-size: 33px;
-    font-weight: 600;
-    margin-bottom: 20px;
+  font-size: 33px;
+  margin-bottom: 20px
 }
 
 .inner_text p {
-    line-height: 28px;
-    color: #000;
+  line-height: 28px;
+  color: #000
 }
 
 .thankyou_box {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center
 }
 
 .thankyou_box img {
-    width: 200px;
+  width: 200px
 }
 
 section.thankyou {
-    background: #eceef0;
-    height: 100vh;
-    display: grid;
-    place-items: center;
+  background: #eceef0;
+  height: 100vh;
+  display: grid;
+  place-items: center
 }
 
-/* Chrome, Safari, Edge, Opera */
-input::-webkit-outer-spin-button,
-input::-webkit-inner-spin-button {
+input::-webkit-inner-spin-button,
+input::-webkit-outer-spin-button {
   -webkit-appearance: none;
-  margin: 0;
+  margin: 0
 }
 
-/* Firefox */
 input[type=number] {
-  -moz-appearance: textfield;
-}
-.tab-content h3 {
-    font-weight: 600;
+  -moz-appearance: textfield
 }
 
 .tab-content p {
-    color: #000;
-    line-height: 1.9;
+  color: #000;
+  line-height: 1.9
 }
-
 
 .modaL_order2 .modal-dialog {
-    max-width: 800px;
- height: 90vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+  max-width: 800px;
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center
 }
-.modaL_order2 .modal-dialog .modal-content:before{
-    content: "";
-    width: 8px;
-    height: 65px;
-    background: #050830;
-    background-image: -moz-linear-gradient(top, #555, #444, #444, #555);
-    background-image: -ms-linear-gradient(top, #555, #444, #444, #555);
-    background-image: -o-linear-gradient(top, #555, #444, #444, #555);
-    border-top-left-radius: 6px;
-    border-bottom-left-radius: 6px;
-    display: block;
-    position: absolute;
-    top: 50%;
-    border: 1px solid #111;
-    left: -10px;
+
+.modaL_order2 .modal-dialog .modal-content:before {
+  content: "";
+  width: 8px;
+  height: 65px;
+  background: #050830;
+  background-image: -moz-linear-gradient(top, #555, #444, #444, #555);
+  background-image: -ms-linear-gradient(top, #555, #444, #444, #555);
+  background-image: -o-linear-gradient(top, #555, #444, #444, #555);
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  display: block;
+  position: absolute;
+  top: 50%;
+  border: 1px solid #111;
+  left: -10px
 }
-.modaL_order2 .modal-dialog .modal-content:after{
-        content: "";
-        width: 8px;
-        height: 65px;
-        background: #050830;
-        background-image: -moz-linear-gradient(top, #555, #444, #444, #555);
-        background-image: -ms-linear-gradient(top, #555, #444, #444, #555);
-        background-image: -o-linear-gradient(top, #555, #444, #444, #555);
-        border: 1px solid #111;
-        border-top-right-radius: 6px;
-        border-bottom-right-radius: 6px;
-        display: block;
-        position: absolute;
-        top: 50%;
-        right: -10px;
+
+.modaL_order2 .modal-dialog .modal-content:after {
+  content: "";
+  width: 8px;
+  height: 65px;
+  background: #050830;
+  background-image: -moz-linear-gradient(top, #555, #444, #444, #555);
+  background-image: -ms-linear-gradient(top, #555, #444, #444, #555);
+  background-image: -o-linear-gradient(top, #555, #444, #444, #555);
+  border: 1px solid #111;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: -10px
 }
+
 .modaL_order2 form textarea {
-    width: 100%;
-    border-radius: 7px;
-    padding: 17px;
-    
-    font-size: 16px;
-    margin: 5px 0 0;
-    resize: none;
-    height: 133px;
+  width: 100%;
+  border-radius: 7px;
+  padding: 17px;
+  font-size: 16px;
+  margin: 5px 0 0;
+  resize: none;
+  height: 133px
 }
+
 .modaL_order2 .modal-header {
-    padding: 0;
-    position: relative;
-    border: none;
-    z-index: 100000
+  padding: 0;
+  position: relative;
+  border: none;
+  z-index: 100000
 }
 
 .modaL_order2 .btn-close {
-    position: absolute;
-    right: 0;
-    border: none;
-    outline: none;
-    cursor: pointer;
-    box-shadow: 2px 1px 27px #050830;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    background: #4db171;
-    color: #ffff;
-    top: -13px;
-    opacity: 1
+  position: absolute;
+  right: 0;
+  border: none;
+  outline: 0;
+  cursor: pointer;
+  box-shadow: 2px 1px 27px #050830;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #4db171;
+  color: #ffff;
+  top: -13px;
+  opacity: 1
 }
 
 .modaL_order2 .modal-dialog .modal-content {
-    padding: 0;
-    border: none
+  padding: 0;
+  border: none
 }
 
 .modaL_order2 .modal-body h5 {
-    color: #fff;
-    font-size: 24px;
-    text-transform: capitalize;
-    text-align: center;
-    margin-bottom: 9px;
+  color: #fff;
+  font-size: 24px;
+  text-transform: capitalize;
+  text-align: center;
+  margin-bottom: 9px
 }
-.modaL_order2 .modal-body h5 span{
-    padding: 10px;
-    border-radius: 8px;
-    display: block;
-    background: linear-gradient(    to left,    #4db171,    #050830 );
+
+.modaL_order2 .modal-body h5 span {
+  padding: 10px;
+  border-radius: 8px
 }
-.modaL_order2 .modal-body .poppup-css{
 
-    background: hsl(0deg 0% 0% / 80%);
-    padding: 15px !important;
-    text-align: center;
-        border-radius: 10px;
-
+.modaL_order2 .modal-body .poppup-css {
+  background: hsl(0deg 0% 0% / 80%);
+  padding: 15px !important;
+  text-align: center;
+  border-radius: 10px
 }
 
 .modaL_order2 .modal-body h2 {
-    
-    font-weight: 400;
-    font-size: 19px;
-    color: #29292E;
-    color: #fff;
-    text-align: center;
-    margin-top: 20px;
+  font-weight: 400;
+  font-size: 19px
 }
 
 .modaL_order2 .modal-body h4 {
-    font-size: 26px;
-    font-weight: 600;
-    text-transform: capitalize;
-    color: #f65d4e;
-    text-align: center;
-    margin: 11px 0;
+  font-size: 26px;
+  font-weight: 600;
+  text-transform: capitalize;
+  color: #f65d4e;
+  text-align: center;
+  margin: 11px 0
 }
 
 .modaL_order2 .modal-body h4 span {
-    font-size: 17px;
-    background: #f65d4e;
-    border-radius: 2px;
-    padding: 4px;
-    color: #fff;
-    box-shadow: 2px 1px 27px #c28e3b;
+  font-size: 17px;
+  background: #f65d4e;
+  border-radius: 2px;
+  padding: 4px;
+  color: #fff;
+  box-shadow: 2px 1px 27px #c28e3b
 }
 
-.modaL_order2 form {}
-
 .modaL_order2 form input {
-    width: 100%;
-    margin: 5px 0;
-    padding: 10px 18px;
-    border: none;
-    border-radius: 7px;
-    outline: none;
-    
-    font-size: 16px;
+  width: 100%;
+  margin: 5px 0;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 7px;
+  outline: 0;
+  font-size: 16px
 }
 
 .modaL_order2 form select {
-    width: 100%;
-    margin: 10px 0;
-    padding: 12px 25px;
-    border: none;
-    border-radius: 7;
-        font-size: 13px;
-    outline: none;
-        padding: 0px 25px;
+  width: 100%;
+  margin: 10px 0;
+  padding: 0 25px;
+  border: none;
+  border-radius: 7;
+  font-size: 13px;
+  outline: 0
 }
 
 .modaL_order2 form input::placeholder,
 .modaL_order2 form textarea::placeholder {
-    color: #000
+  color: #000
 }
 
 .modaL_order2 form button {
-    border: none;
-    outline: none;
-    width: 100%;
-    border-radius: 6px;
-    display: block;
-    margin: 5px auto 0;
-    padding: 9px 0;
-    font-size: 16px;
-    font-weight: 500;
-    box-shadow: 2px 1px 27px #4db171;
-    background: linear-gradient(    to left,    #4db171,    #050830 );
-    color: #fff;
+  border: none;
+  outline: 0;
+  width: 100%;
+  border-radius: 6px;
+  margin: 5px auto 0;
+  padding: 9px 0;
+  font-size: 16px;
+  font-weight: 500;
+  box-shadow: 2px 1px 27px #4db171;
+  color: #fff
 }
 
 .modaL_order2 #countdown {
-    background: #1615156b;
-    padding: 9px 13px;
-    border-radius: 10px
+  background: #1615156b;
+  padding: 9px 13px;
+  border-radius: 10px;
+  text-align: center;
+  background: #f65d4e;
+  background-image: -moz-linear-gradient(top, #222, #333, #333, #222);
+  background-image: -ms-linear-gradient(top, #222, #333, #333, #222);
+  background-image: -o-linear-gradient(top, #222, #333, #333, #222);
+  margin: 0 0 20px
 }
 
 .modaL_order2 #countdown ul {
-    display: flex;
-    justify-content: center;
-    font-family: nunito;
-    font-weight: 600
+  display: flex;
+  justify-content: center;
+  font-family: nunito;
+  font-weight: 600
 }
 
 .modaL_order2 #countdown ul li {
-    margin: 0 15px;
-    background: #ffc107;
-    display: inline-block;
-    padding: 7px;
-    border-radius: 4px;
-    width: 105px;
-    box-shadow: 2px 1px 27px #fabd07ab
+  margin: 0 15px;
+  background: #ffc107;
+  display: inline-block;
+  padding: 7px;
+  border-radius: 4px;
+  width: 105px;
+  box-shadow: 2px 1px 27px #fabd07ab
 }
 
 .modaL_order2 #countdown ul li span {
-    font-size: 19px
+  font-size: 19px
 }
-
-.modaL_order2 #countdown {
-    text-align: center;
-    background: #f65d4e;
-    background-image: -moz-linear-gradient(top, #222, #333, #333, #222);
-    background-image: -ms-linear-gradient(top, #222, #333, #333, #222);
-    background-image: -o-linear-gradient(top, #222, #333, #333, #222);
-        margin: 0 0 20px;
-
-}
-
 
 .modaL_order2 #countdown #tiles {
-    position: relative;
-    z-index: 1
+  position: relative;
+  z-index: 1
 }
 
 .modaL_order2 #countdown #tiles>span {
-    width: 63px;
-    max-width: 63px;
-    text-align: center;
-    color: #111;
-    background-color: #ddd;
-    background-image: -webkit-linear-gradient(top, #bbb, #eee);
-    background-image: -moz-linear-gradient(top, #bbb, #eee);
-    background-image: -ms-linear-gradient(top, #bbb, #eee);
-    background-image: -o-linear-gradient(top, #bbb, #eee);
-    border-top: 1px solid #fff;
-    border-radius: 3px;
-    box-shadow: 0 0 12px rgba(0, 0, 0, .7);
-    margin: 0 7px;
-    padding: 12px 0;
-    display: inline-block;
-    position: relative;
-    font-size: 27px;
-    font-weight: 600
+  width: 63px;
+  max-width: 63px;
+  text-align: center;
+  color: #111;
+  background-color: #ddd;
+  background-image: -webkit-linear-gradient(top, #bbb, #eee);
+  background-image: -moz-linear-gradient(top, #bbb, #eee);
+  background-image: -ms-linear-gradient(top, #bbb, #eee);
+  background-image: -o-linear-gradient(top, #bbb, #eee);
+  border-top: 1px solid #fff;
+  border-radius: 3px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, .7);
+  margin: 0 7px;
+  padding: 12px 0;
+  display: inline-block;
+  position: relative;
+  font-size: 27px;
+  font-weight: 600
 }
 
 .modaL_order2 #countdown #tiles>span:before {
-    content: "";
-    width: 100%;
-    height: 13px;
-    background: #111;
-    display: block;
-    padding: 0 3px;
-    position: absolute;
-    top: 41%;
-    left: -3px;
-    z-index: -1
+  content: "";
+  width: 100%;
+  height: 13px;
+  background: #111;
+  display: block;
+  padding: 0 3px;
+  position: absolute;
+  top: 41%;
+  left: -3px;
+  z-index: -1
 }
 
 .modaL_order2 #countdown #tiles>span:after {
-    content: "";
-    width: 100%;
-    height: 1px;
-    background: #eee;
-    border-top: 1px solid #333;
-    display: block;
-    position: absolute;
-    top: 48%;
-    left: 0
+  content: "";
+  width: 100%;
+  height: 1px;
+  background: #eee;
+  border-top: 1px solid #333;
+  display: block;
+  position: absolute;
+  top: 48%;
+  left: 0
 }
 
 .modaL_order2 #countdown .labels {
-    text-align: center;
-    
+  text-align: center
 }
 
 .modaL_order2 #countdown .labels li {
-    color: #fff;
-    text-transform: uppercase;
-    display: inline-block;
-    font-weight: 600;
-    margin: 0 16px;
-    text-shadow: 2px 1px 27px #97d1ce;
-    text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  display: inline-block;
+  font-weight: 600;
+  margin: 0 16px;
+  text-shadow: 2px 1px 27px #97d1ce;
+  text-align: center
 }
 
 #staticBackdrop1 .modal-body:before {
-    content: '';
-    background: linear-gradient(to right, #050830, #4db171);
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    z-index: 0;
-    left:0;
-    bottom:0;
+  content: '';
+  background: linear-gradient(to right, #050830, #4db171);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  z-index: 0;
+  left: 0;
+  bottom: 0
 }
 
 #staticBackdrop1 .modal-body .row {
-    position: relative;
+  position: relative
 }
 
 #staticBackdrop1 .modal-body:after {
-    width: 50%;
-    content: '';
-    height: 85%;
-    background: url(../images/popup.webp);
-    position: absolute;
-    background-size: cover;
-    background-repeat: no-repeat;
-    top: 50%;
-    left: -50px;
-    transform: translateY(-50%);
-    border-radius: 30px;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
-}
-@media(max-width:991px){
-    #staticBackdrop1 .modal-body:after {
-        display:none;
-    }
-    #staticBackdrop1 .modal-body {
-        background: #000 url(../images/popup.webp);background-size: cover;background-position: -100px 0;
-    }
-    #staticBackdrop1 .modal-body:before{
-        background:linear-gradient(    to left,    #050830, transparent )
-    }
-    
-    .head_btn{
-        margin-top:10px;
-    }
-    
-    .ban_form input{
-        margin-top:5px;
-    }
-    
-    section.banner h4{
-        margin-top:20px;
-    }
-    
+  width: 50%;
+  content: '';
+  height: 85%;
+  background: url(../images/popup.webp) 0 0/cover no-repeat;
+  position: absolute;
+  top: 50%;
+  left: -50px;
+  transform: translateY(-50%);
+  border-radius: 30px;
+  box-shadow: rgba(50, 50, 93, .25) 0 50px 100px -20px, rgba(0, 0, 0, .3) 0 30px 60px -30px
 }
 
+@media(max-width:991px) {
+  #staticBackdrop1 .modal-body:after {
+    display: none
+  }
+
+  #staticBackdrop1 .modal-body {
+    background: url(../images/popup.webp) -100px 0/cover #000
+  }
+
+  #staticBackdrop1 .modal-body:before {
+    background: linear-gradient(to left, #050830, transparent)
+  }
+
+  .head_btn {
+    margin-top: 10px
+  }
+
+  .ban_form input {
+    margin-top: 5px
+  }
+
+  section.banner h4 {
+    margin-top: 20px
+  }
+}
