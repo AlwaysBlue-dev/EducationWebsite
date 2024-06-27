@@ -103,7 +103,7 @@
                 <nav class="navbar navbar-dark bg-transparent navbar-expand-lg" id="navbar-main">
     <div class="container">
         <a href="/index.php" title="Home" rel="home" class="navbar-brand">
-            <img src="/images/logo_dark.png" alt="Home" class="img-fluid d-inline-block align-top">
+            <img src="/images/logo.png" alt="Home" class="img-fluid d-inline-block align-top">
             <span class="ml-2 d-none d-md-inline">AllExamsDone</span>
         </a>
 

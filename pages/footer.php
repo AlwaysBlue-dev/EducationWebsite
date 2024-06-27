@@ -19,7 +19,7 @@
                             <!-- Left Column: Logo and Content -->
                             <div class="col-md-4 col-sm-12 mb-3 mt-3">
                                 <div class="footer-logo">
-                                    <img loading="lazy" src="/images/logo.png" width="250" height="42"
+                                    <img loading="lazy" src="/images/logo_dark.png" width="250" height="42"
                                         alt="AllExamsDone" typeof="Image">
                                 </div>
                                 <p class="mt-2">
