@@ -444,25 +444,7 @@
     })();
     </script>
     <!--End of Tawk.to Script-->
-    <script>
-    // Ensure the widget is initialized before adding event listener
-    window.addEventListener('load', function() {
-        // Add event listener to the chat link
-        document.getElementById('chatLink').addEventListener('click', function(event) {
-            // Prevent the default behavior of the link
-            event.preventDefault();
-            // Check if LiveChatWidget API is ready
-            if (typeof LiveChatWidget !== 'undefined' && LiveChatWidget.call) {
-                // Open the LiveChat widget
-                LiveChatWidget.call('maximize');
-            } else {
-                console.error('LiveChatWidget API is not ready.');
-            }
-        });
-    });
-    </script>
-
-    <!-- End of LiveChat code -->
+   
     <script>
     document.addEventListener('DOMContentLoaded', function() {
         var orderNowButton = document.getElementById('orderNowButton');

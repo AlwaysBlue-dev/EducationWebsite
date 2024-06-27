@@ -40,17 +40,29 @@
 
 
                     </p>
-                    <a href="/index.php" class="head_btn">Go Back</a>
+                    <a href="/" class="head_btn">Go Back</a>
                 </div>
             </div>
         </section>
 
     </main>
-
-    <script src="js/jquery-3.7.1.min.js" crossorigin="anonymous"></script>
-
-    <script src="js/bootstrap.bundle.min.js" crossorigin="anonymous">
+    <script type="text/javascript">
+    var Tawk_API = Tawk_API || {},
+        Tawk_LoadStart = new Date();
+    (function() {
+        var s1 = document.createElement("script"),
+            s0 = document.getElementsByTagName("script")[0];
+        s1.async = true;
+        s1.src = 'https://embed.tawk.to/667c4d449d7f358570d39f76/1i1aorlpu';
+        s1.charset = 'UTF-8';
+        s1.setAttribute('crossorigin', '*');
+        s0.parentNode.insertBefore(s1, s0);
+    })();
     </script>
+    <!--End of Tawk.to Script-->
+
+
+
 
 
 </body>
