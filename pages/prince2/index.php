@@ -136,7 +136,7 @@
     text-transform: uppercase;
 }
 </style>
-<title>All Exams Done – Prince2</title>
+<title>All Exams Done – Prince2 Certification Program</title>
 <div class="highlighted">
     <aside class="container section clearfix" role="complementary">
         <div data-drupal-messages-fallback="" class="hidden"></div>

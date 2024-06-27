@@ -1,5 +1,5 @@
 <?php include '../header.php'; ?>
-<title>All Exams Done – ATI TEAS</title>
+
 <style>
 /* Optional: Add custom styles here */
 .review-img {
@@ -176,6 +176,7 @@
     text-transform: uppercase;
 }
 </style>
+<title>All Exams Done – ATI TEAS Certification Program</title>
 <div class="highlighted">
     <aside class="container section clearfix" role="complementary">
         <div data-drupal-messages-fallback="" class="hidden"></div>

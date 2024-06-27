@@ -136,7 +136,7 @@
     text-transform: uppercase;
 }
 </style>
-<title>All Exams Done – CompTIA</title>
+<title>All Exams Done – CompTIA Certification Program</title>
 <div class="highlighted">
     <aside class="container section clearfix" role="complementary">
         <div data-drupal-messages-fallback="" class="hidden"></div>
