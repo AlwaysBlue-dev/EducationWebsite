@@ -565,77 +565,7 @@
                                                                     </ul>
 
                                                                 </div>
-                                                                <div class="container mt-2">
-                                                                    <h2 class="text-center mb-4 text">Our Work
-                                                                    </h2>
-                                                                    <div id="customerReviewsCarousel"
-                                                                        class="carousel slide mb-5"
-                                                                        data-ride="carousel">
-                                                                        <ol class="carousel-indicators">
-                                                                            <li data-target="#customerReviewsCarousel"
-                                                                                data-slide-to="0" class="active">
-                                                                            </li>
-                                                                            <li data-target="#customerReviewsCarousel"
-                                                                                data-slide-to="1"></li>
-                                                                            <li data-target="#customerReviewsCarousel"
-                                                                                data-slide-to="2"></li>
-                                                                            <li data-target="#customerReviewsCarousel"
-                                                                                data-slide-to="3"></li>
-                                                                            <li data-target="#customerReviewsCarousel"
-                                                                                data-slide-to="4"></li>
-                                                                            <li data-target="#customerReviewsCarousel"
-                                                                                data-slide-to="5"></li>
-                                                                        </ol>
-                                                                        <div class="carousel-inner">
-                                                                            <div class="carousel-item active">
-                                                                                <img class="d-block w-100"
-                                                                                    src="images/review1.png"
-                                                                                    alt="First slide">
-                                                                            </div>
-                                                                            <div class="carousel-item">
-                                                                                <img class="d-block w-100"
-                                                                                    src="images/review2.png"
-                                                                                    alt="Second slide">
-                                                                            </div>
-                                                                            <div class="carousel-item">
-                                                                                <img class="d-block w-100"
-                                                                                    src="images/review3.png"
-                                                                                    alt="Third slide">
-                                                                            </div>
-                                                                            <div class="carousel-item">
-                                                                                <img class="d-block w-100"
-                                                                                    src="images/review4.png"
-                                                                                    alt="Fourth slide">
-                                                                            </div>
-                                                                            <div class="carousel-item">
-                                                                                <img class="d-block w-100"
-                                                                                    src="images/review5.png"
-                                                                                    alt="Fifth slide">
-                                                                            </div>
-                                                                            <div class="carousel-item">
-                                                                                <img class="d-block w-100"
-                                                                                    src="images/review6.png"
-                                                                                    alt="Sixth slide">
-                                                                            </div>
-                                                                        </div>
-                                                                        <a class="carousel-control-prev"
-                                                                            href="#customerReviewsCarousel"
-                                                                            role="button" data-slide="prev">
-                                                                            <span class="carousel-control-prev-icon"
-                                                                                style="background-color:#171347"
-                                                                                aria-hidden="true"></span>
-                                                                            <span class="sr-only">Previous</span>
-                                                                        </a>
-                                                                        <a class="carousel-control-next"
-                                                                            href="#customerReviewsCarousel"
-                                                                            role="button" data-slide="next">
-                                                                            <span class="carousel-control-next-icon"
-                                                                                style="background-color:#171347"
-                                                                                aria-hidden="true"></span>
-                                                                            <span class="sr-only">Next</span>
-                                                                        </a>
-                                                                    </div>
-                                                                </div>
+                                                              
 
                                                             </div>
                                                         </div>

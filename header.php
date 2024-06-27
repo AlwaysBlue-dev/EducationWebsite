@@ -134,9 +134,8 @@
     }
     </style>
 
-    <script src="js/all.js" defer="" crossorigin="anonymous"></script>
-    <script src="js/v4-shims.js" defer="" crossorigin="anonymous"></script>
-
+   
+    
 </head>
 
 
@@ -147,7 +146,7 @@
             <header id="header" class="header" role="banner" aria-label="Site header">
                 <nav class="navbar navbar-dark bg-transparent navbar-expand-lg" id="navbar-main">
                     <div class="container">
-                        <a href="index.php" title="Home" rel="home" class="navbar-brand">
+                        <a href="/" title="Home" rel="home" class="navbar-brand">
                             <img src="images/logo.png" alt="Home" class="img-fluid d-inline-block align-top">
                             <span class="ml-2 d-none d-md-inline">AllExamsDone</span>
                         </a>
@@ -159,7 +158,7 @@
                         <div class="collapse navbar-collapse justify-content-between" id="CollapsingNavbar">
                             <ul class="navbar-nav mx-auto">
                                 <li class="nav-item">
-                                    <a href="index.php" class="nav-link is-active"
+                                    <a href="/" class="nav-link is-active"
                                         data-drupal-link-system-path="<front>">Home</a>
                                 </li>
                                 <li class="nav-item dropdown">

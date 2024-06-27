@@ -6,14 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon">
 
-    <title>All Exams Takers – Certification Program </title>
+    <title>All Exams Done – Certification Program </title>
 
     <link rel="stylesheet" media="all" href="../assets/css/css_LLiICWna101nNIKOt54Q7E-mxH73Y8zRqXpwcB9skKc.css">
     <link rel="stylesheet" media="all" href="../assets/css/css_F5EjW9vP3AUqPYJdjAcOrOlcxAi_eaHmzxwkgq37LY4.css">
     <link rel="stylesheet" media="all" href="../assets/css/css_dsoNCNJ2K8CmbfDY3V0u38ClRs4Sieayf5KQqXXI_7A.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
-    <script src="../assets/js/all.js" defer="" crossorigin="anonymous"></script>
-    <script src="../assets/js/v4-shims.js" defer="" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
     <style>
     .dropdown-menu {
         max-height: 400px;
@@ -102,7 +104,7 @@
                 <header id="header" class="header" role="banner" aria-label="Site header">
                     <nav class="navbar navbar-dark bg-transparent navbar-expand-lg" id="navbar-main">
                         <div class="container">
-                            <a href="/index.php" title="Home" rel="home" class="navbar-brand">
+                            <a href="/" title="Home" rel="home" class="navbar-brand">
                                 <img src="/images/logo.png" alt="Home" class="img-fluid d-inline-block align-top">
                                 <span class="ml-2 d-none d-md-inline">AllExamsDone</span>
                             </a>
@@ -114,7 +116,7 @@
                             <div class="collapse navbar-collapse justify-content-between" id="CollapsingNavbar">
                                 <ul block="block-certwizard-mainnavigation" class="clearfix nav navbar-nav mx-auto">
                                     <li class="nav-item">
-                                        <a href="/index.php" class="nav-link nav-link-- is-active"
+                                        <a href="/" class="nav-link nav-link-- is-active"
                                             data-drupal-link-system-path="<front>">Home</a>
                                     </li>
 

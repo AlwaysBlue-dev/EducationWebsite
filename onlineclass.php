@@ -320,7 +320,7 @@
                                                                                 All Exams Done today and let us handle
                                                                                 the rest!</p>
                                                                             <p><strong>Email:</strong>
-                                                                                info@proexamtakers.com</p>
+                                                                                info@allexamsdone.com</p>
                                                                             <p><strong>Phone:</strong> +1 (336) 920-8845
                                                                             </p>
                                                                             <p><strong>Live Chat:</strong> Available

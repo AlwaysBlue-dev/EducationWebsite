@@ -12,8 +12,7 @@
     <div class="container">
         <div class="site-footer__top clearfix">
             <section class="row region region-footer-first">
-                <div class="views-element-container block block-views block-views-blockfooter-block-1"
-                   >
+                <div class="views-element-container block block-views block-views-blockfooter-block-1">
                     <div class="content">
                         <div class="row">
                             <!-- Left Column: Logo and Content -->
@@ -128,10 +127,9 @@
 </footer>
 
 
-
-<script src="js/js_ozKSl68KijGfT8_0UC64uFb3tFfQFML5cMZFbwNQ9v4.js"></script>
-
-
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"
+    integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous">
+</script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
