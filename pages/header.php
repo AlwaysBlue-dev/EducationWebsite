@@ -6,8 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/images/logo.png" type="image/x-icon">
 
-    <title>All Exams Done – Certification Program </title>
-
     <link rel="stylesheet" media="all" href="../assets/css/css_LLiICWna101nNIKOt54Q7E-mxH73Y8zRqXpwcB9skKc.css">
     <link rel="stylesheet" media="all" href="../assets/css/css_F5EjW9vP3AUqPYJdjAcOrOlcxAi_eaHmzxwkgq37LY4.css">
     <link rel="stylesheet" media="all" href="../assets/css/css_dsoNCNJ2K8CmbfDY3V0u38ClRs4Sieayf5KQqXXI_7A.css">
