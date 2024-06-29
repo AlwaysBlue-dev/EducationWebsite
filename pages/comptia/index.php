@@ -557,7 +557,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/comptia/pentest"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CompTIA
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>CompTIA
                                                                                                         PenTest+
                                                                                                         Certification</span>
                                                                                                 </a>
@@ -648,7 +649,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/comptia/cloud-essentials"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CompTIA
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>CompTIA
                                                                                                         Cloud Essentials
                                                                                                         Certification</span>
                                                                                                 </a>

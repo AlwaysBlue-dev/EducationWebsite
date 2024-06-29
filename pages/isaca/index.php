@@ -384,7 +384,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/csx-p"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">CSX-P
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>CSX-P
                                                                                                         - Cybersecurity
                                                                                                         Practitioner
                                                                                                         Certification</span>
@@ -424,7 +425,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/cobit-foundation"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">COBIT
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>COBIT
                                                                                                         Foundation
                                                                                                         Certificate</span>
                                                                                                 </a>

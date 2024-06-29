@@ -480,7 +480,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-security-engineer-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Security
@@ -524,7 +525,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-network-engineer-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Network
@@ -671,7 +673,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-virtual-desktop-specialty"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Virtual
@@ -718,7 +721,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-data-engineer-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Data
@@ -763,7 +767,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-database-administrator-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Database
@@ -808,7 +813,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-data-scientist-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Data
@@ -965,7 +971,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/messaging-administrator-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Messaging
@@ -1008,7 +1015,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/teams-voice-engineer"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Teams
@@ -1053,7 +1061,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/security-administrator-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Security
@@ -1097,7 +1106,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/teams-administrator-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Teams
@@ -1140,7 +1150,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/m365-teams-application-developer"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Teams
@@ -1190,7 +1201,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/enterprise-administrator-expert"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Enterprise
@@ -1339,7 +1351,8 @@
                                                                 <div class="views-field views-field-title">
                                                                     <h3 class="field-content"><a
                                                                             href="/microsoft/power-platform-path"
-                                                                            hreflang="en">Microsoft
+                                                                            hreflang="en"
+                                                                            id="chatLink">Microsoft
                                                                             Power Platform</a></h3>
                                                                 </div>
                                                                 <div class="views-field views-field-field-exam">
@@ -1476,7 +1489,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/azure-security-engineer-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Azure
                                                                                                         Security
@@ -1520,7 +1534,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/identity-and-access-administrator"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Identity
                                                                                                         and
@@ -1566,7 +1581,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/security-administrator-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         365
                                                                                                         Certified:
                                                                                                         Security
@@ -1610,7 +1626,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/information-protection-administrator"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Information
                                                                                                         Protection
@@ -1654,7 +1671,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/security-operations-analyst"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Security
                                                                                                         Operations
@@ -1698,7 +1716,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/microsoft/cybersecurity-architect-expert"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Microsoft
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Microsoft
                                                                                                         Certified:
                                                                                                         Cybersecurity
                                                                                                         Architect

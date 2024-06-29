@@ -411,7 +411,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/salesforce/certified-platform-app-builder"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Salesforce
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Salesforce
                                                                                                         Certified
                                                                                                         Platform App
                                                                                                         Builder</span>
@@ -450,7 +451,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/salesforce/certified-marketing-cloud-email-specialist"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Salesforce
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Salesforce
                                                                                                         Certified
                                                                                                         Marketing Cloud
                                                                                                         Email

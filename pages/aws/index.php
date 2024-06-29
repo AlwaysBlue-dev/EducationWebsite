@@ -305,7 +305,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="#"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified
                                                                                                         Developer -
                                                                                                         Associate</span>
@@ -343,7 +344,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/sysops-administrator-associate"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified SysOps
                                                                                                         Administrator -
                                                                                                         Associate</span>
@@ -400,7 +402,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/solutions-architect-professional"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified
                                                                                                         Solutions
                                                                                                         Architect –
@@ -441,7 +444,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/devops-engineer-professional"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified DevOps
                                                                                                         Engineer -
                                                                                                         Professional</span>
@@ -539,7 +543,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/data-analytics-specialty"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified Data
                                                                                                         Analytics –
                                                                                                         Specialty</span>
@@ -578,7 +583,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/advanced-networking-specialty"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified
                                                                                                         Advanced
                                                                                                         Networking -
@@ -619,7 +625,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/machine-learning-specialty"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified
                                                                                                         Machine Learning
                                                                                                         -
@@ -659,7 +666,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/alexa-skill-builder-specialty"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified Alexa
                                                                                                         Skill Builder -
                                                                                                         Specialty
@@ -703,7 +711,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/aws/database-specialty"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">AWS
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>AWS
                                                                                                         Certified
                                                                                                         Database -
                                                                                                         Specialty</span>

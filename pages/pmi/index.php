@@ -328,7 +328,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/pmi/capm"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Certified
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Certified
                                                                                                         Associate in
                                                                                                         Project
                                                                                                         Management
@@ -414,7 +415,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/pmi/pmi-acp"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">PMI
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">PMI
                                                                                                         Agile Certified
                                                                                                         Practitioner
                                                                                                         (PMI-ACP)</span>
@@ -453,7 +455,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/pmi/pmi-rmp"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">PMI
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">PMI
                                                                                                         Risk Management
                                                                                                         Professional
                                                                                                         (PMI-RMP)</span>
@@ -494,7 +497,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/pmi/pmi-sp"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">PMI
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">PMI
                                                                                                         Scheduling
                                                                                                         Professional
                                                                                                         (PMI-SP)</span>

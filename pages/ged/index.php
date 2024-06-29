@@ -393,7 +393,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/isaca/crisc"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Why
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>Why
                                                                                                         Choose Us to
                                                                                                         Take Your GED
                                                                                                         Exam?
@@ -470,56 +471,57 @@
                                                                     </li>
                                                                     </ul>
                                                                 </div>
-                                                               
+
+                                                            </div>
                                                         </div>
+
                                                     </div>
 
                                                 </div>
 
                                             </div>
+                                        </div>
 
+                                    </div>
+                                </div>
+                                <div class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
+                                    <div class="d-flex justify-content-center m-2">
+                                        <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
+                                            target="_blank" class="float_wn text-white">
+                                            <i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp Now
+                                        </a>
+                                    </div>
+                                    <div class="d-flex justify-content-center m-2">
+                                        <a href="javascript:void(0);" role="button" data-toggle="modal"
+                                            data-target="#myModal" class="h_btn text-white" id="orderNowButton">
+                                            <i class="fa fa-check-circle" aria-hidden="true"></i> Order Now
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="popup-overlay" id="popup">
+                                    <div class="popup-content">
+                                        <span class="close-button" id="closeButton">&times;</span>
+                                        <div class="image-section">
+                                            <img src="/images/popup.jpg" alt="Student studying">
+                                        </div>
+                                        <div class="form-section">
+                                            <div class="form-container">
+                                                <h2>Avail Amazing<br>50% Discount
+                                                    Now!</h2>
+                                                <form action="send_email.php" method="POST">
+                                                    <input type="text" name="name" placeholder="Name" required>
+                                                    <input type="email" name="email" placeholder="Email" required>
+                                                    <input type="tel" name="phone" placeholder="Phone Number" required>
+                                                    <textarea name="message" placeholder="Your Message"
+                                                        required></textarea>
+
+                                                    <button type="submit">Submit</button>
+                                                </form>
+                                            </div>
                                         </div>
                                     </div>
-
                                 </div>
-                            </div>
-                            <div class="container d-flex justify-content-center align-items-center mt-5 flex-wrap">
-                                <div class="d-flex justify-content-center m-2">
-                                    <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
-                                        target="_blank" class="float_wn text-white">
-                                        <i class="fa fa-whatsapp" aria-hidden="true"></i> Whatsapp Now
-                                    </a>
-                                </div>
-                                <div class="d-flex justify-content-center m-2">
-                                    <a href="javascript:void(0);" role="button" data-toggle="modal"
-                                        data-target="#myModal" class="h_btn text-white" id="orderNowButton">
-                                        <i class="fa fa-check-circle" aria-hidden="true"></i> Order Now
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="popup-overlay" id="popup">
-                                <div class="popup-content">
-                                    <span class="close-button" id="closeButton">&times;</span>
-                                    <div class="image-section">
-                                        <img src="/images/popup.jpg" alt="Student studying">
-                                    </div>
-                                    <div class="form-section">
-                                        <div class="form-container">
-                                            <h2>Avail Amazing<br>50% Discount
-                                                Now!</h2>
-                                            <form action="send_email.php" method="POST">
-                                                <input type="text" name="name" placeholder="Name" required>
-                                                <input type="email" name="email" placeholder="Email" required>
-                                                <input type="tel" name="phone" placeholder="Phone Number" required>
-                                                <textarea name="message" placeholder="Your Message" required></textarea>
-
-                                                <button type="submit">Submit</button>
-                                            </form>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <?php include '../footer.php'; ?>
+                                <?php include '../footer.php'; ?>
 
                 </section>
             </main>

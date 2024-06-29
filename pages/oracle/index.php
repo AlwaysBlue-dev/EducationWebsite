@@ -373,7 +373,7 @@
                                                                                                 <a href="/oracle/associate-java-se-8-programmer"
                                                                                                     rel="bookmark"><span
                                                                                                         class="field field--name-title field--type-string field--label-hidden id="
-                                                                                                        chatLink"">Oracle
+                                                                                                        id="chatLink">Oracle
                                                                                                         Certified
                                                                                                         Associate, Java
                                                                                                         SE 8
@@ -460,7 +460,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/oracle/professional-java-se-11-developer"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Oracle
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id="chatLink">Oracle
                                                                                                         Certified
                                                                                                         Professional:
                                                                                                         Java SE 11

@@ -333,7 +333,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/cnd"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Certified
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>Certified
                                                                                                         Network Defender
                                                                                                         (CND)</span>
                                                                                                 </a>
@@ -370,7 +371,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/ecsa"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">EC-Council
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>EC-Council
                                                                                                         Certified
                                                                                                         Security Analyst
                                                                                                         (ECSA)</span>
@@ -409,7 +411,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/cscu"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Certified
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>Certified
                                                                                                         Secure Computer
                                                                                                         User
                                                                                                         (CSCU)</span>
@@ -447,7 +450,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/ctia"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Certified
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>Certified
                                                                                                         Threat
                                                                                                         Intelligence
                                                                                                         Analyst
@@ -488,7 +492,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/ecss"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">EC-Council
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>EC-Council
                                                                                                         Certified
                                                                                                         Security
                                                                                                         Specialist
@@ -531,7 +536,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/eces"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">EC-Council
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>EC-Council
                                                                                                         Certified
                                                                                                         Encryption
                                                                                                         Specialist
@@ -572,7 +578,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/csa"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">Certified
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>Certified
                                                                                                         SOC Analyst
                                                                                                         (CSA)</span>
                                                                                                 </a>
@@ -610,7 +617,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/ecih"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">EC-Council
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>EC-Council
                                                                                                         Certified
                                                                                                         Incident Handler
                                                                                                         (ECIH)</span>
@@ -650,7 +658,8 @@
                                                                                             <h4 class="node__title">
                                                                                                 <a href="/ec-council/edrp"
                                                                                                     rel="bookmark"><span
-                                                                                                        class="field field--name-title field--type-string field--label-hidden">EC-Council
+                                                                                                        class="field field--name-title field--type-string field--label-hidden"
+                                                                                                        id='chatLink'>EC-Council
                                                                                                         Disaster
                                                                                                         Recovery
                                                                                                         Professional
