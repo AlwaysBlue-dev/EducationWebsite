@@ -348,7 +348,7 @@
                                                                             <a href="https://wa.me/+12032921112?text=Hello%20I%27m%20interested%20in%20your%20services"
                                                                                 target="_blank"
                                                                                 class="float_wn text-white">
-                                                                                <i class="fa fa-whatsapp"
+                                                                                <i class="fab fa-whatsapp"
                                                                                     aria-hidden="true"></i> Whatsapp Now
                                                                             </a>
                                                                         </div>
