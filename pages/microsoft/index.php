@@ -948,7 +948,7 @@
                                                                                                     <p><strong>MD-100</strong>
                                                                                                         Windows
                                                                                                         10<br>
-                                                                                                        +�&nbsp;<br><strong>MD-101</strong>
+                                                                                                        +&nbsp;<br><strong>MD-101</strong>
                                                                                                         Managing
                                                                                                         Modern
                                                                                                         Desktops<br>

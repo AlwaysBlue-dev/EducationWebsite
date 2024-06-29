@@ -469,7 +469,7 @@
                                                                                                         - Professional
                                                                                                     </p>
 
-                                                                                                    <p>�&nbsp;</p>
+                                                                                                    <p>&nbsp;</p>
                                                                                                 </div>
                                                                                             </div>
 
@@ -603,7 +603,7 @@
                                                                                                     Exam</div>
                                                                                                 <div
                                                                                                     class="field__item">
-                                                                                                    <p><strong>ANS-C01</strong>�&nbsp;AWS
+                                                                                                    <p><strong>ANS-C01</strong>&nbsp;AWS
                                                                                                         Certified
                                                                                                         Advanced
                                                                                                         Networking -
@@ -692,7 +692,7 @@
                                                                                                         AWS Certified
                                                                                                         Alexa Skill
                                                                                                         Builder -
-                                                                                                        Specialty�&nbsp;
+                                                                                                        Specialty&nbsp;
                                                                                                     </p>
                                                                                                 </div>
                                                                                             </div>
